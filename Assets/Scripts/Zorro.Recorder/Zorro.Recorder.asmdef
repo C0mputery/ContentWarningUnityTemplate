@@ -1,0 +1,9 @@
+{
+  "name": "Zorro.Recorder",
+  "references": [
+    "Unity.Collections",
+    "Zorro.Core.Runtime",
+    "Unity.Burst"
+  ],
+  "allowUnsafeCode": true
+}

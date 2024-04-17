@@ -1,0 +1,9 @@
+{
+  "name": "PhotonVoice.PUN",
+  "references": [
+    "PhotonVoice",
+    "PhotonRealtime",
+    "PhotonUnityNetworking"
+  ],
+  "allowUnsafeCode": true
+}

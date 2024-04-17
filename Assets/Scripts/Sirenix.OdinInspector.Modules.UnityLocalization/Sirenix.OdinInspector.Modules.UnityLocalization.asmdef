@@ -1,0 +1,8 @@
+{
+  "name": "Sirenix.OdinInspector.Modules.UnityLocalization",
+  "references": [
+    "Unity.Localization",
+    "Sirenix.Serialization"
+  ],
+  "allowUnsafeCode": true
+}

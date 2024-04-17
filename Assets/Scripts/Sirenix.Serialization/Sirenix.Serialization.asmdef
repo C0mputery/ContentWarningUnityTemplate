@@ -1,0 +1,7 @@
+{
+  "name": "Sirenix.Serialization",
+  "references": [
+    "Sirenix.Serialization.Config"
+  ],
+  "allowUnsafeCode": true
+}

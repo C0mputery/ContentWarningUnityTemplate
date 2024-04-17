@@ -1,0 +1,11 @@
+{
+  "name": "pworld",
+  "references": [
+    "Unity.Mathematics",
+    "Unity.Splines",
+    "Unity.TextMeshPro",
+    "Unity.Burst",
+    "Unity.Collections"
+  ],
+  "allowUnsafeCode": true
+}

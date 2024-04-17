@@ -1,0 +1,19 @@
+{
+    "name": "Zorro.Settings.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "Unity.Mathematics",
+        "Unity.TextMeshPro",
+        "Zorro.Core.Runtime",
+        "Sirenix.Serialization"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Zorro.UI.Runtime",
+  "references": [
+    "Unity.TextMeshPro",
+    "Zorro.Core.Runtime"
+  ],
+  "allowUnsafeCode": true
+}

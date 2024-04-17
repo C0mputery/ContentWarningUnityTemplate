@@ -1,0 +1,8 @@
+{
+  "name": "HBAO.Universal.Runtime",
+  "references": [
+    "Unity.RenderPipelines.Universal.Runtime",
+    "Unity.RenderPipelines.Core.Runtime"
+  ],
+  "allowUnsafeCode": true
+}

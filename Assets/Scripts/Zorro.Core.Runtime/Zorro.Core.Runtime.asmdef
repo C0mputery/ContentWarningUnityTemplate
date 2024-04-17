@@ -1,0 +1,10 @@
+{
+  "name": "Zorro.Core.Runtime",
+  "references": [
+    "Unity.Mathematics",
+    "Unity.Collections",
+    "Sirenix.Serialization",
+    "Unity.Burst"
+  ],
+  "allowUnsafeCode": true
+}

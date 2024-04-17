@@ -1,0 +1,7 @@
+{
+  "name": "PhotonChat",
+  "references": [
+    "Photon3Unity3D"
+  ],
+  "allowUnsafeCode": true
+}

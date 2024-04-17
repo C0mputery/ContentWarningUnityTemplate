@@ -1,0 +1,8 @@
+{
+  "name": "PhotonUnityNetworking",
+  "references": [
+    "Photon3Unity3D",
+    "PhotonRealtime"
+  ],
+  "allowUnsafeCode": true
+}

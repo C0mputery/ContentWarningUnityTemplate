@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Stone 1
+  - Stone 2
+  - Metal 1
+  - Metal 2
+  - Metal 3
+  - Metal 4
+  - Metal 5
+  - Wood 1
+  - Wood 2
+  - Wood 3
+  - Grass
+  - Dirt
+  - Gravel
+  - Sand
+  - DontBlink
+  - Cloth
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - Prop
+  - Terrain
+  - IgnorePropTerrain
+  - 
+  - 
+  - 
+  - Interactable
+  - Interactible_NoCollide
+  - 
+  - 
+  - 
+  - Jelly
+  - Ghost
+  - 
+  - 
+  - 
+  - Post
+  - Post_Camera
+  - Post_Player
+  - 
+  - LocalDontSee
+  - HandCameraVisibleOnly
+  - Triggers
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

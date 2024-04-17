@@ -1,0 +1,34 @@
+using System.Runtime.CompilerServices;
+using TMPro;
+using UnityEngine;
+
+public class TextChangeSFX : MonoBehaviour
+{
+	public bool usePosition;
+
+	public SFX_Instance textSound;
+
+	private TextMeshProUGUI text;
+
+	private TextMeshPro text2;
+
+	private string prevText;
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	private void Start()
+	{
+		throw null;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	private void Update()
+	{
+		throw null;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	public TextChangeSFX()
+	{
+		throw null;
+	}
+}

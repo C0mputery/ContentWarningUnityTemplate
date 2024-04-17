@@ -1,0 +1,9 @@
+{
+  "name": "Zorro.PhotonUtility",
+  "references": [
+    "Photon3Unity3D",
+    "PhotonRealtime",
+    "Zorro.Core.Runtime"
+  ],
+  "allowUnsafeCode": true
+}
