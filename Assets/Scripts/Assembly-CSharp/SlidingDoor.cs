@@ -71,6 +71,6 @@ public class SlidingDoor : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SlidingDoor()
 	{
-		throw null;
+
 	}
 }

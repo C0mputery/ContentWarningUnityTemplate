@@ -22,7 +22,7 @@ namespace pworld.Scripts.Extensions
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PHourGlass(float timeToFill)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

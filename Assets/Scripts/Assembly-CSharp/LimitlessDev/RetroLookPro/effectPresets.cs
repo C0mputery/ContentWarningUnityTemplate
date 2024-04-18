@@ -13,7 +13,7 @@ namespace LimitlessDev.RetroLookPro
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public effectPresets()
 		{
-			throw null;
+
 		}
 	}
 }

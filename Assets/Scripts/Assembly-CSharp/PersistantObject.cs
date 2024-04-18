@@ -26,6 +26,6 @@ public class PersistantObject : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PersistantObject()
 	{
-		throw null;
+
 	}
 }

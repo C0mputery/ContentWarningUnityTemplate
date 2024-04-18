@@ -32,6 +32,6 @@ public class DimensionSound : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public DimensionSound()
 	{
-		throw null;
+
 	}
 }

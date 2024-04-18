@@ -22,6 +22,6 @@ public class Emotes : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Emotes()
 	{
-		throw null;
+
 	}
 }

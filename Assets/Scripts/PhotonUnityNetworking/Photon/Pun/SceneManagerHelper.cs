@@ -25,7 +25,7 @@ namespace Photon.Pun
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public SceneManagerHelper()
 		{
-			throw null;
+
 		}
 	}
 }

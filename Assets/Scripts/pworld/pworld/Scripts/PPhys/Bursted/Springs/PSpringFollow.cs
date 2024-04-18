@@ -26,7 +26,7 @@ namespace pworld.Scripts.PPhys.Bursted.Springs
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PSpringFollow()
 		{
-			throw null;
+
 		}
 	}
 }

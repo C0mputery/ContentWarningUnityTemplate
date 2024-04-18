@@ -20,13 +20,13 @@ namespace Sirenix.Serialization
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public DelegateFormatter()
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public DelegateFormatter(Type delegateType)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

@@ -44,6 +44,6 @@ public class Bleed : VolumeComponent, IPostProcessComponent
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Bleed()
 	{
-		throw null;
+
 	}
 }

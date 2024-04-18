@@ -99,6 +99,6 @@ public class OldFilm_RLPRO : ScriptableRendererFeature
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public OldFilm_RLPRO()
 	{
-		throw null;
+
 	}
 }

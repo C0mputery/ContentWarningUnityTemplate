@@ -33,7 +33,7 @@ namespace Zorro.Core.CLI
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ConsolePage(List<ConsoleLogEntry> logEntries, DebugUIHandler debugUI, VisualTreeAsset consoleUxmlAsset, VisualTreeAsset logEntryUxmlAsset)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

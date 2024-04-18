@@ -44,7 +44,7 @@ namespace pworld.Scripts.PPhys.Bursted.Rotators
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PRotatorLookAt()
 		{
-			throw null;
+
 		}
 	}
 }

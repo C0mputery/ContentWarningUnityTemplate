@@ -25,6 +25,6 @@ public class HotbarSlotUI : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public HotbarSlotUI()
 	{
-		throw null;
+
 	}
 }

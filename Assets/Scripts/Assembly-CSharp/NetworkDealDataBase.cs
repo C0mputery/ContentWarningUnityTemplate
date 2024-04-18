@@ -41,6 +41,6 @@ public class NetworkDealDataBase : SingletonAsset<NetworkDealDataBase>
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public NetworkDealDataBase()
 	{
-		throw null;
+
 	}
 }

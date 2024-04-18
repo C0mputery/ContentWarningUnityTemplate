@@ -128,6 +128,6 @@ public class DivingBellDoorButton : Interactable
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public DivingBellDoorButton()
 	{
-		throw null;
+
 	}
 }

@@ -147,6 +147,6 @@ public class Bot_Wallo : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Bot_Wallo()
 	{
-		throw null;
+
 	}
 }

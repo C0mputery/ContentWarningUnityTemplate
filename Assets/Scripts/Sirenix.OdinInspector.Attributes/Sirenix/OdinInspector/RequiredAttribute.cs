@@ -15,25 +15,25 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public RequiredAttribute()
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public RequiredAttribute(string errorMessage, InfoMessageType messageType)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public RequiredAttribute(string errorMessage)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public RequiredAttribute(InfoMessageType messageType)
 		{
-			throw null;
+
 		}
 	}
 }

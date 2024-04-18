@@ -84,6 +84,6 @@ public class VHSEffect : VolumeComponent, IPostProcessComponent
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public VHSEffect()
 	{
-		throw null;
+
 	}
 }

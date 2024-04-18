@@ -31,6 +31,6 @@ public class EdgeDetectionSetting : EnumSetting
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public EdgeDetectionSetting()
 	{
-		throw null;
+
 	}
 }

@@ -47,6 +47,6 @@ public class PlayerInteraction : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PlayerInteraction()
 	{
-		throw null;
+
 	}
 }

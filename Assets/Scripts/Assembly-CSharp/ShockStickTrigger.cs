@@ -21,6 +21,6 @@ public class ShockStickTrigger : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ShockStickTrigger()
 	{
-		throw null;
+
 	}
 }

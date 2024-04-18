@@ -9,7 +9,7 @@ namespace Zorro.Core
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ManagedRecord(int initialCapacity)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

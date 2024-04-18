@@ -35,6 +35,6 @@ public class QuotaScreenViewer : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public QuotaScreenViewer()
 	{
-		throw null;
+
 	}
 }

@@ -56,6 +56,6 @@ public class FakeFlashLight : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public FakeFlashLight()
 	{
-		throw null;
+
 	}
 }

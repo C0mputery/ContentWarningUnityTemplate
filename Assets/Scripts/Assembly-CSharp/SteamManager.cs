@@ -74,6 +74,6 @@ public class SteamManager : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SteamManager()
 	{
-		throw null;
+
 	}
 }

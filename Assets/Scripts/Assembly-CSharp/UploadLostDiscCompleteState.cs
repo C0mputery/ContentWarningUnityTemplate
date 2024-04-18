@@ -7,7 +7,7 @@ public class UploadLostDiscCompleteState : UploadVideoStationState
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public UploadLostDiscCompleteState(UploadCompleteUI ui)
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

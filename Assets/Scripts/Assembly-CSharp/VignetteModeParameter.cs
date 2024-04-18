@@ -9,6 +9,6 @@ public sealed class VignetteModeParameter : VolumeParameter<VignetteShape>
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public VignetteModeParameter()
 	{
-		throw null;
+
 	}
 }

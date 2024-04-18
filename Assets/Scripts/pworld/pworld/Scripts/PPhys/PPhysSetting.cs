@@ -15,7 +15,7 @@ namespace pworld.Scripts.PPhys
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PPhysSetting()
 		{
-			throw null;
+
 		}
 	}
 }

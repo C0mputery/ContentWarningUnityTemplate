@@ -90,7 +90,7 @@ namespace Zorro.Recorder
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public VideoRecorder()
 		{
-			throw null;
+
 		}
 	}
 }

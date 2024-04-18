@@ -24,6 +24,6 @@ public class AngularVelocitySound : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public AngularVelocitySound()
 	{
-		throw null;
+
 	}
 }

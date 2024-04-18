@@ -27,7 +27,7 @@ namespace Photon.Voice
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public DeviceEnumeratorNotSupported(ILogger logger, string message) : base(null)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

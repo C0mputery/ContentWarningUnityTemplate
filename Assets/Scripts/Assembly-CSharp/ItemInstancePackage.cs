@@ -40,6 +40,6 @@ public class ItemInstancePackage : CustomCommandPackage<CustomCommandType>
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ItemInstancePackage()
 	{
-		throw null;
+
 	}
 }

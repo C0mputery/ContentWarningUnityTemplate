@@ -33,6 +33,6 @@ public class RecordingPageInitter : SingletonAsset<RecordingPageInitter>
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public RecordingPageInitter()
 	{
-		throw null;
+
 	}
 }

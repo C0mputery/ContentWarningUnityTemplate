@@ -31,7 +31,7 @@ namespace DefaultNamespace.ContentProviders
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ArtifactContentProvider()
 		{
-			throw null;
+
 		}
 	}
 }

@@ -22,7 +22,7 @@ namespace Photon.Realtime
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public EnterRoomParams()
 		{
-			throw null;
+
 		}
 	}
 }

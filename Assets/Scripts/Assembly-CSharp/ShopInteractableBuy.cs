@@ -32,6 +32,6 @@ public class ShopInteractableBuy : Interactable
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ShopInteractableBuy()
 	{
-		throw null;
+
 	}
 }

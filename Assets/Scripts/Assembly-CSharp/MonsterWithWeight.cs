@@ -10,6 +10,6 @@ public class MonsterWithWeight
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public MonsterWithWeight()
 	{
-		throw null;
+
 	}
 }

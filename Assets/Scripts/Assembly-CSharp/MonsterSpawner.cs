@@ -43,6 +43,6 @@ public class MonsterSpawner : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public MonsterSpawner()
 	{
-		throw null;
+
 	}
 }

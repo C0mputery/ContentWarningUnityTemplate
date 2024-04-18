@@ -81,6 +81,6 @@ public class Attack_Throw : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Attack_Throw()
 	{
-		throw null;
+
 	}
 }

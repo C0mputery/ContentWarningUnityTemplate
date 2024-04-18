@@ -47,6 +47,6 @@ public class PlayerSyncer : MonoBehaviour, IPunObservable
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PlayerSyncer()
 	{
-		throw null;
+
 	}
 }

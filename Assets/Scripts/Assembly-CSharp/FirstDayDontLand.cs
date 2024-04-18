@@ -14,6 +14,6 @@ public class FirstDayDontLand : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public FirstDayDontLand()
 	{
-		throw null;
+
 	}
 }

@@ -13,7 +13,7 @@ namespace Sirenix.Utilities
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ImmutableHashSet(HashSet<T> hashSet)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

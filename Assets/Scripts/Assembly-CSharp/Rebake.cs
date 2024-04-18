@@ -14,6 +14,6 @@ public class Rebake : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Rebake()
 	{
-		throw null;
+
 	}
 }

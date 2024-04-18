@@ -92,7 +92,7 @@ namespace Zorro.PhotonUtility
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public CustomCommandListener()
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

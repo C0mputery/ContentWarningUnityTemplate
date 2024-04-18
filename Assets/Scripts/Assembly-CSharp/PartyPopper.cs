@@ -37,6 +37,6 @@ public class PartyPopper : ItemInstanceBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PartyPopper()
 	{
-		throw null;
+
 	}
 }

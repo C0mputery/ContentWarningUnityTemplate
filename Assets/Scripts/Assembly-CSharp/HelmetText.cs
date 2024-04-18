@@ -134,6 +134,6 @@ public class HelmetText : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public HelmetText()
 	{
-		throw null;
+
 	}
 }

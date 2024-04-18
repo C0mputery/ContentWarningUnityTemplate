@@ -51,19 +51,19 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public TabGroupAttribute(string tab, bool useFixedHeight = false, float order = 0f) : base(tab, order)
 		{
-            throw null;
+
         }
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public TabGroupAttribute(string group, string tab, bool useFixedHeight = false, float order = 0f) : base(group, order)
 		{
-            throw null;
+
         }
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public TabGroupAttribute(string group, string tab, SdfIconType icon, bool useFixedHeight = false, float order = 0f) : base(group, order)
 		{
-            throw null;
+
         }
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

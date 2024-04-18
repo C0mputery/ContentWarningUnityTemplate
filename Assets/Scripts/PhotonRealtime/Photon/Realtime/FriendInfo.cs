@@ -81,7 +81,7 @@ namespace Photon.Realtime
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public FriendInfo()
 		{
-			throw null;
+
 		}
 	}
 }

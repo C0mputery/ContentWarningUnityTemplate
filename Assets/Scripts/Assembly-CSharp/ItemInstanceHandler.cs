@@ -58,6 +58,6 @@ public class ItemInstanceHandler : Singleton<ItemInstanceHandler>
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ItemInstanceHandler()
 	{
-		throw null;
+
 	}
 }

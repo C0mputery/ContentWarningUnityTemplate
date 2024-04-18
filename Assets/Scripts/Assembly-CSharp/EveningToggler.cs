@@ -22,6 +22,6 @@ public class EveningToggler : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public EveningToggler()
 	{
-		throw null;
+
 	}
 }

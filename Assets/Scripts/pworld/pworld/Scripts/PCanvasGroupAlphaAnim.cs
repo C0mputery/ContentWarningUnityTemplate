@@ -46,7 +46,7 @@ namespace pworld.Scripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PCanvasGroupAlphaAnim()
 		{
-			throw null;
+
 		}
 	}
 }

@@ -15,13 +15,13 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public MaxValueAttribute(double maxValue)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public MaxValueAttribute(string expression)
 		{
-			throw null;
+
 		}
 	}
 }

@@ -125,7 +125,7 @@ namespace UnityEditor.Localization.Samples
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public LoadingMultipleStringsExample()
 		{
-			throw null;
+
 		}
 	}
 }

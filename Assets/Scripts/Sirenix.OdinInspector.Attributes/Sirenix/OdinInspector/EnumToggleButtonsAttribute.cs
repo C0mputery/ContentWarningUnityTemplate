@@ -10,7 +10,7 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public EnumToggleButtonsAttribute()
 		{
-			throw null;
+
 		}
 	}
 }

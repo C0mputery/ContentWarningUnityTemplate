@@ -16,6 +16,6 @@ public class RandomHole : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public RandomHole()
 	{
-		throw null;
+
 	}
 }

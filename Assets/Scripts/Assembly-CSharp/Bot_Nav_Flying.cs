@@ -20,6 +20,6 @@ public class Bot_Nav_Flying : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Bot_Nav_Flying()
 	{
-		throw null;
+
 	}
 }

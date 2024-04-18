@@ -12,7 +12,7 @@ namespace Sirenix.Serialization
 		[Obsolete("This attribute cannot be used in code, and is only meant to be applied to dynamically emitted assemblies.", true)]
 		public EmittedAssemblyAttribute()
 		{
-			throw null;
+
 		}
 	}
 }

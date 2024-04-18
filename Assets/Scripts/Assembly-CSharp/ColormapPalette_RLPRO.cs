@@ -141,6 +141,6 @@ public class ColormapPalette_RLPRO : ScriptableRendererFeature
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ColormapPalette_RLPRO()
 	{
-		throw null;
+
 	}
 }

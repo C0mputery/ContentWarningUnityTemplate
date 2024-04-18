@@ -20,6 +20,6 @@ public class OnOffEntry : ItemDataEntry
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public OnOffEntry()
 	{
-		throw null;
+
 	}
 }

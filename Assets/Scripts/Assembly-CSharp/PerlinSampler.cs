@@ -32,6 +32,6 @@ public class PerlinSampler
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PerlinSampler()
 	{
-		throw null;
+
 	}
 }

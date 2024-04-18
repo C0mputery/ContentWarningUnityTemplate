@@ -25,13 +25,13 @@ namespace Photon.Voice
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public DeviceFeatures()
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public DeviceFeatures(CameraFacing facing)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

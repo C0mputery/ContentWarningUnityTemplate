@@ -19,7 +19,7 @@ namespace Zorro.Settings.UI
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public FloatSettingUI()
 		{
-			throw null;
+
 		}
 	}
 }

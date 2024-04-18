@@ -90,7 +90,7 @@ namespace SCPE
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public LightStreaks()
 		{
-			throw null;
+
 		}
 	}
 }

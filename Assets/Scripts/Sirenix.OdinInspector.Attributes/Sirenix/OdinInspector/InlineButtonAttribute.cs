@@ -41,13 +41,13 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public InlineButtonAttribute(string action, string label = null)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public InlineButtonAttribute(string action, SdfIconType icon, string label = null)
 		{
-			throw null;
+
 		}
 	}
 }

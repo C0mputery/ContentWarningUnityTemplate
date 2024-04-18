@@ -166,7 +166,7 @@ namespace Photon.Pun
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public MonoBehaviourPunCallbacks()
 		{
-			throw null;
+
 		}
 	}
 }

@@ -26,7 +26,7 @@ namespace Sirenix.Serialization
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public WeakColorBlockFormatter(Type colorBlockType) : base(null)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

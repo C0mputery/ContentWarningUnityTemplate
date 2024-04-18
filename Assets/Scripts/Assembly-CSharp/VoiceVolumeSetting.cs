@@ -10,7 +10,7 @@ public class VoiceVolumeSetting : FloatSetting, IExposedSetting
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public VoiceVolumeSetting(AudioMixerGroup mixerGroup)
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

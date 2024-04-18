@@ -11,7 +11,7 @@ namespace Photon.Voice
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public BufferReaderPushAdapterBase(IDataReader<T> reader)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

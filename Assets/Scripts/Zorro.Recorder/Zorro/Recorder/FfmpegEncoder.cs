@@ -183,7 +183,7 @@ namespace Zorro.Recorder
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public FfmpegEncoder(RecordingSession session)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

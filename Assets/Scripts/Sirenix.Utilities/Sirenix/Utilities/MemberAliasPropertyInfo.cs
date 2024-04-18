@@ -106,13 +106,13 @@ namespace Sirenix.Utilities
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public MemberAliasPropertyInfo(PropertyInfo prop, string namePrefix)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public MemberAliasPropertyInfo(PropertyInfo prop, string namePrefix, string separatorString)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

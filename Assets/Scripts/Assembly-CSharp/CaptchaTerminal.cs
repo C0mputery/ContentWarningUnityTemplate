@@ -47,6 +47,6 @@ public class CaptchaTerminal : Interactable
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public CaptchaTerminal()
 	{
-		throw null;
+
 	}
 }

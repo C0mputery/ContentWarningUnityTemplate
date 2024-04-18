@@ -8,7 +8,7 @@ namespace Ashley.MeshSplitter
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public MeshSplitter()
 		{
-			throw null;
+
 		}
 	}
 }

@@ -58,19 +58,19 @@ namespace WebSocketSharp
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public Logger()
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public Logger(LogLevel level)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public Logger(LogLevel level, string file, Action<LogData, string> output)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

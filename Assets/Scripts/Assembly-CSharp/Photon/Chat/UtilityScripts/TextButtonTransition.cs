@@ -49,7 +49,7 @@ namespace Photon.Chat.UtilityScripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public TextButtonTransition()
 		{
-			throw null;
+
 		}
 	}
 }

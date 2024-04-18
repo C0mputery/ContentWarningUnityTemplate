@@ -8,7 +8,7 @@ public class ExtractMachineCheckItemState : VideoExtractMachineState
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ExtractMachineCheckItemState(ExtractVideoMachine machine) : base(machine)
 	{
-        throw null;
+
     }
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

@@ -96,6 +96,6 @@ public class DiveBellTransitionSound : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public DiveBellTransitionSound()
 	{
-		throw null;
+
 	}
 }

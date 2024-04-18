@@ -82,7 +82,7 @@ namespace SCPE
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public Blur()
 		{
-			throw null;
+
 		}
 	}
 }

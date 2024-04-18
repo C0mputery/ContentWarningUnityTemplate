@@ -18,7 +18,7 @@ namespace Sirenix.Serialization
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public QueueFormatter()
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

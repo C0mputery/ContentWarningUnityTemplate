@@ -36,6 +36,6 @@ public class FaceDatabase : SingletonAsset<FaceDatabase>
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public FaceDatabase()
 	{
-		throw null;
+
 	}
 }

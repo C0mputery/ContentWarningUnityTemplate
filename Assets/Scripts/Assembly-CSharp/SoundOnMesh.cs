@@ -26,6 +26,6 @@ public class SoundOnMesh : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SoundOnMesh()
 	{
-		throw null;
+
 	}
 }

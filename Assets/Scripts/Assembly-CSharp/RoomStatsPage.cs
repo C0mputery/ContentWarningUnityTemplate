@@ -9,7 +9,7 @@ public class RoomStatsPage : DebugPage
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public RoomStatsPage(VisualTreeAsset roomStatsPage, VisualTreeAsset roomStatsCell)
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

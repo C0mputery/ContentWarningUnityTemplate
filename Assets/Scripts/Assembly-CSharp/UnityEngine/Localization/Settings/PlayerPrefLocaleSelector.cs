@@ -38,7 +38,7 @@ namespace UnityEngine.Localization.Settings
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PlayerPrefLocaleSelector()
 		{
-			throw null;
+
 		}
 	}
 }

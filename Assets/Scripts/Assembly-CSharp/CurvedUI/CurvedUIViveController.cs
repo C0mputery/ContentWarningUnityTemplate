@@ -8,7 +8,7 @@ namespace CurvedUI
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public CurvedUIViveController()
 		{
-			throw null;
+
 		}
 	}
 }

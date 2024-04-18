@@ -27,6 +27,6 @@ public class SpringShake : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SpringShake()
 	{
-		throw null;
+
 	}
 }

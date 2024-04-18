@@ -164,7 +164,7 @@ namespace ExitGames.Client.Photon
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public NetworkSimulationSet()
 		{
-			throw null;
+
 		}
 	}
 }

@@ -11,7 +11,7 @@ public class UploadCompleteState : UploadVideoStationState
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public UploadCompleteState(UploadCompleteUI ui)
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

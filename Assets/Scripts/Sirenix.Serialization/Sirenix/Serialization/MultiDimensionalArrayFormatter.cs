@@ -64,7 +64,7 @@ namespace Sirenix.Serialization
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public MultiDimensionalArrayFormatter()
 		{
-			throw null;
+
 		}
 	}
 }

@@ -23,7 +23,7 @@ namespace Photon.Chat.Demo
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ChannelSelector()
 		{
-			throw null;
+
 		}
 	}
 }

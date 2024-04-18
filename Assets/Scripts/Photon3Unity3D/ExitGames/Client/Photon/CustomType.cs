@@ -20,13 +20,13 @@ namespace ExitGames.Client.Photon
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public CustomType(Type type, byte code, SerializeMethod serializeFunction, DeserializeMethod deserializeFunction)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public CustomType(Type type, byte code, SerializeStreamMethod serializeFunction, DeserializeStreamMethod deserializeFunction)
 		{
-			throw null;
+
 		}
 	}
 }

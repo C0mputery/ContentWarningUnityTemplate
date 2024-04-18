@@ -18,6 +18,6 @@ public class MainCameraMovement : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public MainCameraMovement()
 	{
-		throw null;
+
 	}
 }

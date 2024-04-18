@@ -83,6 +83,6 @@ public class Bot_EyeGuy : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Bot_EyeGuy()
 	{
-		throw null;
+
 	}
 }

@@ -37,6 +37,6 @@ public class FreeModifier : ProceduralImageModifier
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public FreeModifier()
 	{
-		throw null;
+
 	}
 }

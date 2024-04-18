@@ -31,7 +31,7 @@ public class DogContentEvent : MonsterContentEvent
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public DogContentEvent()
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

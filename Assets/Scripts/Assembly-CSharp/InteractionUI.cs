@@ -19,6 +19,6 @@ public class InteractionUI : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public InteractionUI()
 	{
-		throw null;
+
 	}
 }

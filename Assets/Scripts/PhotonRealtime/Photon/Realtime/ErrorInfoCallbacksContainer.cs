@@ -10,7 +10,7 @@ namespace Photon.Realtime
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ErrorInfoCallbacksContainer(LoadBalancingClient client)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

@@ -76,7 +76,7 @@ namespace SCPE
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public AmbientOcclusion2DRenderer()
 		{
-			throw null;
+
 		}
 	}
 }

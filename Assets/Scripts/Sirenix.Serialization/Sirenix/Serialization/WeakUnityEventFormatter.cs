@@ -8,7 +8,7 @@ namespace Sirenix.Serialization
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public WeakUnityEventFormatter(Type serializedType) : base(serializedType)
 		{
-            throw null;
+
         }
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

@@ -21,6 +21,6 @@ public class CurseDataBase : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public CurseDataBase()
 	{
-		throw null;
+
 	}
 }

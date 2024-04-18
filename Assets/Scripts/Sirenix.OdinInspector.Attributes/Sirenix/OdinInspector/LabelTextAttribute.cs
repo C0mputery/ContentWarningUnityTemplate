@@ -20,31 +20,31 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public LabelTextAttribute(string text)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public LabelTextAttribute(SdfIconType icon)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public LabelTextAttribute(string text, bool nicifyText)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public LabelTextAttribute(string text, SdfIconType icon)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public LabelTextAttribute(string text, bool nicifyText, SdfIconType icon)
 		{
-			throw null;
+
 		}
 	}
 }

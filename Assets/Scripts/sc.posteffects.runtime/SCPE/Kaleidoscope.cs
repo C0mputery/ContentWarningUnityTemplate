@@ -59,7 +59,7 @@ namespace SCPE
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public Kaleidoscope()
 		{
-			throw null;
+
 		}
 	}
 }

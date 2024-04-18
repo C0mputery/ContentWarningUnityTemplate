@@ -11,6 +11,6 @@ public class BuyEquipmentObjective : Objective
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public BuyEquipmentObjective()
 	{
-		throw null;
+
 	}
 }

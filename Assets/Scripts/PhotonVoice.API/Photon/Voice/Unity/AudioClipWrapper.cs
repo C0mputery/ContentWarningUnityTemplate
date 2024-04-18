@@ -67,7 +67,7 @@ namespace Photon.Voice.Unity
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public AudioClipWrapper(AudioClip audioClip)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

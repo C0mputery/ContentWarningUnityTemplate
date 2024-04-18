@@ -42,6 +42,6 @@ public class Room : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Room()
 	{
-		throw null;
+
 	}
 }

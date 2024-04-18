@@ -31,7 +31,7 @@ public class MouthContentEvent : MonsterContentEvent
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public MouthContentEvent()
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

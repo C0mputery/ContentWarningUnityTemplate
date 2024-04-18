@@ -14,7 +14,7 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ChildGameObjectsOnlyAttribute()
 		{
-			throw null;
+
 		}
 	}
 }

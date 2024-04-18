@@ -25,6 +25,6 @@ public class UniversalBotSounds : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public UniversalBotSounds()
 	{
-		throw null;
+
 	}
 }

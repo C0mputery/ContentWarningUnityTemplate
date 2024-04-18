@@ -66,6 +66,6 @@ public class ItemGooBall : ItemInstanceBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ItemGooBall()
 	{
-		throw null;
+
 	}
 }

@@ -20,6 +20,6 @@ public class DiscordButton : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public DiscordButton()
 	{
-		throw null;
+
 	}
 }

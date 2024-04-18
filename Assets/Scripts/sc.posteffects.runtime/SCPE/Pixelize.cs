@@ -78,7 +78,7 @@ namespace SCPE
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public Pixelize()
 		{
-			throw null;
+
 		}
 	}
 }

@@ -17,13 +17,13 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public BoxGroupAttribute(string group, bool showLabel = true, bool centerLabel = false, float order = 0f) : base(group, order)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public BoxGroupAttribute() : base(null, 69f)
 		{
-            throw null;
+
         }
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

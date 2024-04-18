@@ -24,6 +24,6 @@ public class SimpleMainCameraMovement : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SimpleMainCameraMovement()
 	{
-		throw null;
+
 	}
 }

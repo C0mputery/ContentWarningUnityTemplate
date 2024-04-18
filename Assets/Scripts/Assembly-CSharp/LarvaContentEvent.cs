@@ -31,7 +31,7 @@ public class LarvaContentEvent : MonsterContentEvent
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public LarvaContentEvent()
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

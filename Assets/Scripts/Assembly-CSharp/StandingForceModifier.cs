@@ -16,6 +16,6 @@ public class StandingForceModifier : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public StandingForceModifier()
 	{
-		throw null;
+
 	}
 }

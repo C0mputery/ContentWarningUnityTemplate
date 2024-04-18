@@ -12,7 +12,7 @@ namespace EPOOutline
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public SerializedPassInfoAttribute(string title, string shadersFolder)
 		{
-			throw null;
+
 		}
 	}
 }

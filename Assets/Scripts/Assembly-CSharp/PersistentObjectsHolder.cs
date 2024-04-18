@@ -118,6 +118,6 @@ public class PersistentObjectsHolder : RetrievableSingleton<PersistentObjectsHol
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PersistentObjectsHolder()
 	{
-		throw null;
+
 	}
 }

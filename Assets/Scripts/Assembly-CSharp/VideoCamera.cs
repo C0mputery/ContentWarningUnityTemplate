@@ -294,7 +294,7 @@ public class VideoCamera : ItemInstanceBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public VideoCamera()
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

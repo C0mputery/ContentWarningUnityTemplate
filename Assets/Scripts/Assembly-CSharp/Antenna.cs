@@ -92,6 +92,6 @@ public class Antenna : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Antenna()
 	{
-		throw null;
+
 	}
 }

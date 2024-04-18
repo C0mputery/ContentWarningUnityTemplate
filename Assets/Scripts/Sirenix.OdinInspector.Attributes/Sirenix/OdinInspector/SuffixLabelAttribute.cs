@@ -49,19 +49,19 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public SuffixLabelAttribute(string label, bool overlay = false)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public SuffixLabelAttribute(string label, SdfIconType icon, bool overlay = false)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public SuffixLabelAttribute(SdfIconType icon)
 		{
-			throw null;
+
 		}
 	}
 }

@@ -61,6 +61,6 @@ public class ArtifactRadio : ItemInstanceBehaviour, IArtifactContent
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ArtifactRadio()
 	{
-		throw null;
+
 	}
 }

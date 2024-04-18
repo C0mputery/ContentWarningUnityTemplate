@@ -17,7 +17,7 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public SearchableAttribute()
 		{
-			throw null;
+
 		}
 	}
 }

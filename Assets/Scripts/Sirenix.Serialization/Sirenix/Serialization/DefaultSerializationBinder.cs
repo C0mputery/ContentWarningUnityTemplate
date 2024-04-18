@@ -114,7 +114,7 @@ namespace Sirenix.Serialization
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public DefaultSerializationBinder()
 		{
-			throw null;
+
 		}
 	}
 }

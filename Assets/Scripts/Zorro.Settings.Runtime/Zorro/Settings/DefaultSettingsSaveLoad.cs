@@ -50,7 +50,7 @@ namespace Zorro.Settings
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public DefaultSettingsSaveLoad()
 		{
-			throw null;
+
 		}
 	}
 }

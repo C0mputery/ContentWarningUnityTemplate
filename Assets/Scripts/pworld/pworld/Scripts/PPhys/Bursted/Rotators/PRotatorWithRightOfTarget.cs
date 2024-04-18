@@ -17,7 +17,7 @@ namespace pworld.Scripts.PPhys.Bursted.Rotators
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PRotatorWithRightOfTarget()
 		{
-			throw null;
+
 		}
 	}
 }

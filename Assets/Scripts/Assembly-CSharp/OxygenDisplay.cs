@@ -24,6 +24,6 @@ public class OxygenDisplay : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public OxygenDisplay()
 	{
-		throw null;
+
 	}
 }

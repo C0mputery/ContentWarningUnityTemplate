@@ -9,7 +9,7 @@ namespace pworld.Scripts.Extensions
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public RefStruct(T t)
 		{
-			throw null;
+
 		}
 	}
 }

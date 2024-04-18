@@ -22,7 +22,7 @@ public class VideoDebugPage : DebugPage
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public VideoDebugPage(VisualTreeAsset visualTreeAsset, VisualTreeAsset videoCellTemplate, VisualTreeAsset clipCell, VisualTreeAsset contentCell)
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

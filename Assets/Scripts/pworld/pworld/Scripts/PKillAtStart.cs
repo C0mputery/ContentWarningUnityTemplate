@@ -14,7 +14,7 @@ namespace pworld.Scripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PKillAtStart()
 		{
-			throw null;
+
 		}
 	}
 }

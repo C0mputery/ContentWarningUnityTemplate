@@ -13,7 +13,7 @@ namespace Sirenix.Serialization
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public WeakSerializableFormatter(Type serializedType) : base(serializedType)
 		{
-            throw null;
+
         }
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

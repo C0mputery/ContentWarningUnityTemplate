@@ -15,6 +15,6 @@ public class BigSlapContentProvider : MonsterContentProvider
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public BigSlapContentProvider()
 	{
-		throw null;
+
 	}
 }

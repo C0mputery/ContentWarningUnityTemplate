@@ -27,6 +27,6 @@ public class MonoFunctions : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public MonoFunctions()
 	{
-		throw null;
+
 	}
 }

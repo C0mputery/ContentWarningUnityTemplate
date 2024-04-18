@@ -54,6 +54,6 @@ public class Drone : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Drone()
 	{
-		throw null;
+
 	}
 }

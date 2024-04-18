@@ -139,7 +139,7 @@ namespace Photon.Realtime.Demo
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ConnectAndJoinRandomLb()
 		{
-			throw null;
+
 		}
 	}
 }

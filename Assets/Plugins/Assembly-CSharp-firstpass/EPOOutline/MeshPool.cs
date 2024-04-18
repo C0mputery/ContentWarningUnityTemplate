@@ -25,7 +25,7 @@ namespace EPOOutline
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public MeshPool()
 		{
-			throw null;
+
 		}
 	}
 }

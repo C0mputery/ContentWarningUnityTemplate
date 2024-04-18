@@ -167,6 +167,6 @@ public class RoundArtifactSpawner : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public RoundArtifactSpawner()
 	{
-		throw null;
+
 	}
 }

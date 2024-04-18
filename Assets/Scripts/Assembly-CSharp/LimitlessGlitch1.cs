@@ -66,6 +66,6 @@ public class LimitlessGlitch1 : VolumeComponent, IPostProcessComponent
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public LimitlessGlitch1()
 	{
-		throw null;
+
 	}
 }

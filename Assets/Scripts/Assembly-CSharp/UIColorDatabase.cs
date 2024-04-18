@@ -12,6 +12,6 @@ public class UIColorDatabase : SingletonAsset<UIColorDatabase>
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public UIColorDatabase()
 	{
-		throw null;
+
 	}
 }

@@ -9,6 +9,6 @@ public sealed class preLParameter : VolumeParameter<effectPresets>
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public preLParameter()
 	{
-		throw null;
+
 	}
 }

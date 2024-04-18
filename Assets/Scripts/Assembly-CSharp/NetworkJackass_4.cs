@@ -93,6 +93,6 @@ public class NetworkJackass_4 : NetworkDealBase
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public NetworkJackass_4()
 	{
-		throw null;
+
 	}
 }

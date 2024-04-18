@@ -77,7 +77,7 @@ namespace SCPE
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public LightStreaksRenderer()
 		{
-			throw null;
+
 		}
 	}
 }

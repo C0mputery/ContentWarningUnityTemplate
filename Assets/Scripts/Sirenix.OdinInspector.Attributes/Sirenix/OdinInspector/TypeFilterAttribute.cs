@@ -34,7 +34,7 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public TypeFilterAttribute(string filterGetter)
 		{
-			throw null;
+
 		}
 	}
 }

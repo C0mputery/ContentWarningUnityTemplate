@@ -109,6 +109,6 @@ public class NetworkLongClip_6 : NetworkDealBase
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public NetworkLongClip_6()
 	{
-		throw null;
+
 	}
 }

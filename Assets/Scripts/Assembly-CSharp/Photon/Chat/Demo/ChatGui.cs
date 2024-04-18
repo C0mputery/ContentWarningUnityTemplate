@@ -247,7 +247,7 @@ namespace Photon.Chat.Demo
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ChatGui()
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

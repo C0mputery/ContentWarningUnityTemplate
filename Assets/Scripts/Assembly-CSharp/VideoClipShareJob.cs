@@ -87,6 +87,6 @@ public class VideoClipShareJob
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public VideoClipShareJob(VideoHandle videoHandle, ClipID clipID, int clipOwner, bool isReRequest)
 	{
-		throw null;
+
 	}
 }

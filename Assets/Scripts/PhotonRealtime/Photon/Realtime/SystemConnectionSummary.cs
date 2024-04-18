@@ -62,13 +62,13 @@ namespace Photon.Realtime
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public SystemConnectionSummary(LoadBalancingClient client)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public SystemConnectionSummary(int summary)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

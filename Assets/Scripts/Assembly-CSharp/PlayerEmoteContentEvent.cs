@@ -10,13 +10,13 @@ public class PlayerEmoteContentEvent : PlayerBaseEvent
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PlayerEmoteContentEvent()
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PlayerEmoteContentEvent(string playerName, int actorNumber, Item item)
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

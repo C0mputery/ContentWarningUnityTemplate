@@ -21,13 +21,13 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public OdinRegisterAttributeAttribute(Type attributeType, string category, string description, bool isEnterprise)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public OdinRegisterAttributeAttribute(Type attributeType, string category, string description, bool isEnterprise, string url)
 		{
-			throw null;
+
 		}
 	}
 }

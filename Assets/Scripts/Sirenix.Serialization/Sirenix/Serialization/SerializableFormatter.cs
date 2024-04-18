@@ -49,7 +49,7 @@ namespace Sirenix.Serialization
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public SerializableFormatter()
 		{
-			throw null;
+
 		}
 	}
 }

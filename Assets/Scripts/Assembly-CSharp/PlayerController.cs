@@ -140,6 +140,6 @@ public class PlayerController : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PlayerController()
 	{
-		throw null;
+
 	}
 }

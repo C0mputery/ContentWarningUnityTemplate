@@ -25,6 +25,6 @@ public class WalkRightKeybindSetting : KeyCodeSetting, IExposedSetting
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public WalkRightKeybindSetting()
 	{
-		throw null;
+
 	}
 }

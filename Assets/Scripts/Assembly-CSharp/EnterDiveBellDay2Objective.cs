@@ -11,6 +11,6 @@ public class EnterDiveBellDay2Objective : Objective
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public EnterDiveBellDay2Objective()
 	{
-		throw null;
+
 	}
 }

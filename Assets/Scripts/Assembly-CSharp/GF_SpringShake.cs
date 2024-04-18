@@ -24,6 +24,6 @@ public class GF_SpringShake : Gamefeel
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public GF_SpringShake()
 	{
-		throw null;
+
 	}
 }

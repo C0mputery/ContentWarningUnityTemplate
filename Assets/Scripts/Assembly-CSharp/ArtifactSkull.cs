@@ -52,6 +52,6 @@ public class ArtifactSkull : ItemInstanceBehaviour, IArtifactContent
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ArtifactSkull()
 	{
-		throw null;
+
 	}
 }

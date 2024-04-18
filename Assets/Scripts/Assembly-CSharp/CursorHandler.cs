@@ -14,6 +14,6 @@ public class CursorHandler : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public CursorHandler()
 	{
-		throw null;
+
 	}
 }

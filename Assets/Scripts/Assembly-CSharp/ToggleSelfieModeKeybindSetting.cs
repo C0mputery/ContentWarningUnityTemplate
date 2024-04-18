@@ -25,6 +25,6 @@ public class ToggleSelfieModeKeybindSetting : KeyCodeSetting, IExposedSetting
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ToggleSelfieModeKeybindSetting()
 	{
-		throw null;
+
 	}
 }

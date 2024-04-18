@@ -9,6 +9,6 @@ public sealed class WarpModeParameter : VolumeParameter<WarpMode>
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public WarpModeParameter()
 	{
-		throw null;
+
 	}
 }

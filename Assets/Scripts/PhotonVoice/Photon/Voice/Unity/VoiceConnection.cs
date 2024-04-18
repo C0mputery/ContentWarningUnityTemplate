@@ -350,7 +350,7 @@ namespace Photon.Voice.Unity
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public VoiceConnection()
 		{
-			throw null;
+
 		}
 	}
 }

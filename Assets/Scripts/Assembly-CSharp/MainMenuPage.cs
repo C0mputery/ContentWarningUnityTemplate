@@ -6,6 +6,6 @@ public class MainMenuPage : UIPage
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public MainMenuPage()
 	{
-		throw null;
+
 	}
 }

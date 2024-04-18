@@ -38,7 +38,7 @@ namespace pworld.Scripts.PPhys
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public DefaultTime()
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

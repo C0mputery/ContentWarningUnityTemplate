@@ -24,7 +24,7 @@ namespace pworld.Scripts.PPhys
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PPhysVelocityTurner()
 		{
-			throw null;
+
 		}
 	}
 }

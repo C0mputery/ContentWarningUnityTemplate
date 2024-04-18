@@ -110,6 +110,6 @@ public class PostVolumeHandler : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PostVolumeHandler()
 	{
-		throw null;
+
 	}
 }

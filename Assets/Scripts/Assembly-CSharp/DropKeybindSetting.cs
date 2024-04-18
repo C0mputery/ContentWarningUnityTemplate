@@ -25,6 +25,6 @@ public class DropKeybindSetting : KeyCodeSetting, IExposedSetting
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public DropKeybindSetting()
 	{
-		throw null;
+
 	}
 }

@@ -16,19 +16,19 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public OnCollectionChangedAttribute()
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public OnCollectionChangedAttribute(string after)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public OnCollectionChangedAttribute(string before, string after)
 		{
-			throw null;
+
 		}
 	}
 }

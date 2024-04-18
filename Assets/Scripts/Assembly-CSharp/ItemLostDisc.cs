@@ -35,6 +35,6 @@ public class ItemLostDisc : ItemInstanceBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ItemLostDisc()
 	{
-		throw null;
+
 	}
 }

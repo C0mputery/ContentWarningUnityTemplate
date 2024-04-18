@@ -90,13 +90,13 @@ namespace WebSocketSharp.Net
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ServerSslConfiguration()
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ServerSslConfiguration(ServerSslConfiguration configuration)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

@@ -413,6 +413,6 @@ public class RecordingsHandler : RetrievableSingleton<RecordingsHandler>
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public RecordingsHandler()
 	{
-		throw null;
+
 	}
 }

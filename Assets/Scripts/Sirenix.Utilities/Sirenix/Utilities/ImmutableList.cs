@@ -169,7 +169,7 @@ namespace Sirenix.Utilities
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ImmutableList(IList innerList)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
@@ -375,7 +375,7 @@ namespace Sirenix.Utilities
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ImmutableList(IList<T> innerList)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
@@ -585,7 +585,7 @@ namespace Sirenix.Utilities
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ImmutableList(TList innerList)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

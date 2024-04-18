@@ -177,6 +177,6 @@ public class Bot_Skinny : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Bot_Skinny()
 	{
-		throw null;
+
 	}
 }

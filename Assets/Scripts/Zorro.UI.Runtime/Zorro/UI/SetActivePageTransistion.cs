@@ -13,7 +13,7 @@ namespace Zorro.UI
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public SetActivePageTransistion()
 		{
-			throw null;
+
 		}
 	}
 }

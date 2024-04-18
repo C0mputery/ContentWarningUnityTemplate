@@ -55,7 +55,7 @@ namespace Photon.Voice
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public AudioOutDummy()
 		{
-			throw null;
+
 		}
 	}
 }

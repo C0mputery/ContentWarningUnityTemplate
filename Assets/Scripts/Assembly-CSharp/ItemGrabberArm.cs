@@ -130,6 +130,6 @@ public class ItemGrabberArm : ItemInstanceBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ItemGrabberArm()
 	{
-		throw null;
+
 	}
 }

@@ -22,7 +22,7 @@ public class SpringShakeInstance
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SpringShakeInstance(Vector3 startVel, float spring, float drag, SpringType springType)
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

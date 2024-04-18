@@ -19,7 +19,7 @@ namespace Sirenix.Serialization
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public Int16Serializer()
 		{
-			throw null;
+
 		}
 	}
 }

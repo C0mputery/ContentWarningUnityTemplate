@@ -150,7 +150,7 @@ namespace Photon.Realtime
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ParameterCode()
 		{
-			throw null;
+
 		}
 	}
 }

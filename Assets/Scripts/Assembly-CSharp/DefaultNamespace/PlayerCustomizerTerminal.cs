@@ -33,7 +33,7 @@ namespace DefaultNamespace
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PlayerCustomizerTerminal()
 		{
-			throw null;
+
 		}
 	}
 }

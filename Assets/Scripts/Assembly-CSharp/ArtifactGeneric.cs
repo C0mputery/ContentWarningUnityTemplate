@@ -32,6 +32,6 @@ public class ArtifactGeneric : ItemInstanceBehaviour, IArtifactContent
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ArtifactGeneric()
 	{
-		throw null;
+
 	}
 }

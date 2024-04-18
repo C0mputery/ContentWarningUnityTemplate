@@ -26,7 +26,7 @@ namespace Photon.Voice
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public AudioInChangeNotifierNotSupported(Action callback, ILogger logger)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

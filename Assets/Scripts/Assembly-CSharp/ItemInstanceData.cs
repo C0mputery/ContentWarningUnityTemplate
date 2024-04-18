@@ -13,7 +13,7 @@ public class ItemInstanceData
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ItemInstanceData(Guid guid)
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

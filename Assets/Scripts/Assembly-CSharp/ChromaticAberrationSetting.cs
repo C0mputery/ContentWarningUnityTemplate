@@ -37,6 +37,6 @@ public class ChromaticAberrationSetting : EnumSetting, IExposedSetting
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ChromaticAberrationSetting()
 	{
-		throw null;
+
 	}
 }

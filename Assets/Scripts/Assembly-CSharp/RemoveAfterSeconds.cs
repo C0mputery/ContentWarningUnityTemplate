@@ -16,6 +16,6 @@ public class RemoveAfterSeconds : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public RemoveAfterSeconds()
 	{
-		throw null;
+
 	}
 }

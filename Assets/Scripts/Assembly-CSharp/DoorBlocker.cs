@@ -6,6 +6,6 @@ public class DoorBlocker : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public DoorBlocker()
 	{
-		throw null;
+
 	}
 }

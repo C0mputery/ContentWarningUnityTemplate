@@ -35,6 +35,6 @@ public class LowRes : VolumeComponent, IPostProcessComponent
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public LowRes()
 	{
-		throw null;
+
 	}
 }

@@ -157,7 +157,7 @@ namespace DefaultNamespace
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public Bot_AnglerMimic()
 		{
-			throw null;
+
 		}
 	}
 }

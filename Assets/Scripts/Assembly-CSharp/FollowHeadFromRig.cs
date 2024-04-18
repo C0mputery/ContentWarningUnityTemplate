@@ -22,6 +22,6 @@ public class FollowHeadFromRig : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public FollowHeadFromRig()
 	{
-		throw null;
+
 	}
 }

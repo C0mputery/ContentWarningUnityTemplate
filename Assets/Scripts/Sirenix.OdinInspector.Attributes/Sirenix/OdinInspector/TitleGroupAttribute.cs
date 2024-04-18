@@ -21,7 +21,7 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public TitleGroupAttribute(string title, string subtitle = null, TitleAlignments alignment = TitleAlignments.Left, bool horizontalLine = true, bool boldTitle = true, bool indent = false, float order = 0f) : base(title, order)
 		{
-            throw null;
+
         }
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

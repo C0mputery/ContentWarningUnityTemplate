@@ -154,7 +154,7 @@ namespace Photon.Pun
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PhotonHandler()
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

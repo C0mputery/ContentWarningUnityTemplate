@@ -10,7 +10,7 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public DoNotDrawAsReferenceAttribute()
 		{
-			throw null;
+
 		}
 	}
 }

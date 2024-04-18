@@ -139,6 +139,6 @@ public class Attack_Punch : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Attack_Punch()
 	{
-		throw null;
+
 	}
 }

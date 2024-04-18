@@ -16,7 +16,7 @@ namespace Photon.Voice.Unity
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public AudioInEnumerator(ILogger logger) : base(null)
 		{
-            throw null;
+
         }
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

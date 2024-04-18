@@ -22,6 +22,6 @@ public class SoundBooster : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SoundBooster()
 	{
-		throw null;
+
 	}
 }

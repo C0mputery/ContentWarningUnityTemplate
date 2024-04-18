@@ -57,6 +57,6 @@ public class Attack_Shove : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Attack_Shove()
 	{
-		throw null;
+
 	}
 }

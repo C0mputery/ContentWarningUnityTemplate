@@ -76,6 +76,6 @@ public class Bot_Ear : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Bot_Ear()
 	{
-		throw null;
+
 	}
 }

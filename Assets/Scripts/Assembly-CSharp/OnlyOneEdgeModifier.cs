@@ -56,6 +56,6 @@ public class OnlyOneEdgeModifier : ProceduralImageModifier
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public OnlyOneEdgeModifier()
 	{
-		throw null;
+
 	}
 }

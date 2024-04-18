@@ -32,7 +32,7 @@ namespace Zorro.Recorder
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public RecordingPipe(uint width, uint height, string directory)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

@@ -63,7 +63,7 @@ namespace SCPE
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public TubeDistortion()
 		{
-			throw null;
+
 		}
 	}
 }

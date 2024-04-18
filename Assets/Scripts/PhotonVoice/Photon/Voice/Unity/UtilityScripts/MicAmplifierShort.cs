@@ -40,7 +40,7 @@ namespace Photon.Voice.Unity.UtilityScripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public MicAmplifierShort(float amplificationFactor)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

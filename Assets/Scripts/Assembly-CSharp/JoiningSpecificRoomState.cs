@@ -7,6 +7,6 @@ public class JoiningSpecificRoomState : ConnectionState
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public JoiningSpecificRoomState()
 	{
-		throw null;
+
 	}
 }

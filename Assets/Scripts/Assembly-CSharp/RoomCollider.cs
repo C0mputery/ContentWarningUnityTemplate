@@ -12,6 +12,6 @@ public class RoomCollider : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public RoomCollider()
 	{
-		throw null;
+
 	}
 }

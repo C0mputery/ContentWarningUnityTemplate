@@ -15,7 +15,7 @@ namespace Zorro.Settings.DebugUI
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public EnumSettingsUI(EnumSetting setting, ISettingHandler settingHandler)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

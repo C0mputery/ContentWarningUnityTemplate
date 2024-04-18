@@ -225,7 +225,7 @@ namespace pworld.Scripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PTextLerp()
 		{
-			throw null;
+
 		}
 	}
 }

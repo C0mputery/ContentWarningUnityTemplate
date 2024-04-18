@@ -84,6 +84,6 @@ public class Bodypart : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Bodypart()
 	{
-		throw null;
+
 	}
 }

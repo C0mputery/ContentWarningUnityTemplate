@@ -20,6 +20,6 @@ public class BodypartAnimationTarget : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public BodypartAnimationTarget()
 	{
-		throw null;
+
 	}
 }

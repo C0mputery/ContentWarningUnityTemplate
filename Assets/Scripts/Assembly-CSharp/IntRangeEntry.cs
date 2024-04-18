@@ -22,6 +22,6 @@ public class IntRangeEntry : ItemDataEntry
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public IntRangeEntry()
 	{
-		throw null;
+
 	}
 }

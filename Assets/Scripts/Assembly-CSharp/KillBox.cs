@@ -14,6 +14,6 @@ public class KillBox : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public KillBox()
 	{
-		throw null;
+
 	}
 }

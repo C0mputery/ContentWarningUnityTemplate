@@ -484,7 +484,7 @@ public class CurvedUIInputModule : StandaloneInputModule
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public CurvedUIInputModule()
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

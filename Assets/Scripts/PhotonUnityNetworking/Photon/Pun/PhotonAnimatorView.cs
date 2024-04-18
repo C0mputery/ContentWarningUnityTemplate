@@ -194,7 +194,7 @@ namespace Photon.Pun
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PhotonAnimatorView()
 		{
-			throw null;
+
 		}
 	}
 }

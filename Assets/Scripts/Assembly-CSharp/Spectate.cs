@@ -64,6 +64,6 @@ public class Spectate : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Spectate()
 	{
-		throw null;
+
 	}
 }

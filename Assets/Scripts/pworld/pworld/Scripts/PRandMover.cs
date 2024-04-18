@@ -28,7 +28,7 @@ namespace pworld.Scripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PRandMover()
 		{
-			throw null;
+
 		}
 	}
 }

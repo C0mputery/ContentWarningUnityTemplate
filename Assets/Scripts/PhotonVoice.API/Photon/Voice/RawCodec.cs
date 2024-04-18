@@ -159,7 +159,7 @@ namespace Photon.Voice
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public RawCodec()
 		{
-			throw null;
+
 		}
 	}
 }

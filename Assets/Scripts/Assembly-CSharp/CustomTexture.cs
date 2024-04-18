@@ -37,6 +37,6 @@ public class CustomTexture : VolumeComponent, IPostProcessComponent
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public CustomTexture()
 	{
-		throw null;
+
 	}
 }

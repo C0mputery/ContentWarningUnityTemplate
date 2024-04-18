@@ -33,6 +33,6 @@ public class VoiceRemoteMimic
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public VoiceRemoteMimic()
 	{
-		throw null;
+
 	}
 }

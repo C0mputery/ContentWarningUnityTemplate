@@ -115,6 +115,6 @@ public class NetworkWalletMoney_1 : NetworkDealBase
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public NetworkWalletMoney_1()
 	{
-		throw null;
+
 	}
 }

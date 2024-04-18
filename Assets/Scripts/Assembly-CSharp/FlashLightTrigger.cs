@@ -22,6 +22,6 @@ public class FlashLightTrigger : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public FlashLightTrigger()
 	{
-		throw null;
+
 	}
 }

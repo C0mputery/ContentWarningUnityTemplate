@@ -129,6 +129,6 @@ public class NetworkDealBoss : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public NetworkDealBoss()
 	{
-		throw null;
+
 	}
 }

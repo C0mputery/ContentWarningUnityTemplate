@@ -12,7 +12,7 @@ namespace LimitlessDev.RetroLookPro
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ColorPalettePreset()
 		{
-			throw null;
+
 		}
 	}
 }

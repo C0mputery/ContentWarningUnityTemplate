@@ -35,6 +35,6 @@ public class Flare : ItemInstanceBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Flare()
 	{
-		throw null;
+
 	}
 }

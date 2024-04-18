@@ -64,7 +64,7 @@ namespace pworld.Scripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PCameraLook()
 		{
-			throw null;
+
 		}
 	}
 }

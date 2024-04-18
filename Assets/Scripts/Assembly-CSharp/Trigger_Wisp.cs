@@ -29,6 +29,6 @@ public class Trigger_Wisp : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Trigger_Wisp()
 	{
-		throw null;
+
 	}
 }

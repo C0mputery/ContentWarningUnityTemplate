@@ -13,7 +13,7 @@ namespace ExitGames.Client.Photon
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public UnknownType()
 		{
-			throw null;
+
 		}
 	}
 }

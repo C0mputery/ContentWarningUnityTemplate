@@ -20,6 +20,6 @@ public class SpawnPointsForInventory : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SpawnPointsForInventory()
 	{
-		throw null;
+
 	}
 }

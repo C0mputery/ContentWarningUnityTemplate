@@ -54,19 +54,19 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public InfoBoxAttribute(string message, InfoMessageType infoMessageType = InfoMessageType.Info, string visibleIfMemberName = null)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public InfoBoxAttribute(string message, string visibleIfMemberName)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public InfoBoxAttribute(string message, SdfIconType icon, string visibleIfMemberName = null)
 		{
-			throw null;
+
 		}
 	}
 }

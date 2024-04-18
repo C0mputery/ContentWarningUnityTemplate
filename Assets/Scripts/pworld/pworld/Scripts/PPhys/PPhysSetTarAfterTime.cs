@@ -21,7 +21,7 @@ namespace pworld.Scripts.PPhys
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PPhysSetTarAfterTime()
 		{
-			throw null;
+
 		}
 	}
 }

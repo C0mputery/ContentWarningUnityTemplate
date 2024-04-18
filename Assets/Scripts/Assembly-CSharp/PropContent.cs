@@ -22,6 +22,6 @@ public class PropContent : ScriptableObject
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PropContent()
 	{
-		throw null;
+
 	}
 }

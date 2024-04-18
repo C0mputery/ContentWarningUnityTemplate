@@ -35,13 +35,13 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ShowIfAttribute(string condition, bool animate = true)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ShowIfAttribute(string condition, object optionalValue, bool animate = true)
 		{
-			throw null;
+
 		}
 	}
 }

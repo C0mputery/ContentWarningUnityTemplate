@@ -23,6 +23,6 @@ public class SurfaceCollisionEffect_Spinner : SurfaceCollisionEffect
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SurfaceCollisionEffect_Spinner()
 	{
-		throw null;
+
 	}
 }

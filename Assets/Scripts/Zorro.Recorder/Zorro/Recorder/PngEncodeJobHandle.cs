@@ -13,7 +13,7 @@ namespace Zorro.Recorder
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PngEncodeJobHandle(JobHandle jobHandle, NativeList<byte> outputBuffer)
 		{
-			throw null;
+
 		}
 	}
 }

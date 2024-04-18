@@ -109,6 +109,6 @@ public class NetworkTaunting_3 : NetworkDealBase
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public NetworkTaunting_3()
 	{
-		throw null;
+
 	}
 }

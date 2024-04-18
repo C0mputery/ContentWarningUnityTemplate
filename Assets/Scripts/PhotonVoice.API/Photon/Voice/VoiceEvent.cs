@@ -11,7 +11,7 @@ namespace Photon.Voice
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public VoiceEvent()
 		{
-			throw null;
+
 		}
 	}
 }

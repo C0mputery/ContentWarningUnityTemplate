@@ -22,7 +22,7 @@ namespace Sirenix.Serialization.Utilities
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ReferenceEqualityComparer()
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

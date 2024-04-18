@@ -19,7 +19,7 @@ namespace Sirenix.Serialization
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public SingleSerializer()
 		{
-			throw null;
+
 		}
 	}
 }

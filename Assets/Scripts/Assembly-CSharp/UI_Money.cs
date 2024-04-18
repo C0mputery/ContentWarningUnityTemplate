@@ -21,6 +21,6 @@ public class UI_Money : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public UI_Money()
 	{
-		throw null;
+
 	}
 }

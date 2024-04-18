@@ -40,7 +40,7 @@ namespace pworld.Scripts.Extensions
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public Nullable()
 		{
-			throw null;
+
 		}
 	}
 }

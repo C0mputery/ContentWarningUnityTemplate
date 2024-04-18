@@ -13,6 +13,6 @@ public class KnifoContentProvider : MonsterContentProvider
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public KnifoContentProvider()
 	{
-		throw null;
+
 	}
 }

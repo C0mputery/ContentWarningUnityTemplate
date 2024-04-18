@@ -13,6 +13,6 @@ public class SpiderContentProvider : MonsterContentProvider
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SpiderContentProvider()
 	{
-		throw null;
+
 	}
 }

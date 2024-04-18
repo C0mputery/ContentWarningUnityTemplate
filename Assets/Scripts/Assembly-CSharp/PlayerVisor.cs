@@ -288,7 +288,7 @@ public class PlayerVisor : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PlayerVisor()
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

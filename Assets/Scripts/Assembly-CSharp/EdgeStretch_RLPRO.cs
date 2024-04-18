@@ -93,6 +93,6 @@ public class EdgeStretch_RLPRO : ScriptableRendererFeature
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public EdgeStretch_RLPRO()
 	{
-		throw null;
+
 	}
 }

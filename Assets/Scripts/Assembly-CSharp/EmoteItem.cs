@@ -34,6 +34,6 @@ public class EmoteItem : ItemInstanceBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public EmoteItem()
 	{
-		throw null;
+
 	}
 }

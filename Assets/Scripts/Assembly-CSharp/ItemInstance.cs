@@ -67,6 +67,6 @@ public class ItemInstance : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ItemInstance()
 	{
-		throw null;
+
 	}
 }

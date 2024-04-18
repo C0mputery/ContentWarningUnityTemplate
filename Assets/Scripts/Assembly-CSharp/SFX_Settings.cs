@@ -55,6 +55,6 @@ public class SFX_Settings
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SFX_Settings()
 	{
-		throw null;
+
 	}
 }

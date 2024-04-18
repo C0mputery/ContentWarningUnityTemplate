@@ -55,7 +55,7 @@ namespace Photon.Voice.Unity.UtilityScripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PhotonVoiceStatsGui()
 		{
-			throw null;
+
 		}
 	}
 }

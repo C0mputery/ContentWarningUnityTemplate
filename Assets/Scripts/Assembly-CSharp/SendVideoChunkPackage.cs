@@ -45,6 +45,6 @@ public class SendVideoChunkPackage : CustomCommandPackage<CustomCommandType>
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SendVideoChunkPackage()
 	{
-		throw null;
+
 	}
 }

@@ -40,6 +40,6 @@ public class LifeTimeEntry : ItemDataEntry, IHaveUIData
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public LifeTimeEntry()
 	{
-		throw null;
+
 	}
 }

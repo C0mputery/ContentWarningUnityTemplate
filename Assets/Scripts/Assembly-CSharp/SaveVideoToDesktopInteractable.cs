@@ -31,6 +31,6 @@ public class SaveVideoToDesktopInteractable : Interactable
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SaveVideoToDesktopInteractable()
 	{
-		throw null;
+
 	}
 }

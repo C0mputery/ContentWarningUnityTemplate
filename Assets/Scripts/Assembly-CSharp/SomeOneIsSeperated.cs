@@ -51,6 +51,6 @@ public class SomeOneIsSeperated : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SomeOneIsSeperated()
 	{
-		throw null;
+
 	}
 }

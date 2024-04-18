@@ -8,7 +8,7 @@ namespace Photon.Voice
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public UnsupportedSampleTypeException(Type t)
 		{
-			throw null;
+
 		}
 	}
 }

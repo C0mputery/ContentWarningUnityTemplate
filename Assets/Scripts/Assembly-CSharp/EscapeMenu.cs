@@ -41,6 +41,6 @@ public class EscapeMenu : Singleton<EscapeMenu>
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public EscapeMenu()
 	{
-		throw null;
+
 	}
 }

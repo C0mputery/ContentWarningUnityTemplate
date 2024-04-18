@@ -12,6 +12,6 @@ public class DoorSoundHax : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public DoorSoundHax()
 	{
-		throw null;
+
 	}
 }

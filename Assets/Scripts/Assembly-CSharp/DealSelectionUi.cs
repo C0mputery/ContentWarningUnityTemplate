@@ -16,6 +16,6 @@ public class DealSelectionUi : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public DealSelectionUi()
 	{
-		throw null;
+
 	}
 }

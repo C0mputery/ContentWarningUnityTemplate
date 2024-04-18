@@ -21,6 +21,6 @@ public class ThePlanLocalizer : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ThePlanLocalizer()
 	{
-		throw null;
+
 	}
 }

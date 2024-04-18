@@ -53,7 +53,7 @@ namespace SCPE
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public Scanlines()
 		{
-			throw null;
+
 		}
 	}
 }

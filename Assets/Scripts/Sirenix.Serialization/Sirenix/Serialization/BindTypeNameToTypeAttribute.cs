@@ -13,7 +13,7 @@ namespace Sirenix.Serialization
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public BindTypeNameToTypeAttribute(string oldFullTypeName, Type newType)
 		{
-			throw null;
+
 		}
 	}
 }

@@ -29,7 +29,7 @@ namespace CurvedUI
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public CurvedUITMPSubmesh()
 		{
-			throw null;
+
 		}
 	}
 }

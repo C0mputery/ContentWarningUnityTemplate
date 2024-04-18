@@ -18,6 +18,6 @@ public class FootstepOnOverlap : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public FootstepOnOverlap()
 	{
-		throw null;
+
 	}
 }

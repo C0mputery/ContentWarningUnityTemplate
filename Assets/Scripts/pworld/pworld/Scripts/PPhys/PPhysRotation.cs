@@ -59,7 +59,7 @@ namespace pworld.Scripts.PPhys
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PPhysRotation()
 		{
-			throw null;
+
 		}
 	}
 }

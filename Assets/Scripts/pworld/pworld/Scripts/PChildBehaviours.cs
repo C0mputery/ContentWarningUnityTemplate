@@ -35,7 +35,7 @@ namespace pworld.Scripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PChildBehaviours()
 		{
-			throw null;
+
 		}
 	}
 }

@@ -88,7 +88,7 @@ namespace SCPE
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public HueShift3D()
 		{
-			throw null;
+
 		}
 	}
 }

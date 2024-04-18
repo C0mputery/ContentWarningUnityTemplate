@@ -7,7 +7,7 @@ namespace Photon.Voice
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public DeviceEnumeratorSingleDevice(ILogger logger, string deviceName) : base(null)
 		{
-            throw null;
+
         }
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

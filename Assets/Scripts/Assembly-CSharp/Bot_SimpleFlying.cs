@@ -33,6 +33,6 @@ public class Bot_SimpleFlying : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Bot_SimpleFlying()
 	{
-		throw null;
+
 	}
 }

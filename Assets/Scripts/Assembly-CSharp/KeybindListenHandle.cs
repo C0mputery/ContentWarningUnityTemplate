@@ -9,6 +9,6 @@ public class KeybindListenHandle
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public KeybindListenHandle(Action<KeyCode> onKeycodeSet)
 	{
-		throw null;
+
 	}
 }

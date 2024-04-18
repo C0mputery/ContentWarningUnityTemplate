@@ -20,6 +20,6 @@ public class PlayerGroundPositionTransform : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PlayerGroundPositionTransform()
 	{
-		throw null;
+
 	}
 }

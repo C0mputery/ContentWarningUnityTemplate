@@ -27,6 +27,6 @@ public class StartGameDoorInteractable : Interactable
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public StartGameDoorInteractable()
 	{
-		throw null;
+
 	}
 }

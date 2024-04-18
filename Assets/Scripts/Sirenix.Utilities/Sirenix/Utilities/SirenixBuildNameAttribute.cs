@@ -25,7 +25,7 @@ namespace Sirenix.Utilities
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public SirenixBuildNameAttribute(string buildName)
 		{
-			throw null;
+
 		}
 	}
 }

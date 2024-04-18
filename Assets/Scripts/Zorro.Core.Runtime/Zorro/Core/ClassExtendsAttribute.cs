@@ -25,13 +25,13 @@ namespace Zorro.Core
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ClassExtendsAttribute()
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ClassExtendsAttribute(Type baseType)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

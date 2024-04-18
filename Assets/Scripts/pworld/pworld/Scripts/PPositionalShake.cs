@@ -38,7 +38,7 @@ namespace pworld.Scripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PPositionalShake()
 		{
-			throw null;
+
 		}
 	}
 }

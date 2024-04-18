@@ -44,7 +44,7 @@ namespace pworld.Scripts.PPhys
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PPhysPositional()
 		{
-			throw null;
+
 		}
 	}
 }

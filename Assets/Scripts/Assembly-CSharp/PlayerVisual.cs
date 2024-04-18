@@ -38,6 +38,6 @@ public class PlayerVisual : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PlayerVisual()
 	{
-		throw null;
+
 	}
 }

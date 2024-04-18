@@ -43,13 +43,13 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ToggleGroupAttribute(string toggleMemberName, float order = 0f, string groupTitle = null) : base(toggleMemberName, order)
 		{
-            throw null;
+
         }
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ToggleGroupAttribute(string toggleMemberName, string groupTitle) : base(toggleMemberName)
 		{
-            throw null;
+
         }
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
@@ -57,7 +57,7 @@ namespace Sirenix.OdinInspector
 		[EditorBrowsable(EditorBrowsableState.Never)]
 		public ToggleGroupAttribute(string toggleMemberName, float order, string groupTitle, string titleStringMemberName) : base(toggleMemberName, order)
 		{
-            throw null;
+
         }
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

@@ -23,6 +23,6 @@ public class DealCompleteUi : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public DealCompleteUi()
 	{
-		throw null;
+
 	}
 }

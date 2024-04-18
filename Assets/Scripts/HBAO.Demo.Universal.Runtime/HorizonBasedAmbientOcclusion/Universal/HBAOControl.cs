@@ -40,7 +40,7 @@ namespace HorizonBasedAmbientOcclusion.Universal
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public HBAOControl()
 		{
-			throw null;
+
 		}
 	}
 }

@@ -31,13 +31,13 @@ namespace Zorro.Core.Serizalization
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public BinarySerializer()
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public BinarySerializer(int defaultCapacity, Allocator allocator)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

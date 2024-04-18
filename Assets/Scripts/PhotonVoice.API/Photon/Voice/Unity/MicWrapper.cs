@@ -55,7 +55,7 @@ namespace Photon.Voice.Unity
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public MicWrapper(string device, int suggestedFrequency, ILogger logger)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

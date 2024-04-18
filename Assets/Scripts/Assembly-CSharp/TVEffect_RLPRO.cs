@@ -111,6 +111,6 @@ public class TVEffect_RLPRO : ScriptableRendererFeature
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public TVEffect_RLPRO()
 	{
-		throw null;
+
 	}
 }

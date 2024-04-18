@@ -73,6 +73,6 @@ public class PlayerEmotes : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PlayerEmotes()
 	{
-		throw null;
+
 	}
 }

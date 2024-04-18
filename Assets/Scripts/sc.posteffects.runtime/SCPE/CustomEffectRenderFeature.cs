@@ -65,7 +65,7 @@ namespace SCPE
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public CustomEffectRenderFeature()
 		{
-			throw null;
+
 		}
 	}
 }

@@ -81,6 +81,6 @@ public class CDRom : Interactable
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public CDRom()
 	{
-		throw null;
+
 	}
 }

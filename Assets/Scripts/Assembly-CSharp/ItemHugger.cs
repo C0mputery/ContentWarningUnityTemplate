@@ -61,6 +61,6 @@ public class ItemHugger : ItemInstanceBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ItemHugger()
 	{
-		throw null;
+
 	}
 }

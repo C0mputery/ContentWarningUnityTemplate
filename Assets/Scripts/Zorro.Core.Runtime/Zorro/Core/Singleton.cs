@@ -51,7 +51,7 @@ namespace Zorro.Core
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public Singleton()
 		{
-			throw null;
+
 		}
 	}
 }

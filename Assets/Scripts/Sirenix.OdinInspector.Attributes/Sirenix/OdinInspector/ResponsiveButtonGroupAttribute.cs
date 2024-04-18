@@ -17,7 +17,7 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ResponsiveButtonGroupAttribute(string group = "_DefaultResponsiveButtonGroup") : base(group, 0f)
 		{
-            throw null;
+
         }
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

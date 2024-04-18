@@ -10,7 +10,7 @@ namespace Zorro.Core
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public NativeListRecord(int initialCapacity)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

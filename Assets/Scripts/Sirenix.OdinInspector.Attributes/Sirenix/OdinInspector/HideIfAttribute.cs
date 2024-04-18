@@ -33,13 +33,13 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public HideIfAttribute(string condition, bool animate = true)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public HideIfAttribute(string condition, object optionalValue, bool animate = true)
 		{
-			throw null;
+
 		}
 	}
 }

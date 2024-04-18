@@ -30,6 +30,6 @@ public class IntroScreenAnimator : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public IntroScreenAnimator()
 	{
-		throw null;
+
 	}
 }

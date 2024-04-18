@@ -22,6 +22,6 @@ public class Bot_Fear : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Bot_Fear()
 	{
-		throw null;
+
 	}
 }

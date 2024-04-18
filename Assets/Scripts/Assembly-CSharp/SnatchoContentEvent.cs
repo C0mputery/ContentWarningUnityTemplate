@@ -31,7 +31,7 @@ public class SnatchoContentEvent : MonsterContentEvent
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SnatchoContentEvent()
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

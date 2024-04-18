@@ -34,7 +34,7 @@ namespace Photon.Chat
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ChatPeer(IPhotonPeerListener listener, ConnectionProtocol protocol) : base(listener, protocol)
 		{
-            throw null;
+
         }
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

@@ -18,6 +18,6 @@ public class ScreenResolutionSetting : ResolutionSetting, IExposedSetting
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ScreenResolutionSetting()
 	{
-		throw null;
+
 	}
 }

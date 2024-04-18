@@ -44,6 +44,6 @@ public class CommentUI : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public CommentUI()
 	{
-		throw null;
+
 	}
 }

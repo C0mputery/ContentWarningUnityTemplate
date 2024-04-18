@@ -11,7 +11,7 @@ namespace Zorro.Settings
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public SettingsPage(List<Setting> settings, ISettingHandler settingHandler)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

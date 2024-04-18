@@ -153,6 +153,6 @@ public class PlayerVoiceHandler : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PlayerVoiceHandler()
 	{
-		throw null;
+
 	}
 }

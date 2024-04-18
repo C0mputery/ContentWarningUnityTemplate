@@ -39,7 +39,7 @@ namespace Zorro.Core
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public RetrievableResourceSingleton()
 		{
-			throw null;
+
 		}
 	}
 }

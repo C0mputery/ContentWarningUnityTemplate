@@ -149,6 +149,6 @@ public class PlayerInventory : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PlayerInventory()
 	{
-		throw null;
+
 	}
 }

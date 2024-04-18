@@ -37,7 +37,7 @@ namespace UnityEditor.Localization.Samples
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public LocalizedStringWithChangeHandlerExample()
 		{
-			throw null;
+
 		}
 	}
 }

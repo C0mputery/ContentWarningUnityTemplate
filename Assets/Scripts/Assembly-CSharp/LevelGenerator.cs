@@ -101,6 +101,6 @@ public class LevelGenerator : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public LevelGenerator()
 	{
-		throw null;
+
 	}
 }

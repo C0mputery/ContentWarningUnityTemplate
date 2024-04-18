@@ -12,7 +12,7 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public HideInPlayModeAttribute()
 		{
-			throw null;
+
 		}
 	}
 }

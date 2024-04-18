@@ -18,6 +18,6 @@ public class ResetCharacters : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ResetCharacters()
 	{
-		throw null;
+
 	}
 }

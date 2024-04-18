@@ -36,7 +36,7 @@ namespace pworld.Scripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PRigVelocityTurner()
 		{
-			throw null;
+
 		}
 	}
 }

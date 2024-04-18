@@ -12,7 +12,7 @@ namespace Zorro.Settings.DebugUI
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public IntSettingUI(IntSetting setting, ISettingHandler settingHandler)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

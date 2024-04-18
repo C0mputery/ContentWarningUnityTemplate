@@ -26,7 +26,7 @@ public class DebugRecordingCell : VisualElement
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public DebugRecordingCell(VisualTreeAsset visualTreeAsset, VisualTreeAsset clipCell, VisualTreeAsset contentCell, CameraRecording cameraRecording)
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

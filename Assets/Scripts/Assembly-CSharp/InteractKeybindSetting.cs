@@ -25,6 +25,6 @@ public class InteractKeybindSetting : KeyCodeSetting, IExposedSetting
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public InteractKeybindSetting()
 	{
-		throw null;
+
 	}
 }

@@ -121,6 +121,6 @@ public class VHSEffect_RLPRO : ScriptableRendererFeature
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public VHSEffect_RLPRO()
 	{
-		throw null;
+
 	}
 }

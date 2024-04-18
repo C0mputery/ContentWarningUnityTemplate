@@ -77,6 +77,6 @@ public class VoiceSetting : Setting, IExposedSetting
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public VoiceSetting()
 	{
-		throw null;
+
 	}
 }

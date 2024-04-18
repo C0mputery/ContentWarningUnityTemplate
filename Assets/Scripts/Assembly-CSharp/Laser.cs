@@ -22,6 +22,6 @@ public class Laser : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Laser()
 	{
-		throw null;
+
 	}
 }

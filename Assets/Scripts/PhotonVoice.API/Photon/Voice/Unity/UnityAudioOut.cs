@@ -21,7 +21,7 @@ namespace Photon.Voice.Unity
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public UnityAudioOut(AudioSource audioSource, PlayDelayConfig playDelayConfig, ILogger logger, string logPrefix, bool debugInfo) : base(false, new PlayDelayConfig(), null, null, false)
 		{
-            throw null;
+
         }
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

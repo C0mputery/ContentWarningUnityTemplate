@@ -29,7 +29,7 @@ namespace WebSocketSharp.Net
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public CookieException()
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

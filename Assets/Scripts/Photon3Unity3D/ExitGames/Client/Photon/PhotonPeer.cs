@@ -856,13 +856,13 @@ namespace ExitGames.Client.Photon
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PhotonPeer(ConnectionProtocol protocolType)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PhotonPeer(IPhotonPeerListener listener, ConnectionProtocol protocolType)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

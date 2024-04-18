@@ -25,6 +25,6 @@ public class RenderScaleSetting : FloatSetting
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public RenderScaleSetting()
 	{
-		throw null;
+
 	}
 }

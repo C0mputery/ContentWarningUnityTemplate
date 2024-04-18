@@ -20,6 +20,6 @@ public class Door : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Door()
 	{
-		throw null;
+
 	}
 }

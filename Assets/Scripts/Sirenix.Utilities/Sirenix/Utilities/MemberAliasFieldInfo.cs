@@ -97,13 +97,13 @@ namespace Sirenix.Utilities
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public MemberAliasFieldInfo(FieldInfo field, string namePrefix)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public MemberAliasFieldInfo(FieldInfo field, string namePrefix, string separatorString)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

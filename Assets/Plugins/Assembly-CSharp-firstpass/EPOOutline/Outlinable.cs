@@ -363,7 +363,7 @@ namespace EPOOutline
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public Outlinable()
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

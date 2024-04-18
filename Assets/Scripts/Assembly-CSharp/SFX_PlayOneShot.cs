@@ -51,6 +51,6 @@ public class SFX_PlayOneShot : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SFX_PlayOneShot()
 	{
-		throw null;
+
 	}
 }

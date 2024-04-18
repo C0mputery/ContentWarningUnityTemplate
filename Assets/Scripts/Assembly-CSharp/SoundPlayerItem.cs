@@ -40,6 +40,6 @@ public class SoundPlayerItem : ItemInstanceBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SoundPlayerItem()
 	{
-		throw null;
+
 	}
 }

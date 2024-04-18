@@ -61,6 +61,6 @@ public class MainMenuMainPage : MainMenuPage
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public MainMenuMainPage()
 	{
-		throw null;
+
 	}
 }

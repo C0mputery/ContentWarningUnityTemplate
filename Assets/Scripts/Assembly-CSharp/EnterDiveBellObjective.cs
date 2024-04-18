@@ -11,6 +11,6 @@ public class EnterDiveBellObjective : Objective
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public EnterDiveBellObjective()
 	{
-		throw null;
+
 	}
 }

@@ -49,6 +49,6 @@ public class SFX_Instance : ScriptableObject
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SFX_Instance()
 	{
-		throw null;
+
 	}
 }

@@ -113,6 +113,6 @@ public class Glitch2 : ScriptableRendererFeature
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Glitch2()
 	{
-		throw null;
+
 	}
 }

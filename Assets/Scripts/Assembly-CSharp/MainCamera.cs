@@ -51,6 +51,6 @@ public class MainCamera : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public MainCamera()
 	{
-		throw null;
+
 	}
 }

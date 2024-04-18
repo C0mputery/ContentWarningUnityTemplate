@@ -38,7 +38,7 @@ namespace pworld.Scripts.IPPointer
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public IPPointerDebug()
 		{
-			throw null;
+
 		}
 	}
 }

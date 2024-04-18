@@ -94,7 +94,7 @@ namespace SCPE
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public Gradient()
 		{
-			throw null;
+
 		}
 	}
 }

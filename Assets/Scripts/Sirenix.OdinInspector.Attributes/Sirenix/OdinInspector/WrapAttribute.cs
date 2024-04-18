@@ -15,7 +15,7 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public WrapAttribute(double min, double max)
 		{
-			throw null;
+
 		}
 	}
 }

@@ -25,6 +25,6 @@ public class ConnectionStateHandler : RetrievableSingleton<ConnectionStateHandle
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ConnectionStateHandler()
 	{
-		throw null;
+
 	}
 }

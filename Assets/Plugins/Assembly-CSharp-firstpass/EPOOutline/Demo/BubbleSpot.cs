@@ -158,7 +158,7 @@ namespace EPOOutline.Demo
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public BubbleSpot()
 		{
-			throw null;
+
 		}
 	}
 }

@@ -264,6 +264,6 @@ public class ExtractVideoMachine : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ExtractVideoMachine()
 	{
-		throw null;
+
 	}
 }

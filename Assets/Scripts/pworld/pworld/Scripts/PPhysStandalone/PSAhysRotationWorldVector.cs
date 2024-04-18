@@ -38,7 +38,7 @@ namespace pworld.Scripts.PPhysStandalone
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PSAhysRotationWorldVector()
 		{
-			throw null;
+
 		}
 	}
 }

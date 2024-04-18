@@ -15,6 +15,6 @@ public class FlickerContentProvider : MonsterContentProvider
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public FlickerContentProvider()
 	{
-		throw null;
+
 	}
 }

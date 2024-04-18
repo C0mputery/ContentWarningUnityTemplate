@@ -13,7 +13,7 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public DisallowModificationsInAttribute(PrefabKind kind)
 		{
-			throw null;
+
 		}
 	}
 }

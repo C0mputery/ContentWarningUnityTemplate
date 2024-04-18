@@ -130,6 +130,6 @@ public class Pickup : Interactable
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Pickup()
 	{
-		throw null;
+
 	}
 }

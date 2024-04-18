@@ -63,6 +63,6 @@ public class ExplodedGoop : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ExplodedGoop()
 	{
-		throw null;
+
 	}
 }

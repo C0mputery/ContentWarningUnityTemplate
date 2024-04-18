@@ -36,7 +36,7 @@ namespace pworld.Scripts.PPhys.Bursted.Rotators
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PRotatorLocal()
 		{
-			throw null;
+
 		}
 	}
 }

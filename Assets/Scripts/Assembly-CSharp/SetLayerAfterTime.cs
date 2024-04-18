@@ -84,6 +84,6 @@ public class SetLayerAfterTime : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SetLayerAfterTime()
 	{
-		throw null;
+
 	}
 }

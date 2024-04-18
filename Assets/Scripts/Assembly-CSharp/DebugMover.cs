@@ -16,6 +16,6 @@ public class DebugMover : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public DebugMover()
 	{
-		throw null;
+
 	}
 }

@@ -36,6 +36,6 @@ public class KeyCodeSettingUI : SettingInputUICell
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public KeyCodeSettingUI()
 	{
-		throw null;
+
 	}
 }

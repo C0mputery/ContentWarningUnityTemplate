@@ -22,6 +22,6 @@ public class BatteryDisplay : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public BatteryDisplay()
 	{
-		throw null;
+
 	}
 }

@@ -34,6 +34,6 @@ public class ActivateNextSharingJobPackage : CustomCommandPackage<CustomCommandT
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ActivateNextSharingJobPackage()
 	{
-		throw null;
+
 	}
 }

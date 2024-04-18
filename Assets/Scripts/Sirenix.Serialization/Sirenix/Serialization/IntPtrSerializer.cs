@@ -20,7 +20,7 @@ namespace Sirenix.Serialization
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public IntPtrSerializer()
 		{
-			throw null;
+
 		}
 	}
 }

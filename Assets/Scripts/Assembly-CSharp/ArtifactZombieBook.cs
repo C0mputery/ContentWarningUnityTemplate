@@ -47,6 +47,6 @@ public class ArtifactZombieBook : ItemInstanceBehaviour, IArtifactContent
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ArtifactZombieBook()
 	{
-		throw null;
+
 	}
 }

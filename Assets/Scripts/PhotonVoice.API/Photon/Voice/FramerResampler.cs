@@ -134,7 +134,7 @@ namespace Photon.Voice
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public FramerResampler(int frameSize, int channels, int resampleNum, int resampleDen, bool interpolate) : base(frameSize)
 		{
-            throw null;
+
         }
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

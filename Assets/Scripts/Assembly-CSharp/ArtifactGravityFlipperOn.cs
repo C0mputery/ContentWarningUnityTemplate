@@ -36,6 +36,6 @@ public class ArtifactGravityFlipperOn : ItemInstanceBehaviour, ISpawnedByArtifac
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ArtifactGravityFlipperOn()
 	{
-		throw null;
+
 	}
 }

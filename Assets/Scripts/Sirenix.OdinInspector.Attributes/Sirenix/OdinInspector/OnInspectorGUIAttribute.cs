@@ -25,19 +25,19 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public OnInspectorGUIAttribute()
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public OnInspectorGUIAttribute(string action, bool append = true)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public OnInspectorGUIAttribute(string prepend, string append)
 		{
-			throw null;
+
 		}
 	}
 }

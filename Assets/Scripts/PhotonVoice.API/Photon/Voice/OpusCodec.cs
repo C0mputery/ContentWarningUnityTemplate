@@ -216,7 +216,7 @@ namespace Photon.Voice
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public OpusCodec()
 		{
-			throw null;
+
 		}
 	}
 }

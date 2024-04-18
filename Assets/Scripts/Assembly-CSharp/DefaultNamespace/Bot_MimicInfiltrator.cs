@@ -336,7 +336,7 @@ namespace DefaultNamespace
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public Bot_MimicInfiltrator()
 		{
-			throw null;
+
 		}
 	}
 }

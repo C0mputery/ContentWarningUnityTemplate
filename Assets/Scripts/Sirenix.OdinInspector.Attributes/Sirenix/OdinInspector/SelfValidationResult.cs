@@ -110,7 +110,7 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public SelfValidationResult()
 		{
-			throw null;
+
 		}
 	}
 }

@@ -10,7 +10,7 @@ public class SFXVolumeSetting : FloatSetting, IExposedSetting
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SFXVolumeSetting(AudioMixerGroup mixerGroup)
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

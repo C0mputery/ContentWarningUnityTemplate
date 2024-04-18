@@ -70,7 +70,7 @@ public class MimicTarget
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public MimicTarget(Vector3 localPos, Transform voiceParent, GameObject remoteVoice, Transform overrideParent)
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

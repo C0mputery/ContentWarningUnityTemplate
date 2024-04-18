@@ -12,6 +12,6 @@ public class EditorLight : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public EditorLight()
 	{
-		throw null;
+
 	}
 }

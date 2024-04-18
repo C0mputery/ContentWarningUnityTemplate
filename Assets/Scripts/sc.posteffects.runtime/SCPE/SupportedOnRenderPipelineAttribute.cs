@@ -9,7 +9,7 @@ namespace SCPE
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public SupportedOnRenderPipelineAttribute(params Type[] renderPipeline)
 		{
-			throw null;
+
 		}
 	}
 }

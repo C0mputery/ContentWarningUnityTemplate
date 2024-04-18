@@ -34,7 +34,7 @@ namespace Sirenix.Serialization
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public KeyframeFormatter()
 		{
-			throw null;
+
 		}
 	}
 }

@@ -93,6 +93,6 @@ public class NetworkMakeAStar_7 : NetworkDealBase
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public NetworkMakeAStar_7()
 	{
-		throw null;
+
 	}
 }

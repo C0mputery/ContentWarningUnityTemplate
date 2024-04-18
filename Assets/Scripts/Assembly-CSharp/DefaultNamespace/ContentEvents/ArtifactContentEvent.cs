@@ -50,7 +50,7 @@ namespace DefaultNamespace.ContentEvents
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ArtifactContentEvent()
 		{
-			throw null;
+
 		}
 	}
 }

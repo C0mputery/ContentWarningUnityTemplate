@@ -8,7 +8,7 @@ public class UploadingVideoState : UploadVideoStationState
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public UploadingVideoState(GameObject ui)
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

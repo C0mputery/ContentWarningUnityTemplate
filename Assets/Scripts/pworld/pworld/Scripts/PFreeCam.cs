@@ -30,7 +30,7 @@ namespace pworld.Scripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PFreeCam()
 		{
-			throw null;
+
 		}
 	}
 }

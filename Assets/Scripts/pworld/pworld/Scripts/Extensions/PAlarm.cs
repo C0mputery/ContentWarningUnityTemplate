@@ -101,7 +101,7 @@ namespace pworld.Scripts.Extensions
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PAlarm(MonoBehaviour host_, Action start_, Action end_)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

@@ -118,7 +118,7 @@ namespace UnityEditor.Localization.Samples
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public StringDatabaseGetLocalizedStringExample()
 		{
-			throw null;
+
 		}
 	}
 }

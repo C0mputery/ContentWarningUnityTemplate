@@ -72,7 +72,7 @@ public class SteamLobbyHandler
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SteamLobbyHandler(Action<string, string, bool> onJoinedRoomAction, int maxPlayers, bool useSteamNetwork)
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

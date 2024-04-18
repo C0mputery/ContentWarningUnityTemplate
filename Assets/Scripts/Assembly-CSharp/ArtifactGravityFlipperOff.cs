@@ -22,6 +22,6 @@ public class ArtifactGravityFlipperOff : ItemInstanceBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ArtifactGravityFlipperOff()
 	{
-		throw null;
+
 	}
 }

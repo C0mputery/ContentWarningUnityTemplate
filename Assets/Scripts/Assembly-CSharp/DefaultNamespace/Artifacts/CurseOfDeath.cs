@@ -68,7 +68,7 @@ namespace DefaultNamespace.Artifacts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public CurseOfDeath()
 		{
-			throw null;
+
 		}
 	}
 }

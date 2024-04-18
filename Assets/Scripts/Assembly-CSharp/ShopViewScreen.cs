@@ -196,6 +196,6 @@ public class ShopViewScreen : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ShopViewScreen()
 	{
-		throw null;
+
 	}
 }

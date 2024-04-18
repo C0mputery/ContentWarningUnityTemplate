@@ -18,6 +18,6 @@ public class CameraRespawnPoint : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public CameraRespawnPoint()
 	{
-		throw null;
+
 	}
 }

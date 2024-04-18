@@ -50,6 +50,6 @@ public class ShadowQualitySetting : EnumSetting, IExposedSetting
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ShadowQualitySetting()
 	{
-		throw null;
+
 	}
 }

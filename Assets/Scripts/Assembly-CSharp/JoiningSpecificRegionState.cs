@@ -9,6 +9,6 @@ public class JoiningSpecificRegionState : ConnectionState
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public JoiningSpecificRegionState()
 	{
-		throw null;
+
 	}
 }

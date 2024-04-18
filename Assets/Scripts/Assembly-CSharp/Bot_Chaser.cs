@@ -85,6 +85,6 @@ public class Bot_Chaser : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Bot_Chaser()
 	{
-		throw null;
+
 	}
 }

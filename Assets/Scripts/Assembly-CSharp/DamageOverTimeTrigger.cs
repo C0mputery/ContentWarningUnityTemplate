@@ -17,6 +17,6 @@ public class DamageOverTimeTrigger : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public DamageOverTimeTrigger()
 	{
-		throw null;
+
 	}
 }

@@ -58,7 +58,7 @@ namespace Zorro.Core.SmallShadows
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public SmallShadowHandler()
 		{
-			throw null;
+
 		}
 	}
 }

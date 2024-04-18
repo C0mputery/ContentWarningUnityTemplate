@@ -23,6 +23,6 @@ public class UI_Views : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public UI_Views()
 	{
-		throw null;
+
 	}
 }

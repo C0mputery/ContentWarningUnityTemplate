@@ -81,7 +81,7 @@ namespace SCPE
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public LensFlaresRenderer()
 		{
-			throw null;
+
 		}
 	}
 }

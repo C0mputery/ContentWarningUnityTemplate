@@ -39,7 +39,7 @@ public class InventorySlot
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public InventorySlot(int slotID, PlayerInventory playerInventory)
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

@@ -78,6 +78,6 @@ public class Bed : Interactable
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Bed()
 	{
-		throw null;
+
 	}
 }

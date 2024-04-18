@@ -8,6 +8,6 @@ public class SpawnPoint : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SpawnPoint()
 	{
-		throw null;
+
 	}
 }

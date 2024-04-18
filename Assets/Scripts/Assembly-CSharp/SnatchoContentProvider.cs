@@ -13,6 +13,6 @@ public class SnatchoContentProvider : MonsterContentProvider
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SnatchoContentProvider()
 	{
-		throw null;
+
 	}
 }

@@ -34,6 +34,6 @@ public class Bot_Drag : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Bot_Drag()
 	{
-		throw null;
+
 	}
 }

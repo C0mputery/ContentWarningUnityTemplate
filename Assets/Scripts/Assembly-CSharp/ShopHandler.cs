@@ -312,6 +312,6 @@ public class ShopHandler : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ShopHandler()
 	{
-		throw null;
+
 	}
 }

@@ -34,7 +34,7 @@ namespace pworld.Scripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PKeepInScreen()
 		{
-			throw null;
+
 		}
 	}
 }

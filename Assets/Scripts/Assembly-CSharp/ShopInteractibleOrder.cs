@@ -17,6 +17,6 @@ public class ShopInteractibleOrder : Interactable
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ShopInteractibleOrder()
 	{
-		throw null;
+
 	}
 }

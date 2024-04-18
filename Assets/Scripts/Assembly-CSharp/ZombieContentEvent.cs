@@ -31,7 +31,7 @@ public class ZombieContentEvent : MonsterContentEvent
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ZombieContentEvent()
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

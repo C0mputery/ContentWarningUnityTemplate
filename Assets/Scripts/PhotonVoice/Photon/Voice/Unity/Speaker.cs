@@ -201,7 +201,7 @@ namespace Photon.Voice.Unity
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public Speaker()
 		{
-			throw null;
+
 		}
 	}
 }

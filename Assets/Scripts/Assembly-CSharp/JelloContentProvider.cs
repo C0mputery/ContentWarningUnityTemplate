@@ -13,6 +13,6 @@ public class JelloContentProvider : MonsterContentProvider
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public JelloContentProvider()
 	{
-		throw null;
+
 	}
 }

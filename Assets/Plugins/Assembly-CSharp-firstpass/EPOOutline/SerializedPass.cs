@@ -191,7 +191,7 @@ namespace EPOOutline
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public SerializedPass()
 		{
-			throw null;
+
 		}
 	}
 }

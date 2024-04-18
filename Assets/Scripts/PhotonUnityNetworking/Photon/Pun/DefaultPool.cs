@@ -23,7 +23,7 @@ namespace Photon.Pun
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public DefaultPool()
 		{
-			throw null;
+
 		}
 	}
 }

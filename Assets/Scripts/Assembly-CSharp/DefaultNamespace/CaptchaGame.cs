@@ -169,7 +169,7 @@ namespace DefaultNamespace
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public CaptchaGame()
 		{
-			throw null;
+
 		}
 	}
 }

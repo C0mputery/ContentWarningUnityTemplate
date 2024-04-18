@@ -53,7 +53,7 @@ namespace pworld.Scripts.PPhys
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PPhysRotationLocal()
 		{
-			throw null;
+
 		}
 	}
 }

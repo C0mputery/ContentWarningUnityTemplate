@@ -66,7 +66,7 @@ namespace SCPE
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public Kuwahara()
 		{
-			throw null;
+
 		}
 	}
 }

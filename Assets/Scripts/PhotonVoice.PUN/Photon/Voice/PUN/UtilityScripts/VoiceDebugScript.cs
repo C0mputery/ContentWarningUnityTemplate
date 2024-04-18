@@ -70,7 +70,7 @@ namespace Photon.Voice.PUN.UtilityScripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public VoiceDebugScript()
 		{
-			throw null;
+
 		}
 	}
 }

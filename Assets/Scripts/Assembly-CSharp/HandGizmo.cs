@@ -12,6 +12,6 @@ public class HandGizmo : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public HandGizmo()
 	{
-		throw null;
+
 	}
 }

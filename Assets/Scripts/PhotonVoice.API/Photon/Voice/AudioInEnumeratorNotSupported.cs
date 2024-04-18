@@ -7,7 +7,7 @@ namespace Photon.Voice
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public AudioInEnumeratorNotSupported(ILogger logger) : base(null, null)
 		{
-			throw null;
+
 		}
 	}
 }

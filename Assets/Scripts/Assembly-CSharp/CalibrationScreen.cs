@@ -150,6 +150,6 @@ public class CalibrationScreen : RetrievableResourceSingleton<CalibrationScreen>
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public CalibrationScreen()
 	{
-		throw null;
+
 	}
 }

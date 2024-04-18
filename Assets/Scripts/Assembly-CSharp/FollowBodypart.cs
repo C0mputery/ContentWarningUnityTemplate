@@ -14,6 +14,6 @@ public class FollowBodypart : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public FollowBodypart()
 	{
-		throw null;
+
 	}
 }

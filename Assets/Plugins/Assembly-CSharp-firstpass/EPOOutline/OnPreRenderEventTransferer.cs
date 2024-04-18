@@ -26,7 +26,7 @@ namespace EPOOutline
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public OnPreRenderEventTransferer()
 		{
-			throw null;
+
 		}
 	}
 }

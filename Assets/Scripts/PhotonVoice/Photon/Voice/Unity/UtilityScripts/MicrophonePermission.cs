@@ -56,7 +56,7 @@ namespace Photon.Voice.Unity.UtilityScripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public MicrophonePermission()
 		{
-			throw null;
+
 		}
 	}
 }

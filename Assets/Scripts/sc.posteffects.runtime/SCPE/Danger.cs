@@ -49,7 +49,7 @@ namespace SCPE
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public Danger()
 		{
-			throw null;
+
 		}
 	}
 }

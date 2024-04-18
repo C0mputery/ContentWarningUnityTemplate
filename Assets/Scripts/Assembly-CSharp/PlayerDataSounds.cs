@@ -74,6 +74,6 @@ public class PlayerDataSounds : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PlayerDataSounds()
 	{
-		throw null;
+
 	}
 }

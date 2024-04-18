@@ -21,6 +21,6 @@ public class LanguageSelectStartup : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public LanguageSelectStartup()
 	{
-		throw null;
+
 	}
 }

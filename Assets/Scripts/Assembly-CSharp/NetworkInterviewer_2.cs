@@ -93,6 +93,6 @@ public class NetworkInterviewer_2 : NetworkDealBase
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public NetworkInterviewer_2()
 	{
-		throw null;
+
 	}
 }

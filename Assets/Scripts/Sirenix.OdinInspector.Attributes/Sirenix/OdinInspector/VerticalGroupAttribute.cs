@@ -15,13 +15,13 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public VerticalGroupAttribute(string groupId, float order = 0f) : base(groupId, order)
 		{
-            throw null;
+
         }
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public VerticalGroupAttribute(float order = 0f) : base(null, order)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

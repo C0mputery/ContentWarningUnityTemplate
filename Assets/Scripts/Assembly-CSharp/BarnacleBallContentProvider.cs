@@ -13,6 +13,6 @@ public class BarnacleBallContentProvider : MonsterContentProvider
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public BarnacleBallContentProvider()
 	{
-		throw null;
+
 	}
 }

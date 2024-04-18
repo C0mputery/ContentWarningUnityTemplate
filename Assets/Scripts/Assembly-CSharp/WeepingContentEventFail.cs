@@ -31,7 +31,7 @@ public class WeepingContentEventFail : MonsterContentEvent
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public WeepingContentEventFail()
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

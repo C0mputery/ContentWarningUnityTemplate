@@ -37,6 +37,6 @@ public class StopRecordingCommandPackage : CustomCommandPackage<CustomCommandTyp
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public StopRecordingCommandPackage()
 	{
-		throw null;
+
 	}
 }

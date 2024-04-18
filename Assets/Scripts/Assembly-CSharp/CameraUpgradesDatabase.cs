@@ -17,6 +17,6 @@ public class CameraUpgradesDatabase : ObjectDatabaseAsset<CameraUpgradesDatabase
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public CameraUpgradesDatabase()
 	{
-		throw null;
+
 	}
 }

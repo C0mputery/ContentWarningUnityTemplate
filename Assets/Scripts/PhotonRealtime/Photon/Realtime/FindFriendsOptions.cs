@@ -19,7 +19,7 @@ namespace Photon.Realtime
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public FindFriendsOptions()
 		{
-			throw null;
+
 		}
 	}
 }

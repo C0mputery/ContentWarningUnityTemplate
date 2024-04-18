@@ -108,7 +108,7 @@ public class GlobalInputHandler : RetrievableSingleton<GlobalInputHandler>
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public GlobalInputHandler()
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

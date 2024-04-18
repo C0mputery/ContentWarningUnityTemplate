@@ -20,6 +20,6 @@ public class TimeEntry : ItemDataEntry
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public TimeEntry()
 	{
-		throw null;
+
 	}
 }

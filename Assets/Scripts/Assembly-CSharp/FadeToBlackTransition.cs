@@ -23,6 +23,6 @@ public class FadeToBlackTransition : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public FadeToBlackTransition()
 	{
-		throw null;
+
 	}
 }

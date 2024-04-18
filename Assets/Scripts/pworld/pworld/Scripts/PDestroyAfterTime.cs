@@ -34,7 +34,7 @@ namespace pworld.Scripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PDestroyAfterTime()
 		{
-			throw null;
+
 		}
 	}
 }

@@ -25,7 +25,7 @@ namespace Zorro.Core.CLI
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public CommandSuggestion(string domain, string command, ParameterInfo[] parameterInfos)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

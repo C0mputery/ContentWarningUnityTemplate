@@ -12,7 +12,7 @@ namespace Zorro.Settings.DebugUI
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public FloatSettingUI(FloatSetting setting, ISettingHandler settingHandler)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

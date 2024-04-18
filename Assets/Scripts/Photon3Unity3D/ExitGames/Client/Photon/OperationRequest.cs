@@ -11,7 +11,7 @@ namespace ExitGames.Client.Photon
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public OperationRequest()
 		{
-			throw null;
+
 		}
 	}
 }

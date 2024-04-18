@@ -36,6 +36,6 @@ public class SendClipCompletedPackage : CustomCommandPackage<CustomCommandType>
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SendClipCompletedPackage()
 	{
-		throw null;
+
 	}
 }

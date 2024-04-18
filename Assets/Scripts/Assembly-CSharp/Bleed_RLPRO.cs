@@ -87,6 +87,6 @@ public class Bleed_RLPRO : ScriptableRendererFeature
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Bleed_RLPRO()
 	{
-		throw null;
+
 	}
 }

@@ -35,6 +35,6 @@ public class UI_Sound : MonoBehaviour, IPointerClickHandler, IEventSystemHandler
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public UI_Sound()
 	{
-		throw null;
+
 	}
 }

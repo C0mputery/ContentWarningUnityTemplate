@@ -96,7 +96,7 @@ namespace Photon.Pun.UtilityScripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public OnClickDestroy()
 		{
-			throw null;
+
 		}
 	}
 }

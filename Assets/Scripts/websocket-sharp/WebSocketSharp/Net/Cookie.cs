@@ -292,19 +292,19 @@ namespace WebSocketSharp.Net
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public Cookie(string name, string value)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public Cookie(string name, string value, string path)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public Cookie(string name, string value, string path, string domain)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

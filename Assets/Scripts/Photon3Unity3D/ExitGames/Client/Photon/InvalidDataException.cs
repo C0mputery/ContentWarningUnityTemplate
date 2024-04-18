@@ -8,7 +8,7 @@ namespace ExitGames.Client.Photon
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public InvalidDataException(string message)
 		{
-			throw null;
+
 		}
 	}
 }

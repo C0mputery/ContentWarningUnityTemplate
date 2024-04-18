@@ -948,6 +948,6 @@ public class Player : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Player()
 	{
-		throw null;
+
 	}
 }

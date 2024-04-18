@@ -15,6 +15,6 @@ public class SavedInventoryItem
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SavedInventoryItem(Item item)
 	{
-		throw null;
+
 	}
 }

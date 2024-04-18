@@ -43,13 +43,13 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public FoldoutGroupAttribute(string groupName, float order = 0f) : base(groupName, order)
 		{
-            throw null;
+
         }
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public FoldoutGroupAttribute(string groupName, bool expanded, float order = 0f) : base(groupName, order)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

@@ -8,13 +8,13 @@ public class CameraUpgradeTable
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public CameraUpgradeTable()
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public CameraUpgradeTable(byte[] upgradeData)
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

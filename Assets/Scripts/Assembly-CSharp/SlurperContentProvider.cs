@@ -13,6 +13,6 @@ public class SlurperContentProvider : MonsterContentProvider
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SlurperContentProvider()
 	{
-		throw null;
+
 	}
 }

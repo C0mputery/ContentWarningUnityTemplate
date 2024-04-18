@@ -30,6 +30,6 @@ public class GamefeelHandler : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public GamefeelHandler()
 	{
-		throw null;
+
 	}
 }

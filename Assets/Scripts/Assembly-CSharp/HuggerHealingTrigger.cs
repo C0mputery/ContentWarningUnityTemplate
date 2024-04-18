@@ -26,6 +26,6 @@ public class HuggerHealingTrigger : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public HuggerHealingTrigger()
 	{
-		throw null;
+
 	}
 }

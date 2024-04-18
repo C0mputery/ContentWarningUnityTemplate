@@ -25,7 +25,7 @@ namespace pworld.Scripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PConstraintFreezeRot()
 		{
-			throw null;
+
 		}
 	}
 }

@@ -93,6 +93,6 @@ public class Fisheye_RLPRO : ScriptableRendererFeature
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Fisheye_RLPRO()
 	{
-		throw null;
+
 	}
 }

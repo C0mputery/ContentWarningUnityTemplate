@@ -101,6 +101,6 @@ public class Jitter_RLPRO : ScriptableRendererFeature
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Jitter_RLPRO()
 	{
-		throw null;
+
 	}
 }

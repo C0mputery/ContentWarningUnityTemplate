@@ -646,7 +646,7 @@ namespace Photon.Voice.Unity
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public Recorder()
 		{
-			throw null;
+
 		}
 	}
 }

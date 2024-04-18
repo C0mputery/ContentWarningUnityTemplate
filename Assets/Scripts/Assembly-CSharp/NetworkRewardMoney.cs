@@ -34,6 +34,6 @@ public class NetworkRewardMoney : MonoBehaviour, NetworkReward
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public NetworkRewardMoney()
 	{
-		throw null;
+
 	}
 }

@@ -48,6 +48,6 @@ public class EdgeNoise : VolumeComponent, IPostProcessComponent
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public EdgeNoise()
 	{
-		throw null;
+
 	}
 }

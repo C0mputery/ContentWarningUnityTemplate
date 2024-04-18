@@ -79,6 +79,6 @@ public class Jitter : VolumeComponent, IPostProcessComponent
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Jitter()
 	{
-		throw null;
+
 	}
 }

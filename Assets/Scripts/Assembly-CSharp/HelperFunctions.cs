@@ -298,7 +298,7 @@ public class HelperFunctions : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public HelperFunctions()
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

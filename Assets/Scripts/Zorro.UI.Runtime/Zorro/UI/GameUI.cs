@@ -121,7 +121,7 @@ namespace Zorro.UI
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public GameUI()
 		{
-			throw null;
+
 		}
 	}
 }

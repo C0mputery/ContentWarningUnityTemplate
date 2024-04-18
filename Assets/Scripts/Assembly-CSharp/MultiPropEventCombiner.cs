@@ -18,6 +18,6 @@ public class MultiPropEventCombiner : ContentCombiner
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public MultiPropEventCombiner()
 	{
-		throw null;
+
 	}
 }

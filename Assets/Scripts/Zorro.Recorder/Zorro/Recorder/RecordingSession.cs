@@ -149,7 +149,7 @@ namespace Zorro.Recorder
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public RecordingSession(uint width, uint height, string directory)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

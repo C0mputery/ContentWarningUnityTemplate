@@ -22,7 +22,7 @@ public class DivingBellReadyState : DivingBellState
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public DivingBellReadyState(bool onSurface)
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

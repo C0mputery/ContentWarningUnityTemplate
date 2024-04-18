@@ -15,7 +15,7 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ToggleAttribute(string toggleMemberName)
 		{
-			throw null;
+
 		}
 	}
 }

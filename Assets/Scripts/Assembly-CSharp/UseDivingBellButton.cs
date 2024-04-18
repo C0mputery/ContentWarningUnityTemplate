@@ -31,6 +31,6 @@ public class UseDivingBellButton : Interactable
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public UseDivingBellButton()
 	{
-		throw null;
+
 	}
 }

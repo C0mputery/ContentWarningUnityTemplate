@@ -17,6 +17,6 @@ public class NoneState : ConnectionState
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public NoneState()
 	{
-		throw null;
+
 	}
 }

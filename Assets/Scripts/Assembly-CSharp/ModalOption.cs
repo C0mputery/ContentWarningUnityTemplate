@@ -10,6 +10,6 @@ public class ModalOption
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ModalOption(string text, Action onClick = null)
 	{
-		throw null;
+
 	}
 }

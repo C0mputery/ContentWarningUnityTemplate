@@ -50,6 +50,6 @@ public class DealRewardMoney_0 : DealRewardBase
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public DealRewardMoney_0()
 	{
-		throw null;
+
 	}
 }

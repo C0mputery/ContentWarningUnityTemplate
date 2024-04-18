@@ -93,6 +93,6 @@ public class NetworkMultiMonsterInFrameAtOnce_5 : NetworkDealBase
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public NetworkMultiMonsterInFrameAtOnce_5()
 	{
-		throw null;
+
 	}
 }

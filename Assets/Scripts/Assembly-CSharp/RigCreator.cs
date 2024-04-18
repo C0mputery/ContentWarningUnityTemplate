@@ -162,6 +162,6 @@ public class RigCreator : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public RigCreator()
 	{
-		throw null;
+
 	}
 }

@@ -121,6 +121,6 @@ public class Noise_RLPRO : ScriptableRendererFeature
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Noise_RLPRO()
 	{
-		throw null;
+
 	}
 }

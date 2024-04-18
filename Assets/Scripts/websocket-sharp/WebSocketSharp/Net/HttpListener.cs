@@ -209,7 +209,7 @@ namespace WebSocketSharp.Net
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public HttpListener()
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

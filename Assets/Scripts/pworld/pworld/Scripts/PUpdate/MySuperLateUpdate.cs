@@ -7,7 +7,7 @@ namespace pworld.Scripts.PUpdate
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public MySuperLateUpdate()
 		{
-			throw null;
+
 		}
 	}
 }

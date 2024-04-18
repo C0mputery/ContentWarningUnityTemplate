@@ -61,6 +61,6 @@ public class PictureCorrection : VolumeComponent, IPostProcessComponent
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PictureCorrection()
 	{
-		throw null;
+
 	}
 }

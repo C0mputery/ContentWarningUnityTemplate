@@ -16,6 +16,6 @@ public class GroundAllChildren : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public GroundAllChildren()
 	{
-		throw null;
+
 	}
 }

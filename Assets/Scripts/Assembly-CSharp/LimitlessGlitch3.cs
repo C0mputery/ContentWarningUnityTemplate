@@ -49,6 +49,6 @@ public class LimitlessGlitch3 : VolumeComponent, IPostProcessComponent
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public LimitlessGlitch3()
 	{
-		throw null;
+
 	}
 }

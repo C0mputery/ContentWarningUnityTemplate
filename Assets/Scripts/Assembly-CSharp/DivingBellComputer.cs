@@ -22,6 +22,6 @@ public class DivingBellComputer : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public DivingBellComputer()
 	{
-		throw null;
+
 	}
 }

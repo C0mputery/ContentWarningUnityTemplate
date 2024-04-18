@@ -24,6 +24,6 @@ public class GoodMorning : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public GoodMorning()
 	{
-		throw null;
+
 	}
 }

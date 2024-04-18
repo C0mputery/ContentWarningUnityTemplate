@@ -275,7 +275,7 @@ public class PlayerRagdoll : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PlayerRagdoll()
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

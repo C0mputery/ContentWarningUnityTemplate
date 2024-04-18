@@ -57,13 +57,13 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ShowIfGroupAttribute(string path, bool animate = true) : base(path)
 		{
-            throw null;
+
         }
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ShowIfGroupAttribute(string path, object value, bool animate = true) : base(path)
 		{
-            throw null;
+
         }
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

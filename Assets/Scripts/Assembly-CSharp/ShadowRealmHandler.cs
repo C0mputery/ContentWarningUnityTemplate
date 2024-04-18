@@ -72,6 +72,6 @@ public class ShadowRealmHandler : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ShadowRealmHandler()
 	{
-		throw null;
+
 	}
 }

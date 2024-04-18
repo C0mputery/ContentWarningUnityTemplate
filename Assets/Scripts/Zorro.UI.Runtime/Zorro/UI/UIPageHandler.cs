@@ -38,7 +38,7 @@ namespace Zorro.UI
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public UIPageHandler()
 		{
-			throw null;
+
 		}
 	}
 }

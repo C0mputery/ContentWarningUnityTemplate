@@ -324,37 +324,37 @@ namespace WebSocketSharp.Server
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public HttpServer()
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public HttpServer(int port)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public HttpServer(string url)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public HttpServer(int port, bool secure)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public HttpServer(IPAddress address, int port)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public HttpServer(IPAddress address, int port, bool secure)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

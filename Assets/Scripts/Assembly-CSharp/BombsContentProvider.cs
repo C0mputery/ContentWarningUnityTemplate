@@ -13,6 +13,6 @@ public class BombsContentProvider : MonsterContentProvider
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public BombsContentProvider()
 	{
-		throw null;
+
 	}
 }

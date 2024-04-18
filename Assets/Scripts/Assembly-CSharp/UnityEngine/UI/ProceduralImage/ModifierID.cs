@@ -20,7 +20,7 @@ namespace UnityEngine.UI.ProceduralImage
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ModifierID(string name)
 		{
-			throw null;
+
 		}
 	}
 }

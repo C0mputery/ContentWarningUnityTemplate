@@ -45,6 +45,6 @@ public class Bot_Zombie : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Bot_Zombie()
 	{
-		throw null;
+
 	}
 }

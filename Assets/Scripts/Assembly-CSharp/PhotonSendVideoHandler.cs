@@ -228,6 +228,6 @@ public class PhotonSendVideoHandler : RetrievableSingleton<PhotonSendVideoHandle
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PhotonSendVideoHandler()
 	{
-		throw null;
+
 	}
 }

@@ -35,6 +35,6 @@ public class Flashlight : ItemInstanceBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Flashlight()
 	{
-		throw null;
+
 	}
 }

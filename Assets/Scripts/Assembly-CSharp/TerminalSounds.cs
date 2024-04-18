@@ -18,6 +18,6 @@ public class TerminalSounds : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public TerminalSounds()
 	{
-		throw null;
+
 	}
 }

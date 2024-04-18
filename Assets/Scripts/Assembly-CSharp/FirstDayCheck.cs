@@ -6,6 +6,6 @@ public class FirstDayCheck : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public FirstDayCheck()
 	{
-		throw null;
+
 	}
 }

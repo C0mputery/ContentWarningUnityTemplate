@@ -74,6 +74,6 @@ public class PatrolPoint : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PatrolPoint()
 	{
-		throw null;
+
 	}
 }

@@ -50,6 +50,6 @@ public class EscapeMenuMainPage : EscapeMenuPage
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public EscapeMenuMainPage()
 	{
-		throw null;
+
 	}
 }

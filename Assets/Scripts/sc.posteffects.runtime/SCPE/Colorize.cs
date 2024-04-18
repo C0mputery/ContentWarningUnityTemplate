@@ -69,7 +69,7 @@ namespace SCPE
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public Colorize()
 		{
-			throw null;
+
 		}
 	}
 }

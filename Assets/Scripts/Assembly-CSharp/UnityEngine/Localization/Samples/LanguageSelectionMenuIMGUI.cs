@@ -51,7 +51,7 @@ namespace UnityEngine.Localization.Samples
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public LanguageSelectionMenuIMGUI()
 		{
-			throw null;
+
 		}
 	}
 }

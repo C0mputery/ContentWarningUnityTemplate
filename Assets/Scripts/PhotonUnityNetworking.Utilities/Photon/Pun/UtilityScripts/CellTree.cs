@@ -23,13 +23,13 @@ namespace Photon.Pun.UtilityScripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public CellTree()
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public CellTree(CellTreeNode root)
 		{
-			throw null;
+
 		}
 	}
 }

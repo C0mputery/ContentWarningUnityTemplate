@@ -20,6 +20,6 @@ public class UsecaseSwitcher : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public UsecaseSwitcher()
 	{
-		throw null;
+
 	}
 }

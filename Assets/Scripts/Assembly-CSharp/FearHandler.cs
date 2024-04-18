@@ -56,6 +56,6 @@ public class FearHandler : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public FearHandler()
 	{
-		throw null;
+
 	}
 }

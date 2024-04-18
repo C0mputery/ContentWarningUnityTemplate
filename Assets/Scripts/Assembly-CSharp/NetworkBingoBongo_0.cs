@@ -115,6 +115,6 @@ public class NetworkBingoBongo_0 : NetworkDealBase
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public NetworkBingoBongo_0()
 	{
-		throw null;
+
 	}
 }

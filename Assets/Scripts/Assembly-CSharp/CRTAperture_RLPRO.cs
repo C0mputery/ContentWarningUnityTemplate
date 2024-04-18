@@ -99,6 +99,6 @@ public class CRTAperture_RLPRO : ScriptableRendererFeature
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public CRTAperture_RLPRO()
 	{
-		throw null;
+
 	}
 }

@@ -26,6 +26,6 @@ public class CD_Item : ItemInstanceBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public CD_Item()
 	{
-		throw null;
+
 	}
 }

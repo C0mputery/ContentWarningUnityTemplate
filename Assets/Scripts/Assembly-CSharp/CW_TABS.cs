@@ -12,6 +12,6 @@ public class CW_TABS : TABS<CW_TAB>
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public CW_TABS()
 	{
-		throw null;
+
 	}
 }

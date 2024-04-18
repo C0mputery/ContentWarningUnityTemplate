@@ -20,7 +20,7 @@ namespace Photon.Chat.Demo
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ChatAppIdCheckerUI()
 		{
-			throw null;
+
 		}
 	}
 }

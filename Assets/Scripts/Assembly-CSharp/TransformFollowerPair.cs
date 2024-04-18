@@ -14,6 +14,6 @@ public class TransformFollowerPair
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public TransformFollowerPair()
 	{
-		throw null;
+
 	}
 }

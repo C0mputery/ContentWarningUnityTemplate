@@ -18,6 +18,6 @@ public class WebSpawner : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public WebSpawner()
 	{
-		throw null;
+
 	}
 }

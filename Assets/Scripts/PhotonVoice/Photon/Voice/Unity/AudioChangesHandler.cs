@@ -54,7 +54,7 @@ namespace Photon.Voice.Unity
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public AudioChangesHandler()
 		{
-			throw null;
+
 		}
 	}
 }

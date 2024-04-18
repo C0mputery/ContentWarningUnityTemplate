@@ -67,7 +67,7 @@ namespace Photon.Pun
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ServerSettings()
 		{
-			throw null;
+
 		}
 	}
 }

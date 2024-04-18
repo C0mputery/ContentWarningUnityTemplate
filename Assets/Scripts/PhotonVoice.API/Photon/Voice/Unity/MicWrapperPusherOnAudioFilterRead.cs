@@ -33,7 +33,7 @@ namespace Photon.Voice.Unity
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public MicWrapperPusherOnAudioFilterRead()
 		{
-			throw null;
+
 		}
 	}
 }

@@ -80,6 +80,6 @@ public class MonsterSyncer : MonoBehaviour, IPunObservable
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public MonsterSyncer()
 	{
-		throw null;
+
 	}
 }

@@ -160,6 +160,6 @@ public class CapturedCaptchaCanvas : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public CapturedCaptchaCanvas()
 	{
-		throw null;
+
 	}
 }

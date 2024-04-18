@@ -18,7 +18,7 @@ namespace Sirenix.Serialization
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public WeakMultiDimensionalArrayFormatter(Type arrayType, Type elementType) : base(null)
         {
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

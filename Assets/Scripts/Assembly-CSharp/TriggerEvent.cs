@@ -23,6 +23,6 @@ public class TriggerEvent : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public TriggerEvent()
 	{
-		throw null;
+
 	}
 }

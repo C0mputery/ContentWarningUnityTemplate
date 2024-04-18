@@ -42,6 +42,6 @@ public class NTSCEncode : VolumeComponent, IPostProcessComponent
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public NTSCEncode()
 	{
-		throw null;
+
 	}
 }

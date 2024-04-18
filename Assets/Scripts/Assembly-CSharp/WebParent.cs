@@ -65,6 +65,6 @@ public class WebParent : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public WebParent()
 	{
-		throw null;
+
 	}
 }

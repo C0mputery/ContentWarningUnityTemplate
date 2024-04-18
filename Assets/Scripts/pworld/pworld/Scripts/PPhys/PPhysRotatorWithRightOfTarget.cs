@@ -17,7 +17,7 @@ namespace pworld.Scripts.PPhys
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PPhysRotatorWithRightOfTarget()
 		{
-			throw null;
+
 		}
 	}
 }

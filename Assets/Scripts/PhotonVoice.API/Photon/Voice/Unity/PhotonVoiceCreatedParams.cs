@@ -39,7 +39,7 @@ namespace Photon.Voice.Unity
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PhotonVoiceCreatedParams()
 		{
-			throw null;
+
 		}
 	}
 }

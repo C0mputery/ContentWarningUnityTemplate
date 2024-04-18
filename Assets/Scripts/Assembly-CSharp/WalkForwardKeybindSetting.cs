@@ -25,6 +25,6 @@ public class WalkForwardKeybindSetting : KeyCodeSetting, IExposedSetting
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public WalkForwardKeybindSetting()
 	{
-		throw null;
+
 	}
 }

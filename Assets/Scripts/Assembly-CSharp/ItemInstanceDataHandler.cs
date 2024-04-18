@@ -33,6 +33,6 @@ public class ItemInstanceDataHandler : RetrievableSingleton<ItemInstanceDataHand
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ItemInstanceDataHandler()
 	{
-		throw null;
+
 	}
 }

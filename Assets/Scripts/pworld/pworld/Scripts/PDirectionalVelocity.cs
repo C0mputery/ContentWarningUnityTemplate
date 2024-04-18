@@ -37,7 +37,7 @@ namespace pworld.Scripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PDirectionalVelocity()
 		{
-			throw null;
+
 		}
 	}
 }

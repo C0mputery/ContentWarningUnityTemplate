@@ -7,13 +7,13 @@ public class PlayerDeadContentEvent : PlayerBaseEvent
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PlayerDeadContentEvent()
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PlayerDeadContentEvent(string playerName, int actorNumber)
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

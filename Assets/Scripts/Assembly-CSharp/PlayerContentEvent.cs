@@ -14,13 +14,13 @@ public class PlayerContentEvent : PlayerBaseEvent
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PlayerContentEvent()
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PlayerContentEvent(string playerName, int actorNumber, float facingFactor, float microphoneFactor)
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

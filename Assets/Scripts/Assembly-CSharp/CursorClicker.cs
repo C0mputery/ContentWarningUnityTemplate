@@ -26,6 +26,6 @@ public class CursorClicker : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public CursorClicker()
 	{
-		throw null;
+
 	}
 }

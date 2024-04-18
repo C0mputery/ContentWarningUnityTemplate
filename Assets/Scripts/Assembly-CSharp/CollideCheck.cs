@@ -12,6 +12,6 @@ public class CollideCheck : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public CollideCheck()
 	{
-		throw null;
+
 	}
 }

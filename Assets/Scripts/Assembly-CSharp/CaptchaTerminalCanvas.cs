@@ -155,6 +155,6 @@ public class CaptchaTerminalCanvas : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public CaptchaTerminalCanvas()
 	{
-		throw null;
+
 	}
 }

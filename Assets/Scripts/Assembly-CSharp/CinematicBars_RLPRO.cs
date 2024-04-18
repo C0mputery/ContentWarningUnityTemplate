@@ -85,6 +85,6 @@ public class CinematicBars_RLPRO : ScriptableRendererFeature
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public CinematicBars_RLPRO()
 	{
-		throw null;
+
 	}
 }

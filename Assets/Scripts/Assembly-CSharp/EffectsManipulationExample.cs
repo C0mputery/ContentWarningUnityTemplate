@@ -23,6 +23,6 @@ public class EffectsManipulationExample : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public EffectsManipulationExample()
 	{
-		throw null;
+
 	}
 }

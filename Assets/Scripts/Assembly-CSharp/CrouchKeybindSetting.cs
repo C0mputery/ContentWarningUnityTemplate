@@ -25,6 +25,6 @@ public class CrouchKeybindSetting : KeyCodeSetting, IExposedSetting
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public CrouchKeybindSetting()
 	{
-		throw null;
+
 	}
 }

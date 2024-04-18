@@ -175,6 +175,6 @@ public class Bot_Ghost : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Bot_Ghost()
 	{
-		throw null;
+
 	}
 }

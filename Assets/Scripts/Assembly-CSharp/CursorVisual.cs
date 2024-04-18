@@ -26,6 +26,6 @@ public class CursorVisual : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public CursorVisual()
 	{
-		throw null;
+
 	}
 }

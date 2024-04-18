@@ -48,7 +48,7 @@ namespace pworld.Scripts.PCurve
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PCurvePos()
 		{
-			throw null;
+
 		}
 	}
 }

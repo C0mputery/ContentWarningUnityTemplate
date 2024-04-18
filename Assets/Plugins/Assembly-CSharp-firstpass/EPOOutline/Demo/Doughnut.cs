@@ -132,7 +132,7 @@ namespace EPOOutline.Demo
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public Doughnut()
 		{
-			throw null;
+
 		}
 	}
 }

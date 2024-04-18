@@ -10,7 +10,7 @@ namespace Zorro.Core
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public CoreGlobalDependencies()
 		{
-			throw null;
+
 		}
 	}
 }

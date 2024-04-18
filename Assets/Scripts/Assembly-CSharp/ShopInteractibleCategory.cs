@@ -26,6 +26,6 @@ public class ShopInteractibleCategory : Interactable
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ShopInteractibleCategory()
 	{
-		throw null;
+
 	}
 }

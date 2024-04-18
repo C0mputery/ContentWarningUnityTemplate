@@ -20,6 +20,6 @@ public class MainMenuCreditsPage : MainMenuPage
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public MainMenuCreditsPage()
 	{
-		throw null;
+
 	}
 }

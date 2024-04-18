@@ -32,6 +32,6 @@ public class VideoCameraSounds : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public VideoCameraSounds()
 	{
-		throw null;
+
 	}
 }

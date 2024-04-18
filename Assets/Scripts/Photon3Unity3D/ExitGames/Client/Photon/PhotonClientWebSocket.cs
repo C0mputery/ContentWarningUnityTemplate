@@ -14,7 +14,7 @@ namespace ExitGames.Client.Photon
 		[Preserve]
 		public PhotonClientWebSocket(PeerBase peerBase) : base(peerBase)
 		{
-            throw null;
+
         }
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

@@ -41,6 +41,6 @@ public class HasSpaceTest : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public HasSpaceTest()
 	{
-		throw null;
+
 	}
 }

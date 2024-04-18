@@ -8,7 +8,7 @@ namespace Zorro.Core.CLI
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public DebugPage()
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

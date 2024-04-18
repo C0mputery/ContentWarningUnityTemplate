@@ -10,6 +10,6 @@ public class GameSpecificInputCellMapper : SingletonAsset<GameSpecificInputCellM
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public GameSpecificInputCellMapper()
 	{
-		throw null;
+
 	}
 }

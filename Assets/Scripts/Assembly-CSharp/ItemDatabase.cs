@@ -26,6 +26,6 @@ public class ItemDatabase : ObjectDatabaseAsset<ItemDatabase, Item>
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ItemDatabase()
 	{
-		throw null;
+
 	}
 }

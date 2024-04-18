@@ -16,6 +16,6 @@ public class BoxSampler
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public BoxSampler()
 	{
-		throw null;
+
 	}
 }

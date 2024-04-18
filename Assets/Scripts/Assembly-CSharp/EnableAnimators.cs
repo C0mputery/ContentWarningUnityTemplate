@@ -20,6 +20,6 @@ public class EnableAnimators : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public EnableAnimators()
 	{
-		throw null;
+
 	}
 }

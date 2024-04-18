@@ -151,6 +151,6 @@ public class Attack_Melee : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Attack_Melee()
 	{
-		throw null;
+
 	}
 }

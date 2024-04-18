@@ -196,6 +196,6 @@ public class DivingBellDoor : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public DivingBellDoor()
 	{
-		throw null;
+
 	}
 }

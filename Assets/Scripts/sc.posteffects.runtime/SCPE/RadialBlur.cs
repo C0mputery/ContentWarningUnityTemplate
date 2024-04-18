@@ -55,7 +55,7 @@ namespace SCPE
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public RadialBlur()
 		{
-			throw null;
+
 		}
 	}
 }

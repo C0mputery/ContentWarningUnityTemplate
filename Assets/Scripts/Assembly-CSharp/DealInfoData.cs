@@ -9,6 +9,6 @@ public class DealInfoData : ScriptableObject
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public DealInfoData()
 	{
-		throw null;
+
 	}
 }

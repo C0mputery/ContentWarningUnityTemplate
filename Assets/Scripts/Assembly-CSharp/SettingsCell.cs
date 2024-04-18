@@ -18,6 +18,6 @@ public class SettingsCell : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SettingsCell()
 	{
-		throw null;
+
 	}
 }

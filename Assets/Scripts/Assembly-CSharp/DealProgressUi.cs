@@ -35,6 +35,6 @@ public class DealProgressUi : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public DealProgressUi()
 	{
-		throw null;
+
 	}
 }

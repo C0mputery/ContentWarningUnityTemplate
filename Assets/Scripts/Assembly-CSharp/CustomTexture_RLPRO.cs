@@ -79,6 +79,6 @@ public class CustomTexture_RLPRO : ScriptableRendererFeature
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public CustomTexture_RLPRO()
 	{
-		throw null;
+
 	}
 }

@@ -22,7 +22,7 @@ public abstract class VideoExtractMachineState : StateMachineState
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public VideoExtractMachineState(ExtractVideoMachine machine)
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

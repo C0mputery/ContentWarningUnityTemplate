@@ -41,7 +41,7 @@ namespace pworld.Scripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public P()
 		{
-			throw null;
+
 		}
 	}
 }

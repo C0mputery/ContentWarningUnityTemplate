@@ -176,7 +176,7 @@ namespace UnityEngine.UI.ProceduralImage
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ProceduralImage()
 		{
-			throw null;
+
 		}
 	}
 }

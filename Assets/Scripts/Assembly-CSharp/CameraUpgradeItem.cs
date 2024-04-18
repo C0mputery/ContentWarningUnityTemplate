@@ -19,6 +19,6 @@ public class CameraUpgradeItem : Item
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public CameraUpgradeItem()
 	{
-		throw null;
+
 	}
 }

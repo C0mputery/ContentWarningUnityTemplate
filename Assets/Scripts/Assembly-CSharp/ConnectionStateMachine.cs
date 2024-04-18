@@ -6,6 +6,6 @@ public class ConnectionStateMachine : StateMachine<ConnectionState>
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ConnectionStateMachine()
 	{
-		throw null;
+
 	}
 }

@@ -36,6 +36,6 @@ public class SettingsMenu : Singleton<SettingsMenu>
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SettingsMenu()
 	{
-		throw null;
+
 	}
 }

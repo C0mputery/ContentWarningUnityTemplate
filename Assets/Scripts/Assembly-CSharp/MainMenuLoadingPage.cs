@@ -14,6 +14,6 @@ public class MainMenuLoadingPage : MainMenuPage
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public MainMenuLoadingPage()
 	{
-		throw null;
+
 	}
 }

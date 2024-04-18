@@ -159,7 +159,7 @@ namespace POpusCodec
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public Wrapper()
 		{
-			throw null;
+
 		}
 	}
 }

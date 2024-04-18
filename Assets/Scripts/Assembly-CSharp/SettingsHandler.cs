@@ -12,7 +12,7 @@ public class SettingsHandler : ISettingHandler, IDisposable
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SettingsHandler()
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

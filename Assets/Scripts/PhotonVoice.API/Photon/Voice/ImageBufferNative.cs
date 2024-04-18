@@ -59,13 +59,13 @@ namespace Photon.Voice
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ImageBufferNative(ImageBufferInfo info)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ImageBufferNative(IntPtr buf, int width, int height, int stride, ImageFormat imageFormat)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

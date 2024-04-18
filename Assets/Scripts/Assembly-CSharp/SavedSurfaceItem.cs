@@ -29,6 +29,6 @@ public class SavedSurfaceItem
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SavedSurfaceItem(PersistentObjectInfo persistentObject)
 	{
-		throw null;
+
 	}
 }

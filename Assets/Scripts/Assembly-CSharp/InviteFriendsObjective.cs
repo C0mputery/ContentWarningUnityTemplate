@@ -11,6 +11,6 @@ public class InviteFriendsObjective : Objective
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public InviteFriendsObjective()
 	{
-		throw null;
+
 	}
 }

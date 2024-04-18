@@ -20,6 +20,6 @@ public class Monster
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Monster()
 	{
-		throw null;
+
 	}
 }

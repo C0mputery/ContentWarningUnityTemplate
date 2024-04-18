@@ -24,7 +24,7 @@ namespace POpusCodec
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public OpusDecoderAsync(Action<FrameOut<T>> output, SamplingRate outputSamplingRateHz, Channels numChannels, int frameDurationSamples) : base(null, SamplingRate.Sampling08000, Channels.Stereo, 69)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

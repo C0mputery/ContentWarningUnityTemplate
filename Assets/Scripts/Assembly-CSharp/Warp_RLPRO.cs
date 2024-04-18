@@ -91,6 +91,6 @@ public class Warp_RLPRO : ScriptableRendererFeature
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Warp_RLPRO()
 	{
-		throw null;
+
 	}
 }

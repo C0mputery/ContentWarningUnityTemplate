@@ -128,6 +128,6 @@ public class ShockStick : ItemInstanceBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ShockStick()
 	{
-		throw null;
+
 	}
 }

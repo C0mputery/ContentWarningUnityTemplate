@@ -53,6 +53,6 @@ public class OldFilm : VolumeComponent, IPostProcessComponent
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public OldFilm()
 	{
-		throw null;
+
 	}
 }

@@ -16,7 +16,7 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public DisableContextMenuAttribute(bool disableForMember = true, bool disableCollectionElements = false)
 		{
-			throw null;
+
 		}
 	}
 }

@@ -34,7 +34,7 @@ namespace DefaultNamespace
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public BatteryRechargeStation()
 		{
-			throw null;
+
 		}
 	}
 }

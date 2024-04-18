@@ -172,7 +172,7 @@ namespace DefaultNamespace
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public Bot_Slurper()
 		{
-			throw null;
+
 		}
 	}
 }

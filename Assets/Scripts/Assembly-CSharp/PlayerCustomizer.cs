@@ -256,6 +256,6 @@ public class PlayerCustomizer : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PlayerCustomizer()
 	{
-		throw null;
+
 	}
 }

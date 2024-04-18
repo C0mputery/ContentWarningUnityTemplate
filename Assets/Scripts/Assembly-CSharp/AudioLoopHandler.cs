@@ -50,6 +50,6 @@ public class AudioLoopHandler : Singleton<AudioLoopHandler>
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public AudioLoopHandler()
 	{
-		throw null;
+
 	}
 }

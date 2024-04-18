@@ -23,6 +23,6 @@ public class HazardHandler : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public HazardHandler()
 	{
-		throw null;
+
 	}
 }

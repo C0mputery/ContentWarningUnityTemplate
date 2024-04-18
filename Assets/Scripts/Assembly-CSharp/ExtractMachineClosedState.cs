@@ -5,7 +5,7 @@ public class ExtractMachineClosedState : VideoExtractMachineState
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ExtractMachineClosedState(ExtractVideoMachine machine) : base(machine)
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

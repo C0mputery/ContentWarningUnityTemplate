@@ -66,7 +66,7 @@ namespace Photon.Voice
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public WebRTCAudioLib()
 		{
-			throw null;
+
 		}
 	}
 }

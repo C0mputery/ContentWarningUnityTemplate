@@ -12,6 +12,6 @@ public class DisableIfRigCreator : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public DisableIfRigCreator()
 	{
-		throw null;
+
 	}
 }

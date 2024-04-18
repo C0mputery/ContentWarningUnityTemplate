@@ -11,6 +11,6 @@ public class LeaveHouseObjective : Objective
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public LeaveHouseObjective()
 	{
-		throw null;
+
 	}
 }

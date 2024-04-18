@@ -20,6 +20,6 @@ public class ItemCLIParser : CLITypeParser
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ItemCLIParser()
 	{
-		throw null;
+
 	}
 }

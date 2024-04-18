@@ -25,7 +25,7 @@ namespace Sirenix.Utilities
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public SirenixBuildVersionAttribute(string version)
 		{
-			throw null;
+
 		}
 	}
 }

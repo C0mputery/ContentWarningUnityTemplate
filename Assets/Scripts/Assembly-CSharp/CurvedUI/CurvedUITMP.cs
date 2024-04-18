@@ -123,7 +123,7 @@ namespace CurvedUI
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public CurvedUITMP()
 		{
-			throw null;
+
 		}
 	}
 }

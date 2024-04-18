@@ -15,7 +15,7 @@ namespace Zorro.Settings.DebugUI
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ResolutionSettingUI(ResolutionSetting setting, ISettingHandler settingHandler)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

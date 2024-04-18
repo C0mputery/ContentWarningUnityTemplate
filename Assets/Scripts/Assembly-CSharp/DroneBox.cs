@@ -30,6 +30,6 @@ public class DroneBox : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public DroneBox()
 	{
-		throw null;
+
 	}
 }

@@ -22,7 +22,7 @@ namespace pworld.Scripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PChildRot()
 		{
-			throw null;
+
 		}
 	}
 }

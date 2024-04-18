@@ -130,7 +130,7 @@ namespace EPOOutline.Demo
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public Chicken()
 		{
-			throw null;
+
 		}
 	}
 }

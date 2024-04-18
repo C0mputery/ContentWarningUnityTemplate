@@ -109,6 +109,6 @@ public class NetworkThrowChallange_8 : NetworkDealBase
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public NetworkThrowChallange_8()
 	{
-		throw null;
+
 	}
 }

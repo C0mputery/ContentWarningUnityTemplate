@@ -15,7 +15,7 @@ namespace Photon.Voice.Unity.UtilityScripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public TestTone()
 		{
-			throw null;
+
 		}
 	}
 }

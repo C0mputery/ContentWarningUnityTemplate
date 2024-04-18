@@ -29,7 +29,7 @@ namespace Photon.Chat
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ChatEventCode()
 		{
-			throw null;
+
 		}
 	}
 }

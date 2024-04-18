@@ -57,7 +57,7 @@ namespace Photon.Voice.Unity
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public MicWrapperPusher(GameObject parent, string device, int suggestedFrequency, ILogger logger)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

@@ -7,13 +7,13 @@ public class PlayerRagdollContentEvent : PlayerBaseEvent
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PlayerRagdollContentEvent()
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PlayerRagdollContentEvent(string playerName, int actorNumber)
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

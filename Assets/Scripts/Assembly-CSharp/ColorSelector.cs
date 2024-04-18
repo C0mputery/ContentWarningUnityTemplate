@@ -50,6 +50,6 @@ public class ColorSelector : MonoBehaviour, IPointerClickHandler, IEventSystemHa
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ColorSelector()
 	{
-		throw null;
+
 	}
 }

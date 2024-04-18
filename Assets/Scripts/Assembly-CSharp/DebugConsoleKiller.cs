@@ -14,6 +14,6 @@ public class DebugConsoleKiller : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public DebugConsoleKiller()
 	{
-		throw null;
+
 	}
 }

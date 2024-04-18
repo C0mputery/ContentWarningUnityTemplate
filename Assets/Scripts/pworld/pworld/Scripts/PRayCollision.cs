@@ -61,7 +61,7 @@ namespace pworld.Scripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PRayCollision()
 		{
-			throw null;
+
 		}
 	}
 }

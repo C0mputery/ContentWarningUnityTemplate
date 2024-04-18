@@ -23,7 +23,7 @@ public class ClipCell : VisualElement
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ClipCell(VisualTreeAsset visualTreeAsset, Clip clip)
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

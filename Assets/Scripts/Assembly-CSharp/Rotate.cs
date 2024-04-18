@@ -27,6 +27,6 @@ public class Rotate : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Rotate()
 	{
-		throw null;
+
 	}
 }

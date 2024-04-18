@@ -47,7 +47,7 @@ public class ShoppingCart
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ShoppingCart()
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

@@ -14,6 +14,6 @@ public class RoundModifier : ProceduralImageModifier
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public RoundModifier()
 	{
-		throw null;
+
 	}
 }

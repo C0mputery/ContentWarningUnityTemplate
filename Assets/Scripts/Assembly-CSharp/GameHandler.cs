@@ -95,6 +95,6 @@ public class GameHandler : DisableIntercept
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public GameHandler()
 	{
-		throw null;
+
 	}
 }

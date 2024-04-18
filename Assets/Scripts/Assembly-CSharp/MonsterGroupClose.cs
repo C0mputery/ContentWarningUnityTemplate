@@ -82,6 +82,6 @@ public class MonsterGroupClose : MonoBehaviour, IHasPatrolGroup, IBudgetCost
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public MonsterGroupClose()
 	{
-		throw null;
+
 	}
 }

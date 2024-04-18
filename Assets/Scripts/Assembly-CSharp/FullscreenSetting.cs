@@ -37,6 +37,6 @@ public class FullscreenSetting : EnumSetting, IExposedSetting
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public FullscreenSetting()
 	{
-		throw null;
+
 	}
 }

@@ -26,7 +26,7 @@ namespace pworld.Scripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PRotationalShake()
 		{
-			throw null;
+
 		}
 	}
 }

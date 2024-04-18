@@ -47,7 +47,7 @@ namespace SCPE
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public SpeedLines()
 		{
-			throw null;
+
 		}
 	}
 }

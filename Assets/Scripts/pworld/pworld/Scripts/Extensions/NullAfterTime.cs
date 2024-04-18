@@ -47,7 +47,7 @@ namespace pworld.Scripts.Extensions
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public NullAfterTime(float timeToNull_ = 0.5f)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

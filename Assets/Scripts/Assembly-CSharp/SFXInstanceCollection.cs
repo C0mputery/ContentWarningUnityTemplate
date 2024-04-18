@@ -8,6 +8,6 @@ public class SFXInstanceCollection : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SFXInstanceCollection()
 	{
-		throw null;
+
 	}
 }

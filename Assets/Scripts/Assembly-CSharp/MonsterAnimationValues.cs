@@ -26,6 +26,6 @@ public class MonsterAnimationValues : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public MonsterAnimationValues()
 	{
-		throw null;
+
 	}
 }

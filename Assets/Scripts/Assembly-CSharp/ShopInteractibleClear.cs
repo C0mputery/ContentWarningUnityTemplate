@@ -17,6 +17,6 @@ public class ShopInteractibleClear : Interactable
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ShopInteractibleClear()
 	{
-		throw null;
+
 	}
 }

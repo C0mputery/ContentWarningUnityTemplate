@@ -11,6 +11,6 @@ public class FilmSomethingScaryObjective : Objective
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public FilmSomethingScaryObjective()
 	{
-		throw null;
+
 	}
 }

@@ -72,7 +72,7 @@ namespace Photon.Voice.Windows
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public WindowsAudioInPusher(int deviceID, ILogger logger)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

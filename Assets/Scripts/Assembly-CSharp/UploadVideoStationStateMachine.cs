@@ -6,6 +6,6 @@ public class UploadVideoStationStateMachine : StateMachine<UploadVideoStationSta
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public UploadVideoStationStateMachine()
 	{
-		throw null;
+
 	}
 }

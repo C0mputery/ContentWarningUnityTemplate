@@ -28,6 +28,6 @@ public class CameraHandler : Singleton<CameraHandler>
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public CameraHandler()
 	{
-		throw null;
+
 	}
 }

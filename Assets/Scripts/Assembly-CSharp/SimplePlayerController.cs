@@ -90,6 +90,6 @@ public class SimplePlayerController : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SimplePlayerController()
 	{
-		throw null;
+
 	}
 }

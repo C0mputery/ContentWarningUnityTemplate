@@ -21,6 +21,6 @@ public class PropContentProvider : ContentProvider
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PropContentProvider()
 	{
-		throw null;
+
 	}
 }

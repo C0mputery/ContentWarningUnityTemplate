@@ -31,6 +31,6 @@ public class JumpKeybindSetting : KeyCodeSetting, IExposedSetting
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public JumpKeybindSetting()
 	{
-		throw null;
+
 	}
 }

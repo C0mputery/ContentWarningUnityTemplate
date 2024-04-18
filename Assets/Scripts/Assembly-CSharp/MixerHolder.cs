@@ -15,6 +15,6 @@ public class MixerHolder : SingletonAsset<MixerHolder>
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public MixerHolder()
 	{
-		throw null;
+
 	}
 }

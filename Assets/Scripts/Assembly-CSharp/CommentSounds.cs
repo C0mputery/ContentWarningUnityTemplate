@@ -27,6 +27,6 @@ public class CommentSounds : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public CommentSounds()
 	{
-		throw null;
+
 	}
 }

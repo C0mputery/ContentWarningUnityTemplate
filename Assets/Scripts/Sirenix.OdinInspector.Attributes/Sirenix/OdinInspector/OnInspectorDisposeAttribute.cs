@@ -16,13 +16,13 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public OnInspectorDisposeAttribute()
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public OnInspectorDisposeAttribute(string action)
 		{
-			throw null;
+
 		}
 	}
 }

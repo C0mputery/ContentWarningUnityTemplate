@@ -22,6 +22,6 @@ public class BombItem : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public BombItem()
 	{
-		throw null;
+
 	}
 }

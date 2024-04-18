@@ -57,13 +57,13 @@ namespace Sirenix.Serialization
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public RegisterFormatterAttribute(Type formatterType, int priority = 0)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public RegisterFormatterAttribute(Type formatterType, Type weakFallback, int priority = 0)
 		{
-			throw null;
+
 		}
 	}
 }

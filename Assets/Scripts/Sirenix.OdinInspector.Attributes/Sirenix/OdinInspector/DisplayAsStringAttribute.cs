@@ -20,85 +20,85 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public DisplayAsStringAttribute()
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public DisplayAsStringAttribute(bool overflow)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public DisplayAsStringAttribute(TextAlignment alignment)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public DisplayAsStringAttribute(int fontSize)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public DisplayAsStringAttribute(bool overflow, TextAlignment alignment)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public DisplayAsStringAttribute(bool overflow, int fontSize)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public DisplayAsStringAttribute(int fontSize, TextAlignment alignment)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public DisplayAsStringAttribute(bool overflow, int fontSize, TextAlignment alignment)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public DisplayAsStringAttribute(TextAlignment alignment, bool enableRichText)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public DisplayAsStringAttribute(int fontSize, bool enableRichText)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public DisplayAsStringAttribute(bool overflow, TextAlignment alignment, bool enableRichText)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public DisplayAsStringAttribute(bool overflow, int fontSize, bool enableRichText)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public DisplayAsStringAttribute(int fontSize, TextAlignment alignment, bool enableRichText)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public DisplayAsStringAttribute(bool overflow, int fontSize, TextAlignment alignment, bool enableRichText)
 		{
-			throw null;
+
 		}
 	}
 }

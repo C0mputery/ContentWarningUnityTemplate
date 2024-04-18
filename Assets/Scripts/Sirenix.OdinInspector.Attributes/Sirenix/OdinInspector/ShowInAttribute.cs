@@ -13,7 +13,7 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ShowInAttribute(PrefabKind prefabKind)
 		{
-			throw null;
+
 		}
 	}
 }

@@ -114,6 +114,6 @@ public class SimplePlayer : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SimplePlayer()
 	{
-		throw null;
+
 	}
 }

@@ -214,6 +214,6 @@ public class PhotonGameLobbyHandler : MonoBehaviourPunCallbacks
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PhotonGameLobbyHandler()
 	{
-		throw null;
+
 	}
 }

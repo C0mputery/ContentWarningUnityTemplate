@@ -58,6 +58,6 @@ public class PlayerAnimationHandler : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PlayerAnimationHandler()
 	{
-		throw null;
+
 	}
 }

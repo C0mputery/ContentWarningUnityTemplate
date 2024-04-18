@@ -29,6 +29,6 @@ public class DealRewardDatabase : SingletonAsset<DealRewardDatabase>
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public DealRewardDatabase()
 	{
-		throw null;
+
 	}
 }

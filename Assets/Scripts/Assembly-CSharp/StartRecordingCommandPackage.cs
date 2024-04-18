@@ -41,6 +41,6 @@ public class StartRecordingCommandPackage : CustomCommandPackage<CustomCommandTy
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public StartRecordingCommandPackage()
 	{
-		throw null;
+
 	}
 }

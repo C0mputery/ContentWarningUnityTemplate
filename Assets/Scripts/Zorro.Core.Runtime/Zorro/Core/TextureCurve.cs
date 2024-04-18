@@ -61,7 +61,7 @@ namespace Zorro.Core
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public TextureCurve()
 		{
-			throw null;
+
 		}
 	}
 }

@@ -37,6 +37,6 @@ public class MouseSensitivitySetting : FloatSetting, IExposedSetting
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public MouseSensitivitySetting()
 	{
-		throw null;
+
 	}
 }

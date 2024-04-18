@@ -111,6 +111,6 @@ public class UploadVideoStation : Interactable
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public UploadVideoStation()
 	{
-		throw null;
+
 	}
 }

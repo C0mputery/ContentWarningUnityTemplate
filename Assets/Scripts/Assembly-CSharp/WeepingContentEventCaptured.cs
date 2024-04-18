@@ -31,7 +31,7 @@ public class WeepingContentEventCaptured : MonsterContentEvent
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public WeepingContentEventCaptured()
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

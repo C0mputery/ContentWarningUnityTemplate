@@ -20,6 +20,6 @@ public class LightPosition
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public LightPosition()
 	{
-		throw null;
+
 	}
 }

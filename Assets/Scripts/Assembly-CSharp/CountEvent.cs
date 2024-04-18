@@ -103,6 +103,6 @@ public class CountEvent : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public CountEvent()
 	{
-		throw null;
+
 	}
 }

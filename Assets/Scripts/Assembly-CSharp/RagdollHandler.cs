@@ -29,6 +29,6 @@ public class RagdollHandler : Singleton<RagdollHandler>
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public RagdollHandler()
 	{
-		throw null;
+
 	}
 }

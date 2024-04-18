@@ -43,6 +43,6 @@ public class VoiceChatModeSetting : EnumSetting, IExposedSetting
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public VoiceChatModeSetting()
 	{
-		throw null;
+
 	}
 }

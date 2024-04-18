@@ -47,7 +47,7 @@ public class BrightnessSetting : FloatSetting, IExposedSetting
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public BrightnessSetting()
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

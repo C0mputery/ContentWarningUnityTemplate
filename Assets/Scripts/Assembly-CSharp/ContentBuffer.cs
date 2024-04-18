@@ -68,7 +68,7 @@ public class ContentBuffer
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ContentBuffer()
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]
@@ -104,7 +104,7 @@ public class ContentBuffer
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ContentBuffer(BinaryDeserializer deserializer)
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

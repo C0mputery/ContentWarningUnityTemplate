@@ -9,7 +9,7 @@ public class ItemKeyTooltip : IHaveUIData
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ItemKeyTooltip(string key)
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

@@ -71,7 +71,7 @@ namespace DefaultNamespace.Artifacts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public CurseOfMonsterSpawn()
 		{
-			throw null;
+
 		}
 	}
 }

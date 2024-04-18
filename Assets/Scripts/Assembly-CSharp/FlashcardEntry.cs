@@ -20,6 +20,6 @@ public class FlashcardEntry : ItemDataEntry
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public FlashcardEntry()
 	{
-		throw null;
+
 	}
 }

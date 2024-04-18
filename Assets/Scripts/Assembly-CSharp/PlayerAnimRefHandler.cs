@@ -44,6 +44,6 @@ public class PlayerAnimRefHandler : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PlayerAnimRefHandler()
 	{
-		throw null;
+
 	}
 }

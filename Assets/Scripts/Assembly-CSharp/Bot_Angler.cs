@@ -132,6 +132,6 @@ public class Bot_Angler : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Bot_Angler()
 	{
-		throw null;
+
 	}
 }

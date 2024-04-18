@@ -5,7 +5,7 @@ public class ExtractMachineIdleState : VideoExtractMachineState
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ExtractMachineIdleState(ExtractVideoMachine machine) : base(machine)
 	{
-        throw null;
+
     }
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

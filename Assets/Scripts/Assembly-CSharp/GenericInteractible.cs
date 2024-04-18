@@ -14,6 +14,6 @@ public class GenericInteractible : Interactable
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public GenericInteractible()
 	{
-		throw null;
+
 	}
 }

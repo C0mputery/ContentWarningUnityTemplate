@@ -41,7 +41,7 @@ namespace EPOOutline.Demo
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public InteractableObject()
 		{
-			throw null;
+
 		}
 	}
 }

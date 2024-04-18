@@ -13,7 +13,7 @@ namespace Zorro.Core.CLI
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ParameterSuggestion(string displayLine, string typeLine, string parameterInput)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

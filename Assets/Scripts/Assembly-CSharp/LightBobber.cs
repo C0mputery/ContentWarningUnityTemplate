@@ -39,6 +39,6 @@ public class LightBobber : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public LightBobber()
 	{
-		throw null;
+
 	}
 }

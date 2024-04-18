@@ -14,7 +14,7 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public SelfMetaData()
 		{
-			throw null;
+
 		}
 	}
 }

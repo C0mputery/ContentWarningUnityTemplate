@@ -9,7 +9,7 @@ namespace Sirenix.Serialization
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public AllowDeserializeInvalidDataAttribute()
 		{
-			throw null;
+
 		}
 	}
 }

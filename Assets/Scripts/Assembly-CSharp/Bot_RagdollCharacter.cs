@@ -50,6 +50,6 @@ public class Bot_RagdollCharacter : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Bot_RagdollCharacter()
 	{
-		throw null;
+
 	}
 }

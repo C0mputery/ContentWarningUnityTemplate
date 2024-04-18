@@ -33,6 +33,6 @@ public class MoneyAddedUI : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public MoneyAddedUI()
 	{
-		throw null;
+
 	}
 }

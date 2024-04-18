@@ -97,7 +97,7 @@ namespace Photon.Voice.PUN
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PhotonVoiceView()
 		{
-			throw null;
+
 		}
 	}
 }

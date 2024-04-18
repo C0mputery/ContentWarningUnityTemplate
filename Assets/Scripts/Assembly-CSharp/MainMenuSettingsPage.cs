@@ -20,6 +20,6 @@ public class MainMenuSettingsPage : MainMenuPage
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public MainMenuSettingsPage()
 	{
-		throw null;
+
 	}
 }

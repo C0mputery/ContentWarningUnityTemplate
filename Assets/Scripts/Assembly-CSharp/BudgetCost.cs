@@ -29,6 +29,6 @@ public class BudgetCost : MonoBehaviour, IBudgetCost
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public BudgetCost()
 	{
-		throw null;
+
 	}
 }

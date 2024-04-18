@@ -88,6 +88,6 @@ public class PlayerRecorderAudioListener : RecorderAudioListener
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PlayerRecorderAudioListener()
 	{
-		throw null;
+
 	}
 }

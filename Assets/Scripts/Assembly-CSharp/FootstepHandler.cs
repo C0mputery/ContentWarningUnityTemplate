@@ -50,6 +50,6 @@ public class FootstepHandler : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public FootstepHandler()
 	{
-		throw null;
+
 	}
 }

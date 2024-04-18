@@ -86,7 +86,7 @@ namespace SCPE
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public LUT()
 		{
-			throw null;
+
 		}
 	}
 }

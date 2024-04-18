@@ -37,6 +37,6 @@ public class AmbientOcclusionSetting : EnumSetting, IExposedSetting
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public AmbientOcclusionSetting()
 	{
-		throw null;
+
 	}
 }

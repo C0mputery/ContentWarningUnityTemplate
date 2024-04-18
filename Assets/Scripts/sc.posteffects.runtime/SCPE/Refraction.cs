@@ -52,7 +52,7 @@ namespace SCPE
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public Refraction()
 		{
-			throw null;
+
 		}
 	}
 }

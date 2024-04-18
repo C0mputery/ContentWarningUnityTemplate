@@ -54,6 +54,6 @@ public class EdgeStretch : VolumeComponent, IPostProcessComponent
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public EdgeStretch()
 	{
-		throw null;
+
 	}
 }

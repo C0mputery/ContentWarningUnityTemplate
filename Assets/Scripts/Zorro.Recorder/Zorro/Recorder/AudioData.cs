@@ -9,7 +9,7 @@ namespace Zorro.Recorder
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public AudioData(float[] data)
 		{
-			throw null;
+
 		}
 	}
 }

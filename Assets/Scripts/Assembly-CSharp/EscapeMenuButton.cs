@@ -58,6 +58,6 @@ public class EscapeMenuButton : MonoBehaviour, IPointerEnterHandler, IEventSyste
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public EscapeMenuButton()
 	{
-		throw null;
+
 	}
 }

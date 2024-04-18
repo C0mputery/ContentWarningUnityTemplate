@@ -200,6 +200,6 @@ public class Bot_Weeping : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Bot_Weeping()
 	{
-		throw null;
+
 	}
 }

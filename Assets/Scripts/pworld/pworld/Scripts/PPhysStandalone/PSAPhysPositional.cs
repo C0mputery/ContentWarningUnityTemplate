@@ -46,7 +46,7 @@ namespace pworld.Scripts.PPhysStandalone
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PSAPhysPositional()
 		{
-			throw null;
+
 		}
 	}
 }

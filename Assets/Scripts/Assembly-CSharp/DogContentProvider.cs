@@ -13,6 +13,6 @@ public class DogContentProvider : MonsterContentProvider
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public DogContentProvider()
 	{
-		throw null;
+
 	}
 }

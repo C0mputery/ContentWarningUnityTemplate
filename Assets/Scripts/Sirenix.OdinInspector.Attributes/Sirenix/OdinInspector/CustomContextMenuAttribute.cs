@@ -33,7 +33,7 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public CustomContextMenuAttribute(string menuItem, string action)
 		{
-			throw null;
+
 		}
 	}
 }

@@ -6,6 +6,6 @@ public class VideoPlaybackScreen : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public VideoPlaybackScreen()
 	{
-		throw null;
+
 	}
 }

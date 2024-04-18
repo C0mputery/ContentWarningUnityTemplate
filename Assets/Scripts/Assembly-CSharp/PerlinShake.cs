@@ -33,6 +33,6 @@ public class PerlinShake : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PerlinShake()
 	{
-		throw null;
+
 	}
 }

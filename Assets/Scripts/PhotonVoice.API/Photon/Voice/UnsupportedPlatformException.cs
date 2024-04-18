@@ -8,7 +8,7 @@ namespace Photon.Voice
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public UnsupportedPlatformException(string subject, string platform = null)
 		{
-			throw null;
+
 		}
 	}
 }

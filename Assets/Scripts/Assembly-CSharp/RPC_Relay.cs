@@ -31,6 +31,6 @@ public class RPC_Relay : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public RPC_Relay()
 	{
-		throw null;
+
 	}
 }

@@ -37,7 +37,7 @@ namespace Photon.Chat
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ChatAppSettings()
 		{
-			throw null;
+
 		}
 	}
 }

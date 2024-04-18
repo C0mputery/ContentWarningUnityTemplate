@@ -14,7 +14,7 @@ namespace ExitGames.Client.Photon
 		[Preserve]
 		public SocketUdpAsync(PeerBase npeer) : base(npeer)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

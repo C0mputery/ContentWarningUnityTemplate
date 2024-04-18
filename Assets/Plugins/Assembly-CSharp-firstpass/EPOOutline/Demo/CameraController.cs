@@ -23,7 +23,7 @@ namespace EPOOutline.Demo
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public CameraController()
 		{
-			throw null;
+
 		}
 	}
 }

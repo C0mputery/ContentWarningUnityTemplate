@@ -148,7 +148,7 @@ namespace Photon.Realtime
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public RoomOptions()
 		{
-			throw null;
+
 		}
 	}
 }

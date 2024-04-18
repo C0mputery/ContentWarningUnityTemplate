@@ -9,6 +9,6 @@ public class ContentComment
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ContentComment()
 	{
-		throw null;
+
 	}
 }

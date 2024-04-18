@@ -42,7 +42,7 @@ namespace Sirenix.Serialization
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public CoroutineFormatter()
 		{
-			throw null;
+
 		}
 	}
 }

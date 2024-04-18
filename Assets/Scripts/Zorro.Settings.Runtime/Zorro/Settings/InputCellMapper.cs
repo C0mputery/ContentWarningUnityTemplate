@@ -18,7 +18,7 @@ namespace Zorro.Settings
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public InputCellMapper()
 		{
-			throw null;
+
 		}
 	}
 }

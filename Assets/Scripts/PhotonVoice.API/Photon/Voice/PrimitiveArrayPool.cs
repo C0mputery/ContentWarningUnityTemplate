@@ -7,13 +7,13 @@ namespace Photon.Voice
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PrimitiveArrayPool(int capacity, string name) : base(69, null)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PrimitiveArrayPool(int capacity, string name, int info) : base(69, null)
 		{
-            throw null;
+
         }
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

@@ -54,6 +54,6 @@ public class UserInterface : Singleton<UserInterface>
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public UserInterface()
 	{
-		throw null;
+
 	}
 }

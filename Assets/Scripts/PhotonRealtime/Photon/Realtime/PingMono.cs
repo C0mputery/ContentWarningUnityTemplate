@@ -28,7 +28,7 @@ namespace Photon.Realtime
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PingMono()
 		{
-			throw null;
+
 		}
 	}
 }

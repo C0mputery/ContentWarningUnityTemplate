@@ -67,6 +67,6 @@ public class Bot_Nav_Navmesh : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Bot_Nav_Navmesh()
 	{
-		throw null;
+
 	}
 }

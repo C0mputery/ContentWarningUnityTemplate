@@ -152,6 +152,6 @@ public class Bot_CameraCreep : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Bot_CameraCreep()
 	{
-		throw null;
+
 	}
 }

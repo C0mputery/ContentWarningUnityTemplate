@@ -11,7 +11,7 @@ namespace Photon.Chat
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ChannelWellKnownProperties()
 		{
-			throw null;
+
 		}
 	}
 }

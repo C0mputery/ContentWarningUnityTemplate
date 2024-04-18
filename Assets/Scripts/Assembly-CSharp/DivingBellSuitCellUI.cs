@@ -29,6 +29,6 @@ public class DivingBellSuitCellUI : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public DivingBellSuitCellUI()
 	{
-		throw null;
+
 	}
 }

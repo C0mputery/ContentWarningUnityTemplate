@@ -15,7 +15,7 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public TableColumnWidthAttribute(int width, bool resizable = true)
 		{
-			throw null;
+
 		}
 	}
 }

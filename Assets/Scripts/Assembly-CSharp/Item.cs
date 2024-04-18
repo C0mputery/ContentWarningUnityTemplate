@@ -130,6 +130,6 @@ public class Item : ScriptableObject
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Item()
 	{
-		throw null;
+
 	}
 }

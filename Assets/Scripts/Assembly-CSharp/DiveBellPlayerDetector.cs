@@ -17,6 +17,6 @@ public class DiveBellPlayerDetector : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public DiveBellPlayerDetector()
 	{
-		throw null;
+
 	}
 }

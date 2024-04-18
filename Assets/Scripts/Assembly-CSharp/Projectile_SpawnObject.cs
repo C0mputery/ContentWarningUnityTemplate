@@ -22,6 +22,6 @@ public class Projectile_SpawnObject : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Projectile_SpawnObject()
 	{
-		throw null;
+
 	}
 }

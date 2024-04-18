@@ -37,6 +37,6 @@ public class IKRigHandler : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public IKRigHandler()
 	{
-		throw null;
+
 	}
 }

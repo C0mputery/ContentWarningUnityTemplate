@@ -31,6 +31,6 @@ public class CW_TAB : TAB_Button
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public CW_TAB()
 	{
-		throw null;
+
 	}
 }

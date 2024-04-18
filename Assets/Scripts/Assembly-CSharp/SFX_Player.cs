@@ -204,6 +204,6 @@ public class SFX_Player : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SFX_Player()
 	{
-		throw null;
+
 	}
 }

@@ -12,6 +12,6 @@ public class MainMenuUIHandler : UIPageHandler
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public MainMenuUIHandler()
 	{
-		throw null;
+
 	}
 }

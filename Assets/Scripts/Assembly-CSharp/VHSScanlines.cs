@@ -60,6 +60,6 @@ public class VHSScanlines : VolumeComponent, IPostProcessComponent
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public VHSScanlines()
 	{
-		throw null;
+
 	}
 }

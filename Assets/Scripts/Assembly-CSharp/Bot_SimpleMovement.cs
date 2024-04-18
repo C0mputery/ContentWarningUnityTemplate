@@ -42,6 +42,6 @@ public class Bot_SimpleMovement : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Bot_SimpleMovement()
 	{
-		throw null;
+
 	}
 }

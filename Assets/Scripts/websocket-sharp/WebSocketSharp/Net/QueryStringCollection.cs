@@ -9,13 +9,13 @@ namespace WebSocketSharp.Net
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public QueryStringCollection()
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public QueryStringCollection(int capacity)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

@@ -14,7 +14,7 @@ namespace Sirenix.Serialization
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public TypeFormatterLocator()
 		{
-			throw null;
+
 		}
 	}
 }

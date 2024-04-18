@@ -130,7 +130,7 @@ namespace Photon.Voice.Unity.UtilityScripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ConnectAndJoin()
 		{
-			throw null;
+
 		}
 	}
 }

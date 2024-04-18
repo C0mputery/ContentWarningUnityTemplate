@@ -8,13 +8,13 @@ namespace Sirenix.Serialization
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public SerializationAbortException(string message)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public SerializationAbortException(string message, Exception innerException)
 		{
-			throw null;
+
 		}
 	}
 }

@@ -30,7 +30,7 @@ namespace CurvedUI
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public CurvedUIHandSwitcher()
 		{
-			throw null;
+
 		}
 	}
 }

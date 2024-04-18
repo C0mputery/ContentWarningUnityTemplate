@@ -23,7 +23,7 @@ namespace Zorro.UI
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public GameUIHandler()
 		{
-			throw null;
+
 		}
 	}
 }

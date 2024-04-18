@@ -8,7 +8,7 @@ namespace Sirenix.Serialization
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public WeakDelegateFormatter(Type delegateType)
 		{
-			throw null;
+
 		}
 	}
 }

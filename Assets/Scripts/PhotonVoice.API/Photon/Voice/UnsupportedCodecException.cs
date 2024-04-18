@@ -8,7 +8,7 @@ namespace Photon.Voice
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public UnsupportedCodecException(string info, Codec codec)
 		{
-			throw null;
+
 		}
 	}
 }

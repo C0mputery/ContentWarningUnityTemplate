@@ -21,7 +21,7 @@ namespace Zorro.Core.CLI.ParsableTypes
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public FloatCLIParser()
 		{
-			throw null;
+
 		}
 	}
 }

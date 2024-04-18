@@ -256,7 +256,7 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ListDrawerSettingsAttribute()
 		{
-			throw null;
+
 		}
 	}
 }

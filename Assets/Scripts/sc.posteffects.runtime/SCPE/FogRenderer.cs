@@ -115,7 +115,7 @@ namespace SCPE
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public FogRenderer()
 		{
-			throw null;
+
 		}
 	}
 }

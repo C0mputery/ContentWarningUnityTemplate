@@ -175,7 +175,7 @@ public class RoomStatsHolder
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public RoomStatsHolder(SurfaceNetworkHandler handler, int startMoney, int startQuotaToReachToReach, int daysPerQuota)
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

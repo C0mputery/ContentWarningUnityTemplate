@@ -105,6 +105,6 @@ public class VHSScanlines_RLPRO : ScriptableRendererFeature
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public VHSScanlines_RLPRO()
 	{
-		throw null;
+
 	}
 }

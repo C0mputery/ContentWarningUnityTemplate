@@ -34,6 +34,6 @@ public class ThrownBodyDamage : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ThrownBodyDamage()
 	{
-		throw null;
+
 	}
 }

@@ -15,19 +15,19 @@ namespace Zorro.Core.Serizalization
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public BinaryDeserializer(NativeArray<byte> buffer)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public BinaryDeserializer(byte[] buffer, Allocator allocator)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public BinaryDeserializer(BinarySerializer serializer)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

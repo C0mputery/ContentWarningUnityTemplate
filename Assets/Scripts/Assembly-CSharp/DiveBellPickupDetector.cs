@@ -17,6 +17,6 @@ public class DiveBellPickupDetector : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public DiveBellPickupDetector()
 	{
-		throw null;
+
 	}
 }

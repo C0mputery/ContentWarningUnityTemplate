@@ -109,6 +109,6 @@ public class Bot_Snactcho : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Bot_Snactcho()
 	{
-		throw null;
+
 	}
 }

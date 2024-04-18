@@ -30,7 +30,7 @@ namespace ExitGames.Client.Photon
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public SimulationItem()
 		{
-			throw null;
+
 		}
 	}
 }

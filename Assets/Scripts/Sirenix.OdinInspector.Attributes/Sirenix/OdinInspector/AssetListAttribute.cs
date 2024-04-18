@@ -23,7 +23,7 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public AssetListAttribute()
 		{
-			throw null;
+
 		}
 	}
 }

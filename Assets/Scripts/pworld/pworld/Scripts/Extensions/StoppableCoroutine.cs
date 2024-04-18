@@ -148,7 +148,7 @@ namespace pworld.Scripts.Extensions
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public StoppableCoroutine(MonoBehaviour mb, IEnumerator aCoroutine)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

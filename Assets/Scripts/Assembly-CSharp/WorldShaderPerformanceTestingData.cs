@@ -15,6 +15,6 @@ public class WorldShaderPerformanceTestingData : SingletonAsset<WorldShaderPerfo
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public WorldShaderPerformanceTestingData()
 	{
-		throw null;
+
 	}
 }

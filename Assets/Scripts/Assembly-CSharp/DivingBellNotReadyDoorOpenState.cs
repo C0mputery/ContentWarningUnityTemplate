@@ -12,6 +12,6 @@ public class DivingBellNotReadyDoorOpenState : DivingBellState
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public DivingBellNotReadyDoorOpenState()
 	{
-		throw null;
+
 	}
 }

@@ -45,6 +45,6 @@ public class DiveBellSFX : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public DiveBellSFX()
 	{
-		throw null;
+
 	}
 }

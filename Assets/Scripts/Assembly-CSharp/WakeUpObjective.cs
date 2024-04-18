@@ -11,6 +11,6 @@ public class WakeUpObjective : Objective
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public WakeUpObjective()
 	{
-		throw null;
+
 	}
 }

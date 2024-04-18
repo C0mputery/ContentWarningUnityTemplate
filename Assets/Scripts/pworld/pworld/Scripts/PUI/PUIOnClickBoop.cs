@@ -36,7 +36,7 @@ namespace pworld.Scripts.PUI
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PUIOnClickBoop()
 		{
-			throw null;
+
 		}
 	}
 }

@@ -30,6 +30,6 @@ public class Puppetmonster : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Puppetmonster()
 	{
-		throw null;
+
 	}
 }

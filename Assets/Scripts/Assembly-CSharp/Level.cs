@@ -169,6 +169,6 @@ public class Level : SerializedMonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Level()
 	{
-		throw null;
+
 	}
 }

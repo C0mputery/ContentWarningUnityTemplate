@@ -49,7 +49,7 @@ namespace Photon.Voice.Unity
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public MicrophoneRelay()
 		{
-			throw null;
+
 		}
 	}
 }

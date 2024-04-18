@@ -39,6 +39,6 @@ public class Latch : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Latch()
 	{
-		throw null;
+
 	}
 }

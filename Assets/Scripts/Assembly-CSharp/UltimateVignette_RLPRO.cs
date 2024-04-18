@@ -87,6 +87,6 @@ public class UltimateVignette_RLPRO : ScriptableRendererFeature
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public UltimateVignette_RLPRO()
 	{
-		throw null;
+
 	}
 }

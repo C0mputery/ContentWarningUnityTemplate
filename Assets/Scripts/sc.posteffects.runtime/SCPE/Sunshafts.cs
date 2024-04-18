@@ -114,7 +114,7 @@ namespace SCPE
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public Sunshafts()
 		{
-			throw null;
+
 		}
 	}
 }

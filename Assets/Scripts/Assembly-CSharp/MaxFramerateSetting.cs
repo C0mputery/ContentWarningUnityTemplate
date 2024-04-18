@@ -49,6 +49,6 @@ public class MaxFramerateSetting : FloatSetting, IExposedSetting
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public MaxFramerateSetting()
 	{
-		throw null;
+
 	}
 }

@@ -11,13 +11,13 @@ namespace Photon.Voice
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ImageBufferNativePool(int capacity, Factory factory, string name) : base(69, null)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ImageBufferNativePool(int capacity, Factory factory, string name, ImageBufferInfo info) : base(69, null)
 		{
-            throw null;
+
         }
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

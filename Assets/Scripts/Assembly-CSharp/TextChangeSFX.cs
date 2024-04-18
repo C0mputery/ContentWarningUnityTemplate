@@ -29,6 +29,6 @@ public class TextChangeSFX : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public TextChangeSFX()
 	{
-		throw null;
+
 	}
 }

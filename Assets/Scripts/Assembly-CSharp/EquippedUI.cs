@@ -28,6 +28,6 @@ public class EquippedUI : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public EquippedUI()
 	{
-		throw null;
+
 	}
 }

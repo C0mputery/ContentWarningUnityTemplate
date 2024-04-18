@@ -94,7 +94,7 @@ public class VideoChunk
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public VideoChunk(ushort chunkCount, ushort chunkIndex, byte[] chunk, ClipID clipID, VideoHandle videoID, NativeArray<byte> contentEventData)
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

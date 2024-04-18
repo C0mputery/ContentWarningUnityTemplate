@@ -29,7 +29,7 @@ namespace Photon.Voice
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public AudioOutDelayControl()
 		{
-			throw null;
+
 		}
 	}
 	public abstract class AudioOutDelayControl<T> : AudioOutDelayControl, IAudioOut<T>
@@ -140,7 +140,7 @@ namespace Photon.Voice
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public AudioOutDelayControl(bool processInService, PlayDelayConfig playDelayConfig, ILogger logger, string logPrefix, bool debugInfo)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

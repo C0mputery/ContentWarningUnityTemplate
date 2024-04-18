@@ -52,25 +52,25 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PropertyRangeAttribute(double min, double max)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PropertyRangeAttribute(string minGetter, double max)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PropertyRangeAttribute(double min, string maxGetter)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PropertyRangeAttribute(string minGetter, string maxGetter)
 		{
-			throw null;
+
 		}
 	}
 }

@@ -46,6 +46,6 @@ public class Warp : VolumeComponent, IPostProcessComponent
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Warp()
 	{
-		throw null;
+
 	}
 }

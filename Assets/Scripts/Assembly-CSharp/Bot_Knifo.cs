@@ -70,6 +70,6 @@ public class Bot_Knifo : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Bot_Knifo()
 	{
-		throw null;
+
 	}
 }

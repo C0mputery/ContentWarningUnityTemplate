@@ -54,6 +54,6 @@ public class CRTAperture : VolumeComponent, IPostProcessComponent
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public CRTAperture()
 	{
-		throw null;
+
 	}
 }

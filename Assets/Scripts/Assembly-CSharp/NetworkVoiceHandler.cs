@@ -64,6 +64,6 @@ public class NetworkVoiceHandler : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public NetworkVoiceHandler()
 	{
-		throw null;
+
 	}
 }

@@ -216,7 +216,7 @@ namespace POpusCodec
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public OpusEncoder(SamplingRate inputSamplingRateHz, Channels numChannels, int bitrate, OpusApplicationType applicationType, Delay encoderDelay)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

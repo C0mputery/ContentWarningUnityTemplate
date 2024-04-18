@@ -19,6 +19,6 @@ public class CloseVideoInteractable : Interactable
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public CloseVideoInteractable()
 	{
-		throw null;
+
 	}
 }

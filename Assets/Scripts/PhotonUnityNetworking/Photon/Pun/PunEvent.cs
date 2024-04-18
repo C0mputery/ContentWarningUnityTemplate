@@ -31,7 +31,7 @@ namespace Photon.Pun
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PunEvent()
 		{
-			throw null;
+
 		}
 	}
 }

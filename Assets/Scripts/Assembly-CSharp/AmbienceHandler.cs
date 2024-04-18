@@ -58,6 +58,6 @@ public class AmbienceHandler : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public AmbienceHandler()
 	{
-		throw null;
+
 	}
 }

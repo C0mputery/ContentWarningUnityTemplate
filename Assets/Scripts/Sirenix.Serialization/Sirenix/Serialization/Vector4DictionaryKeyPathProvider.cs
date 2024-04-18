@@ -35,7 +35,7 @@ namespace Sirenix.Serialization
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public Vector4DictionaryKeyPathProvider()
 		{
-			throw null;
+
 		}
 	}
 }

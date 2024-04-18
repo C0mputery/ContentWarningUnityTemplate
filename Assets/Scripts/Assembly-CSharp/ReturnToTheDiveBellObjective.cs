@@ -11,6 +11,6 @@ public class ReturnToTheDiveBellObjective : Objective
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ReturnToTheDiveBellObjective()
 	{
-		throw null;
+
 	}
 }

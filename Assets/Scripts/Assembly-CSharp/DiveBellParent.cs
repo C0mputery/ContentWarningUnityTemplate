@@ -28,6 +28,6 @@ public class DiveBellParent : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public DiveBellParent()
 	{
-		throw null;
+
 	}
 }

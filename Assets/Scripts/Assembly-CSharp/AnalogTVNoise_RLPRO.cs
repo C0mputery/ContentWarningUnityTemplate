@@ -113,6 +113,6 @@ public class AnalogTVNoise_RLPRO : ScriptableRendererFeature
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public AnalogTVNoise_RLPRO()
 	{
-		throw null;
+
 	}
 }

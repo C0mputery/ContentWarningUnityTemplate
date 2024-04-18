@@ -10,6 +10,6 @@ internal class TerrainChunk
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public TerrainChunk()
 	{
-		throw null;
+
 	}
 }

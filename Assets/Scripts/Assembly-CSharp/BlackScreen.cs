@@ -38,6 +38,6 @@ public class BlackScreen : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public BlackScreen()
 	{
-		throw null;
+
 	}
 }

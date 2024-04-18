@@ -22,6 +22,6 @@ public class HandAction : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public HandAction()
 	{
-		throw null;
+
 	}
 }

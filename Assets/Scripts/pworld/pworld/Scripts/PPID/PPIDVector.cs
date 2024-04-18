@@ -22,13 +22,13 @@ namespace pworld.Scripts.PPID
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PPIDVector(float P, float I, float D)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PPIDVector()
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

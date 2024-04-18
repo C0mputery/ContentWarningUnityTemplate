@@ -11,6 +11,6 @@ public class PickupTheCameraObjective : Objective
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PickupTheCameraObjective()
 	{
-		throw null;
+
 	}
 }

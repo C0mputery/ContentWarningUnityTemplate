@@ -21,7 +21,7 @@ namespace DefaultNamespace._10._SCRIPTS
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public NetworkStats()
 		{
-			throw null;
+
 		}
 	}
 }

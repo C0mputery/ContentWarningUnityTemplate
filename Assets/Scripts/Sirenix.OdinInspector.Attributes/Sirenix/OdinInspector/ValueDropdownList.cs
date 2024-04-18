@@ -20,7 +20,7 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ValueDropdownList()
 		{
-			throw null;
+
 		}
 	}
 }

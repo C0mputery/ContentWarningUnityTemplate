@@ -37,7 +37,7 @@ namespace UnityEngine.Localization.Samples
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public SimpleLocalesProvider()
 		{
-			throw null;
+
 		}
 	}
 }

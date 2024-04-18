@@ -16,6 +16,6 @@ public class SphereSampler
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SphereSampler()
 	{
-		throw null;
+
 	}
 }

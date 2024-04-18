@@ -12,7 +12,7 @@ namespace pworld.Scripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PRaycastHit()
 		{
-			throw null;
+
 		}
 	}
 }

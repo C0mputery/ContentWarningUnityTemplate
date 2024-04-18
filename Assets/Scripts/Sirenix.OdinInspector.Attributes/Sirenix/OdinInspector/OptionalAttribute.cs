@@ -11,7 +11,7 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public OptionalAttribute()
 		{
-			throw null;
+
 		}
 	}
 }

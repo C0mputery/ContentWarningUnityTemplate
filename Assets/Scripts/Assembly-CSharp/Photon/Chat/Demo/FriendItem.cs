@@ -42,7 +42,7 @@ namespace Photon.Chat.Demo
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public FriendItem()
 		{
-			throw null;
+
 		}
 	}
 }

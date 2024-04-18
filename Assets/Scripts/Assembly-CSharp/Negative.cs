@@ -49,6 +49,6 @@ public class Negative : VolumeComponent, IPostProcessComponent
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Negative()
 	{
-		throw null;
+
 	}
 }

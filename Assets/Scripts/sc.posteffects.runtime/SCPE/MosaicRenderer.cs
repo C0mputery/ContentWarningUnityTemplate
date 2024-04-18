@@ -54,7 +54,7 @@ namespace SCPE
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public MosaicRenderer()
 		{
-			throw null;
+
 		}
 	}
 }

@@ -12,6 +12,6 @@ public class DivingBellNotReadyMissingPlayersState : DivingBellState
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public DivingBellNotReadyMissingPlayersState()
 	{
-		throw null;
+
 	}
 }

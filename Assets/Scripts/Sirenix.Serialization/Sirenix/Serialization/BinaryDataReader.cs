@@ -35,13 +35,13 @@ namespace Sirenix.Serialization
 		/*[MethodImpl(MethodImplOptions.NoInlining)]
 		public BinaryDataReader() 
 		{
-            throw null;
+
         }*/
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public BinaryDataReader(Stream stream, DeserializationContext context) : base(stream, context)
 		{
-            throw null;
+
         }
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

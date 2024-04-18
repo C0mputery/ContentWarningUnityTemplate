@@ -92,7 +92,7 @@ namespace SCPE
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public Sketch()
 		{
-			throw null;
+
 		}
 	}
 }

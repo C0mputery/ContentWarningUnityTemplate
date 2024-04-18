@@ -10,7 +10,7 @@ namespace Zorro.Core.CubeSplitting
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public CubeSplitter()
 		{
-			throw null;
+
 		}
 	}
 }

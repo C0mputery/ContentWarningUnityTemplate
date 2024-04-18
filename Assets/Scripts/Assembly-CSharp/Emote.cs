@@ -25,6 +25,6 @@ public class Emote
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Emote()
 	{
-		throw null;
+
 	}
 }

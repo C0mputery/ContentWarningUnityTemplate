@@ -50,7 +50,7 @@ namespace Photon.Realtime
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public OperationCode()
 		{
-			throw null;
+
 		}
 	}
 }

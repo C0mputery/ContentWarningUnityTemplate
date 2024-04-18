@@ -30,7 +30,7 @@ namespace Sirenix.OdinInspector.Modules.Localization
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public LocalizedStringFormatter()
 		{
-			throw null;
+
 		}
 	}
 }

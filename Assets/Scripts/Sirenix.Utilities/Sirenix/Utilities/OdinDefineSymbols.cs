@@ -17,7 +17,7 @@ namespace Sirenix.Utilities
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public OdinDefineSymbols()
 		{
-			throw null;
+
 		}
 	}
 }

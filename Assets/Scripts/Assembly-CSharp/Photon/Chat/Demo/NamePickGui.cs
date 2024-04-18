@@ -34,7 +34,7 @@ namespace Photon.Chat.Demo
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public NamePickGui()
 		{
-			throw null;
+
 		}
 	}
 }

@@ -50,7 +50,7 @@ namespace Zorro.UI
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public OverlayUIHandler()
 		{
-			throw null;
+
 		}
 	}
 }

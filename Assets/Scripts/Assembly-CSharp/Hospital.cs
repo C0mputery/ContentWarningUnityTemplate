@@ -14,6 +14,6 @@ public class Hospital : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Hospital()
 	{
-		throw null;
+
 	}
 }

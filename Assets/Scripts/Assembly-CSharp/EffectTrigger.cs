@@ -32,6 +32,6 @@ public class EffectTrigger : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public EffectTrigger()
 	{
-		throw null;
+
 	}
 }

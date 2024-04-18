@@ -24,6 +24,6 @@ public class AudioToggler : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public AudioToggler()
 	{
-		throw null;
+
 	}
 }

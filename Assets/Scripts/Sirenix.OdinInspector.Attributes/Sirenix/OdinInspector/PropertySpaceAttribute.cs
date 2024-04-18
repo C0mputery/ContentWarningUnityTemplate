@@ -16,19 +16,19 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PropertySpaceAttribute()
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PropertySpaceAttribute(float spaceBefore)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PropertySpaceAttribute(float spaceBefore, float spaceAfter)
 		{
-			throw null;
+
 		}
 	}
 }

@@ -13,6 +13,6 @@ public class LarvaContentProvider : MonsterContentProvider
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public LarvaContentProvider()
 	{
-		throw null;
+
 	}
 }

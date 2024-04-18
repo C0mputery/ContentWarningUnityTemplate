@@ -15,6 +15,6 @@ public class UI_Stamina : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public UI_Stamina()
 	{
-		throw null;
+
 	}
 }

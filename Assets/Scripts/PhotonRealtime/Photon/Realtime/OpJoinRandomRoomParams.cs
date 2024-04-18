@@ -20,7 +20,7 @@ namespace Photon.Realtime
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public OpJoinRandomRoomParams()
 		{
-			throw null;
+
 		}
 	}
 }

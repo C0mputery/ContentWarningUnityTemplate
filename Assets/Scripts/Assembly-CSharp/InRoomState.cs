@@ -11,6 +11,6 @@ public class InRoomState : ConnectionState
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public InRoomState()
 	{
-		throw null;
+
 	}
 }

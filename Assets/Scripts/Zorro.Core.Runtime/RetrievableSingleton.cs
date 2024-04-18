@@ -49,6 +49,6 @@ public class RetrievableSingleton<T> : MonoBehaviour where T : RetrievableSingle
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public RetrievableSingleton()
 	{
-		throw null;
+
 	}
 }

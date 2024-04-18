@@ -79,7 +79,7 @@ namespace SCPE
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public SunshaftsRenderer()
 		{
-			throw null;
+
 		}
 	}
 }

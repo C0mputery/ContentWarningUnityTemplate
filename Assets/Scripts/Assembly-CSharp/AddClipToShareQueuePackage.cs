@@ -40,6 +40,6 @@ public class AddClipToShareQueuePackage : CustomCommandPackage<CustomCommandType
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public AddClipToShareQueuePackage()
 	{
-		throw null;
+
 	}
 }

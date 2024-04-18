@@ -68,6 +68,6 @@ public class Modal : RetrievableResourceSingleton<Modal>
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Modal()
 	{
-		throw null;
+
 	}
 }

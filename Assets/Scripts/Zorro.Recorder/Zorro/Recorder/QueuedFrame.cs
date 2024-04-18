@@ -13,7 +13,7 @@ namespace Zorro.Recorder
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public QueuedFrame(RenderTexture frame, AsyncGPUReadbackRequest readbackRequest)
 		{
-			throw null;
+
 		}
 	}
 }

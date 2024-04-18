@@ -79,13 +79,13 @@ namespace WebSocketSharp.Net
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public NetworkCredential(string username, string password)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public NetworkCredential(string username, string password, string domain, params string[] roles)
 		{
-			throw null;
+
 		}
 	}
 }

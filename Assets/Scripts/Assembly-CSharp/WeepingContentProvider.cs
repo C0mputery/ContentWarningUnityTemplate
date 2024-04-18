@@ -29,6 +29,6 @@ public class WeepingContentProvider : MonsterContentProvider
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public WeepingContentProvider()
 	{
-		throw null;
+
 	}
 }

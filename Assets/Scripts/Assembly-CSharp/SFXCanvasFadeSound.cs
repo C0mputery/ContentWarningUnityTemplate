@@ -20,6 +20,6 @@ public class SFXCanvasFadeSound : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SFXCanvasFadeSound()
 	{
-		throw null;
+
 	}
 }

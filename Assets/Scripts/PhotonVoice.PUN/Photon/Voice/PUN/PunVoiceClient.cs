@@ -113,7 +113,7 @@ namespace Photon.Voice.PUN
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PunVoiceClient()
 		{
-			throw null;
+
 		}
 	}
 }

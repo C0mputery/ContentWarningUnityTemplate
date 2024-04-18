@@ -105,6 +105,6 @@ public class DivingBellOutsideButton : Interactable
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public DivingBellOutsideButton()
 	{
-		throw null;
+
 	}
 }

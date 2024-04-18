@@ -8,7 +8,7 @@ namespace Zorro.Settings.DebugUI
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public SettingUI()
 		{
-			throw null;
+
 		}
 	}
 }

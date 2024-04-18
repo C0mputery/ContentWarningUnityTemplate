@@ -30,7 +30,7 @@ namespace pworld.Scripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PKillAfterTime()
 		{
-			throw null;
+
 		}
 	}
 }

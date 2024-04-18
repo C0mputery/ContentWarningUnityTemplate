@@ -70,6 +70,6 @@ public class TVEffect : VolumeComponent, IPostProcessComponent
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public TVEffect()
 	{
-		throw null;
+
 	}
 }

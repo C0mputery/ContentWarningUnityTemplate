@@ -6,6 +6,6 @@ public class DivingBellStateMachine : StateMachine<DivingBellState>
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public DivingBellStateMachine()
 	{
-		throw null;
+
 	}
 }

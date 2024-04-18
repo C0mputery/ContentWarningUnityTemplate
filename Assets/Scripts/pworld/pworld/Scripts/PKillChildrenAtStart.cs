@@ -32,7 +32,7 @@ namespace pworld.Scripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PKillChildrenAtStart()
 		{
-			throw null;
+
 		}
 	}
 }

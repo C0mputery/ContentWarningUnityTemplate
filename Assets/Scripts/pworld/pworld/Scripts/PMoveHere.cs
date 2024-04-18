@@ -16,7 +16,7 @@ namespace pworld.Scripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PMoveHere()
 		{
-			throw null;
+
 		}
 	}
 }

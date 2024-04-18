@@ -16,6 +16,6 @@ public class SeededActivationChance : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SeededActivationChance()
 	{
-		throw null;
+
 	}
 }

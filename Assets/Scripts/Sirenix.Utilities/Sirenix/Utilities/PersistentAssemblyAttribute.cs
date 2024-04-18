@@ -9,7 +9,7 @@ namespace Sirenix.Utilities
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PersistentAssemblyAttribute()
 		{
-			throw null;
+
 		}
 	}
 }

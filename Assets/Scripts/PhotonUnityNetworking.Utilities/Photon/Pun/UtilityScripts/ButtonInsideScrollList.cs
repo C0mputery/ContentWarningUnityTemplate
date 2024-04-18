@@ -30,7 +30,7 @@ namespace Photon.Pun.UtilityScripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ButtonInsideScrollList()
 		{
-			throw null;
+
 		}
 	}
 }

@@ -93,7 +93,7 @@ namespace pworld.Scripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PScaleShake()
 		{
-			throw null;
+
 		}
 	}
 }

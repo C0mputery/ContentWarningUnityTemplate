@@ -12,6 +12,6 @@ public class SetBounds : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SetBounds()
 	{
-		throw null;
+
 	}
 }

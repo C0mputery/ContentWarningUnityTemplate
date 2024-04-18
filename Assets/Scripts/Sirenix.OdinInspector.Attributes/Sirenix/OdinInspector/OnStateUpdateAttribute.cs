@@ -16,7 +16,7 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public OnStateUpdateAttribute(string action)
 		{
-			throw null;
+
 		}
 	}
 }

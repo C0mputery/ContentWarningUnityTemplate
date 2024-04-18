@@ -31,6 +31,6 @@ public class UniformModifier : ProceduralImageModifier
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public UniformModifier()
 	{
-		throw null;
+
 	}
 }

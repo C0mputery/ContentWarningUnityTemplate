@@ -30,7 +30,7 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public CustomValueDrawerAttribute(string action)
 		{
-			throw null;
+
 		}
 	}
 }

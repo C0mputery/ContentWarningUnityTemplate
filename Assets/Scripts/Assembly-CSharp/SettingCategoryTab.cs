@@ -17,6 +17,6 @@ public class SettingCategoryTab : MonoBehaviour, ITabAction
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SettingCategoryTab()
 	{
-		throw null;
+
 	}
 }

@@ -37,6 +37,6 @@ public class VSyncSetting : EnumSetting, IExposedSetting
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public VSyncSetting()
 	{
-		throw null;
+
 	}
 }

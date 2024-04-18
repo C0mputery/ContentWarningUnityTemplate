@@ -99,6 +99,6 @@ public class PictureCorrection_RLPRO : ScriptableRendererFeature
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PictureCorrection_RLPRO()
 	{
-		throw null;
+
 	}
 }

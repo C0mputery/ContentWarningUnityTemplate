@@ -31,7 +31,7 @@ namespace pworld.Scripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PTextTag()
 		{
-			throw null;
+
 		}
 	}
 }

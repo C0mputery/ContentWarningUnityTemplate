@@ -11,6 +11,6 @@ public class PickupDiscObjective : Objective
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PickupDiscObjective()
 	{
-		throw null;
+
 	}
 }

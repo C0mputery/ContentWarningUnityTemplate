@@ -36,6 +36,6 @@ public class ReRequestClipPackage : CustomCommandPackage<CustomCommandType>
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ReRequestClipPackage()
 	{
-		throw null;
+
 	}
 }

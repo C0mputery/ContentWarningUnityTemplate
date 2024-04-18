@@ -39,7 +39,7 @@ namespace pworld.Scripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PCam()
 		{
-			throw null;
+
 		}
 	}
 }

@@ -67,6 +67,6 @@ public class Clapper : ItemInstanceBehaviour, IArtifactContent
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Clapper()
 	{
-		throw null;
+
 	}
 }

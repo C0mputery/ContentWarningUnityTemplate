@@ -50,6 +50,6 @@ public class ColormapPalette : VolumeComponent, IPostProcessComponent
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ColormapPalette()
 	{
-		throw null;
+
 	}
 }

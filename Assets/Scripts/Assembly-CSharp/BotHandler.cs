@@ -35,6 +35,6 @@ public class BotHandler : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public BotHandler()
 	{
-		throw null;
+
 	}
 }

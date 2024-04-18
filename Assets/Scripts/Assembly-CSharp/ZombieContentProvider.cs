@@ -13,6 +13,6 @@ public class ZombieContentProvider : MonsterContentProvider
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ZombieContentProvider()
 	{
-		throw null;
+
 	}
 }

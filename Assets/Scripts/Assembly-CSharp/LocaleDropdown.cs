@@ -89,6 +89,6 @@ public class LocaleDropdown : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public LocaleDropdown()
 	{
-		throw null;
+
 	}
 }

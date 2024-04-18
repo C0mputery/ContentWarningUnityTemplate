@@ -308,6 +308,6 @@ public class RoundSpawner : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public RoundSpawner()
 	{
-		throw null;
+
 	}
 }

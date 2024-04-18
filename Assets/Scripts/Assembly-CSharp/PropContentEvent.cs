@@ -50,6 +50,6 @@ public class PropContentEvent : ContentEvent
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PropContentEvent()
 	{
-		throw null;
+
 	}
 }

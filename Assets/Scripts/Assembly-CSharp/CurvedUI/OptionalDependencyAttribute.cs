@@ -15,7 +15,7 @@ namespace CurvedUI
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public OptionalDependencyAttribute(string dependentClass, string define)
 		{
-			throw null;
+
 		}
 	}
 }

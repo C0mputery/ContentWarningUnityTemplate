@@ -32,6 +32,6 @@ public class ShopInteractableLeftArrow : Interactable
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ShopInteractableLeftArrow()
 	{
-		throw null;
+
 	}
 }

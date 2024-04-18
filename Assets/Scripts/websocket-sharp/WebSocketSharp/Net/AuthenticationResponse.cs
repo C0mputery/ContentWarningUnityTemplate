@@ -10,7 +10,7 @@ namespace WebSocketSharp.Net
 
         public AuthenticationResponse(AuthenticationSchemes scheme, NameValueCollection parameters) : base(scheme, parameters)
         {
-			throw null;
+
         }
 
         internal uint NonceCount

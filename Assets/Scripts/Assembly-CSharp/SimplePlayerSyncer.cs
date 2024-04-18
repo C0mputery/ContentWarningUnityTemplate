@@ -35,6 +35,6 @@ public class SimplePlayerSyncer : MonoBehaviour, IPunObservable
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SimplePlayerSyncer()
 	{
-		throw null;
+
 	}
 }

@@ -25,7 +25,7 @@ namespace Photon.Voice.Unity
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public SpeakerAudioFilterRead()
 		{
-			throw null;
+
 		}
 	}
 }

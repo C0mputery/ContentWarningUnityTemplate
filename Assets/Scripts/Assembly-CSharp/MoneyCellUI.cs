@@ -118,6 +118,6 @@ public class MoneyCellUI : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public MoneyCellUI()
 	{
-		throw null;
+
 	}
 }

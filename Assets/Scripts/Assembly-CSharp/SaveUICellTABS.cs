@@ -18,6 +18,6 @@ public class SaveUICellTABS : TABS<SaveUICell>
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SaveUICellTABS()
 	{
-		throw null;
+
 	}
 }

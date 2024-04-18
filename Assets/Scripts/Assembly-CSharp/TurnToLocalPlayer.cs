@@ -18,6 +18,6 @@ public class TurnToLocalPlayer : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public TurnToLocalPlayer()
 	{
-		throw null;
+
 	}
 }

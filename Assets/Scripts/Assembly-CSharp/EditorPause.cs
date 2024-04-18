@@ -12,6 +12,6 @@ public class EditorPause : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public EditorPause()
 	{
-		throw null;
+
 	}
 }

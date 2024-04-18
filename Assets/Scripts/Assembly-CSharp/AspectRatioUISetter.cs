@@ -67,6 +67,6 @@ public class AspectRatioUISetter : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public AspectRatioUISetter()
 	{
-		throw null;
+
 	}
 }

@@ -10,13 +10,13 @@ public abstract class PlayerBaseEvent : ContentEvent
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PlayerBaseEvent()
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PlayerBaseEvent(string playerName, int actorNumber)
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

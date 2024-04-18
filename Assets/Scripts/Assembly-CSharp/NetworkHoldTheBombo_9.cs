@@ -87,6 +87,6 @@ public class NetworkHoldTheBombo_9 : NetworkDealBase
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public NetworkHoldTheBombo_9()
 	{
-		throw null;
+
 	}
 }

@@ -86,6 +86,6 @@ public class VideoInfoEntry : ItemDataEntry, IHaveUIData
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public VideoInfoEntry()
 	{
-		throw null;
+
 	}
 }

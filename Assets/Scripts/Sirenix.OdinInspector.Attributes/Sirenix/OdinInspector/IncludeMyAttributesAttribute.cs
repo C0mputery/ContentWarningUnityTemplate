@@ -9,7 +9,7 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public IncludeMyAttributesAttribute()
 		{
-			throw null;
+
 		}
 	}
 }

@@ -15,7 +15,7 @@ namespace pworld.Scripts.PPhys.Bursted.Handlers
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PBurstSpringManagerRotation()
 		{
-			throw null;
+
 		}
 	}
 }

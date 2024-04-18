@@ -13,6 +13,6 @@ public class WinchButton : Interactable
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public WinchButton()
 	{
-		throw null;
+
 	}
 }

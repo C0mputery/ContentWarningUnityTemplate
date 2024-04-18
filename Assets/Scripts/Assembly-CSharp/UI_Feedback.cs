@@ -78,6 +78,6 @@ public class UI_Feedback : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public UI_Feedback()
 	{
-		throw null;
+
 	}
 }

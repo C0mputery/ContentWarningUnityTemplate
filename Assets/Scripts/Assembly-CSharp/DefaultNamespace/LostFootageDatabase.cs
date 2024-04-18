@@ -69,7 +69,7 @@ namespace DefaultNamespace
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public LostFootageDatabase()
 		{
-			throw null;
+
 		}
 	}
 }

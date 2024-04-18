@@ -22,6 +22,6 @@ public class AudioVolumeOverDistance : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public AudioVolumeOverDistance()
 	{
-		throw null;
+
 	}
 }

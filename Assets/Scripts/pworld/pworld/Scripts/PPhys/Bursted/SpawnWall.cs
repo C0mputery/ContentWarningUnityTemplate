@@ -38,7 +38,7 @@ namespace pworld.Scripts.PPhys.Bursted
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public SpawnWall()
 		{
-			throw null;
+
 		}
 	}
 }

@@ -110,7 +110,7 @@ namespace pworld.Scripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PDeathDestroy()
 		{
-			throw null;
+
 		}
 	}
 }

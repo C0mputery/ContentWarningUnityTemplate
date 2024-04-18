@@ -26,6 +26,6 @@ public class HeadFollower : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public HeadFollower()
 	{
-		throw null;
+
 	}
 }

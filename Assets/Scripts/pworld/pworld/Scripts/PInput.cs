@@ -276,7 +276,7 @@ namespace pworld.Scripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PInput()
 		{
-			throw null;
+
 		}
 	}
 }

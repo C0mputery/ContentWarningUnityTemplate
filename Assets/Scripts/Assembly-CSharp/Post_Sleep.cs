@@ -30,6 +30,6 @@ public class Post_Sleep : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Post_Sleep()
 	{
-		throw null;
+
 	}
 }

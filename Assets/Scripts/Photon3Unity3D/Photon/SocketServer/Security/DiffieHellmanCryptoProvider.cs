@@ -40,13 +40,13 @@ namespace Photon.SocketServer.Security
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public DiffieHellmanCryptoProvider()
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public DiffieHellmanCryptoProvider(byte[] cryptoKey)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

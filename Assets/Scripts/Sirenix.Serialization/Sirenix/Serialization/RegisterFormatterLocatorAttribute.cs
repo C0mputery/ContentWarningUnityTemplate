@@ -41,7 +41,7 @@ namespace Sirenix.Serialization
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public RegisterFormatterLocatorAttribute(Type formatterLocatorType, int priority = 0)
 		{
-			throw null;
+
 		}
 	}
 }

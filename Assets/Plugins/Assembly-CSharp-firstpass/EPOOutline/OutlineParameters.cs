@@ -96,7 +96,7 @@ namespace EPOOutline
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public OutlineParameters()
 		{
-			throw null;
+
 		}
 	}
 }

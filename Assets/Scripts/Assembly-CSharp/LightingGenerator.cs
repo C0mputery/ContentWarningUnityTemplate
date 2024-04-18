@@ -42,6 +42,6 @@ public class LightingGenerator : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public LightingGenerator()
 	{
-		throw null;
+
 	}
 }

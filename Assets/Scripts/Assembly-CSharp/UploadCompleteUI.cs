@@ -146,6 +146,6 @@ public class UploadCompleteUI : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public UploadCompleteUI()
 	{
-		throw null;
+
 	}
 }

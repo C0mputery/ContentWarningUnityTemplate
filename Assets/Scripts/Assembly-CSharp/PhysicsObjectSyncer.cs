@@ -49,6 +49,6 @@ public class PhysicsObjectSyncer : MonoBehaviour, IPunObservable
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PhysicsObjectSyncer()
 	{
-		throw null;
+
 	}
 }

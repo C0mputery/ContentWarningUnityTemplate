@@ -34,6 +34,6 @@ public class RigCreatorJoint : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public RigCreatorJoint()
 	{
-		throw null;
+
 	}
 }

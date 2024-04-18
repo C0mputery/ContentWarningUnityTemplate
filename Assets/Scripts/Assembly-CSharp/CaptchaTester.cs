@@ -34,6 +34,6 @@ public class CaptchaTester : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public CaptchaTester()
 	{
-		throw null;
+
 	}
 }

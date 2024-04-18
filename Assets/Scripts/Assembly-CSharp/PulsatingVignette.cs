@@ -35,6 +35,6 @@ public class PulsatingVignette : VolumeComponent, IPostProcessComponent
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PulsatingVignette()
 	{
-		throw null;
+
 	}
 }

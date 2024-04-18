@@ -45,7 +45,7 @@ namespace Zorro.Core
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public SceneReference()
 		{
-			throw null;
+
 		}
 	}
 }

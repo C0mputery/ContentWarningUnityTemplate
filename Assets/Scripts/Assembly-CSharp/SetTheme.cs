@@ -19,6 +19,6 @@ public class SetTheme : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SetTheme()
 	{
-		throw null;
+
 	}
 }

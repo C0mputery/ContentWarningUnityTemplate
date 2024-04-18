@@ -11,6 +11,6 @@ public class ExtractVideoObjective : Objective
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ExtractVideoObjective()
 	{
-		throw null;
+
 	}
 }

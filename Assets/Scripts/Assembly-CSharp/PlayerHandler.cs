@@ -144,6 +144,6 @@ public class PlayerHandler : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PlayerHandler()
 	{
-		throw null;
+
 	}
 }

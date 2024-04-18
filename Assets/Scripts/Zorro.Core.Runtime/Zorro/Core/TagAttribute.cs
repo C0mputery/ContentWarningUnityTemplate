@@ -25,7 +25,7 @@ namespace Zorro.Core
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public TagAttribute(string tag)
 		{
-			throw null;
+
 		}
 	}
 }

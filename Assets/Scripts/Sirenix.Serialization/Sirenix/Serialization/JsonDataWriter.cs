@@ -30,13 +30,13 @@ namespace Sirenix.Serialization
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public JsonDataWriter() : this(null, null, true)
 		{
-            throw null;
+
         }
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public JsonDataWriter(Stream stream, SerializationContext context, bool formatAsReadable = true) : base(null, null)
 		{
-            throw null;
+
         }
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

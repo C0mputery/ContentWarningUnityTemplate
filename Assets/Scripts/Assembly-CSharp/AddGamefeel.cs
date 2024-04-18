@@ -28,6 +28,6 @@ public class AddGamefeel : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public AddGamefeel()
 	{
-		throw null;
+
 	}
 }

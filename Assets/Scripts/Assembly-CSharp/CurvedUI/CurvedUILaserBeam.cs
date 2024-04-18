@@ -23,7 +23,7 @@ namespace CurvedUI
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public CurvedUILaserBeam()
 		{
-			throw null;
+
 		}
 	}
 }

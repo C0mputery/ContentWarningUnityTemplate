@@ -13,6 +13,6 @@ public class MouthContentProvider : MonsterContentProvider
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public MouthContentProvider()
 	{
-		throw null;
+
 	}
 }

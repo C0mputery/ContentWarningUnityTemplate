@@ -103,7 +103,7 @@ namespace Photon.Realtime
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public AppSettings()
 		{
-			throw null;
+
 		}
 	}
 }

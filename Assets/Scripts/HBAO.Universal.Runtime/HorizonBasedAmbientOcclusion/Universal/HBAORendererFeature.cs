@@ -825,7 +825,7 @@ namespace HorizonBasedAmbientOcclusion.Universal
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public HBAORendererFeature()
 		{
-			throw null;
+
 		}
 	}
 }

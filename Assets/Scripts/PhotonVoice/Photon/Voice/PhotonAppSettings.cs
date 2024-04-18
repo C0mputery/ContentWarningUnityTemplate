@@ -47,7 +47,7 @@ namespace Photon.Voice
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PhotonAppSettings()
 		{
-			throw null;
+
 		}
 	}
 }

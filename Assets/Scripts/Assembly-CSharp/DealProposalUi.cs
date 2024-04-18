@@ -40,6 +40,6 @@ public class DealProposalUi : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public DealProposalUi()
 	{
-		throw null;
+
 	}
 }

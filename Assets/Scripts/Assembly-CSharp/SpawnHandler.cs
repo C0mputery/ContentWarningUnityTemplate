@@ -71,6 +71,6 @@ public class SpawnHandler : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SpawnHandler()
 	{
-		throw null;
+
 	}
 }

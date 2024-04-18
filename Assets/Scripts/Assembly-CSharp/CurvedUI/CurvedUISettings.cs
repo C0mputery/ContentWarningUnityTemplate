@@ -473,7 +473,7 @@ namespace CurvedUI
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public CurvedUISettings()
 		{
-			throw null;
+
 		}
 	}
 }

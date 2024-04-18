@@ -55,6 +55,6 @@ public class ContentWarningPlugin : Attribute
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ContentWarningPlugin(string guid, string version, bool vanillaCompatible)
 	{
-		throw null;
+
 	}
 }

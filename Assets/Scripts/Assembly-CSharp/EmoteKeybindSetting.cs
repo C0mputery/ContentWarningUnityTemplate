@@ -25,6 +25,6 @@ public class EmoteKeybindSetting : KeyCodeSetting, IExposedSetting
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public EmoteKeybindSetting()
 	{
-		throw null;
+
 	}
 }

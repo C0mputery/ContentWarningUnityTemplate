@@ -72,6 +72,6 @@ public class Bot_BigSlap : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Bot_BigSlap()
 	{
-		throw null;
+
 	}
 }

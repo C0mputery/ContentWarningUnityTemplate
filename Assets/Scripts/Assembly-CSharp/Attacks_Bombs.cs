@@ -55,6 +55,6 @@ public class Attacks_Bombs : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Attacks_Bombs()
 	{
-		throw null;
+
 	}
 }

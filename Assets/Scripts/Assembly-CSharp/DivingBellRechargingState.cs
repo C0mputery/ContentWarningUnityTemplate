@@ -12,6 +12,6 @@ public class DivingBellRechargingState : DivingBellState
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public DivingBellRechargingState()
 	{
-		throw null;
+
 	}
 }

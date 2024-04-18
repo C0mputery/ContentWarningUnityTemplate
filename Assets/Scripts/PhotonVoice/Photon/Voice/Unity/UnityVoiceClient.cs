@@ -41,7 +41,7 @@ namespace Photon.Voice.Unity
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public UnityVoiceClient()
 		{
-			throw null;
+
 		}
 	}
 }

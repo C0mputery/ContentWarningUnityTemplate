@@ -40,7 +40,7 @@ namespace EPOOutline.Demo
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public Character()
 		{
-			throw null;
+
 		}
 	}
 }

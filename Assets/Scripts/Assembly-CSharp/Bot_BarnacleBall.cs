@@ -189,6 +189,6 @@ public class Bot_BarnacleBall : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Bot_BarnacleBall()
 	{
-		throw null;
+
 	}
 }

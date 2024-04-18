@@ -32,6 +32,6 @@ public class RigCreatorCollider : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public RigCreatorCollider()
 	{
-		throw null;
+
 	}
 }

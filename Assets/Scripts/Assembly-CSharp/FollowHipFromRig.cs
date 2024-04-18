@@ -22,6 +22,6 @@ public class FollowHipFromRig : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public FollowHipFromRig()
 	{
-		throw null;
+
 	}
 }

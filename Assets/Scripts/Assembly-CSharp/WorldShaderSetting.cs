@@ -38,6 +38,6 @@ public class WorldShaderSetting : EnumSetting
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public WorldShaderSetting()
 	{
-		throw null;
+
 	}
 }

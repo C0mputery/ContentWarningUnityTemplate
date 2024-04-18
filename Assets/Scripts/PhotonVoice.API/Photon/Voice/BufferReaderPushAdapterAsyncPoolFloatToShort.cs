@@ -9,7 +9,7 @@ namespace Photon.Voice
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public BufferReaderPushAdapterAsyncPoolFloatToShort(IDataReader<float> reader) : base(null)
 		{
-            throw null;
+
         }
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

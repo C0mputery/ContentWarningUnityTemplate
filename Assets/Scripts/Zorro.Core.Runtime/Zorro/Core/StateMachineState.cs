@@ -19,7 +19,7 @@ namespace Zorro.Core
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public StateMachineState()
 		{
-			throw null;
+
 		}
 	}
 }

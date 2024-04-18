@@ -75,6 +75,6 @@ public class ExtractVideoStationHatch : MonoBehaviour, IThrowTarget
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ExtractVideoStationHatch()
 	{
-		throw null;
+
 	}
 }

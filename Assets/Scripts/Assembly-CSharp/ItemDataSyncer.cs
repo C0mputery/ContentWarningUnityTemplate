@@ -51,6 +51,6 @@ public class ItemDataSyncer : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ItemDataSyncer()
 	{
-		throw null;
+
 	}
 }

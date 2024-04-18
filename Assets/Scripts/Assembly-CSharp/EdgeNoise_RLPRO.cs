@@ -95,6 +95,6 @@ public class EdgeNoise_RLPRO : ScriptableRendererFeature
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public EdgeNoise_RLPRO()
 	{
-		throw null;
+
 	}
 }

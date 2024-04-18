@@ -35,6 +35,6 @@ public class CinematicBars : VolumeComponent, IPostProcessComponent
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public CinematicBars()
 	{
-		throw null;
+
 	}
 }

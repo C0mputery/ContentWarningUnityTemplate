@@ -35,7 +35,7 @@ namespace Photon.Pun.UtilityScripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public MoveByKeys()
 		{
-			throw null;
+
 		}
 	}
 }

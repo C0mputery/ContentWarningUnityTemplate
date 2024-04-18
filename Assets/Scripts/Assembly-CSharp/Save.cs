@@ -56,7 +56,7 @@ public class Save
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Save(int saveIndex)
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

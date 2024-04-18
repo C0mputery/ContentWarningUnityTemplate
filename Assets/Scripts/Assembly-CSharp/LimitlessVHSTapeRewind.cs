@@ -81,6 +81,6 @@ public class LimitlessVHSTapeRewind : ScriptableRendererFeature
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public LimitlessVHSTapeRewind()
 	{
-		throw null;
+
 	}
 }

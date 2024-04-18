@@ -30,6 +30,6 @@ public class ParticleGasSpawner : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ParticleGasSpawner()
 	{
-		throw null;
+
 	}
 }

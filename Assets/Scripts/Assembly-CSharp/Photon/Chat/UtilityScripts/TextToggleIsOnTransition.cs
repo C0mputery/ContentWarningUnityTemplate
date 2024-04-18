@@ -55,7 +55,7 @@ namespace Photon.Chat.UtilityScripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public TextToggleIsOnTransition()
 		{
-			throw null;
+
 		}
 	}
 }

@@ -21,6 +21,6 @@ public class ExtractVideoItemDetector : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ExtractVideoItemDetector()
 	{
-		throw null;
+
 	}
 }

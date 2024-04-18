@@ -88,13 +88,13 @@ namespace Sirenix.Utilities
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public MemberAliasMethodInfo(MethodInfo method, string namePrefix)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public MemberAliasMethodInfo(MethodInfo method, string namePrefix, string separatorString)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

@@ -59,6 +59,6 @@ public class EndGameScreen : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public EndGameScreen()
 	{
-		throw null;
+
 	}
 }

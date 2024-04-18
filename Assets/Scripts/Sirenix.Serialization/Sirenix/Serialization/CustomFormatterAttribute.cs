@@ -14,13 +14,13 @@ namespace Sirenix.Serialization
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public CustomFormatterAttribute()
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public CustomFormatterAttribute(int priority = 0)
 		{
-			throw null;
+
 		}
 	}
 }

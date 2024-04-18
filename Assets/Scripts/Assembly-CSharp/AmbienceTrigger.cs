@@ -18,6 +18,6 @@ public class AmbienceTrigger : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public AmbienceTrigger()
 	{
-		throw null;
+
 	}
 }

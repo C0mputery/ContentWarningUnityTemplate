@@ -13,7 +13,7 @@ namespace ExitGames.Client.Photon.StructWrapping
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public StructWrapper(Type ttype, WrappedType wrappedType)
 		{
-			throw null;
+
 		}
 
 		public abstract object Box();

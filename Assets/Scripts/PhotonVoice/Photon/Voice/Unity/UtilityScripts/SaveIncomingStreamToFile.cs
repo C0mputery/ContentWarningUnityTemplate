@@ -45,7 +45,7 @@ namespace Photon.Voice.Unity.UtilityScripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public SaveIncomingStreamToFile()
 		{
-			throw null;
+
 		}
 	}
 }

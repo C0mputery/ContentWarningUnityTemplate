@@ -88,7 +88,7 @@ public class WalkieTalkie : ItemInstanceBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public WalkieTalkie()
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

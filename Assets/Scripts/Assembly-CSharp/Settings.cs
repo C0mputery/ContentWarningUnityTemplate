@@ -12,6 +12,6 @@ public class Settings : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Settings()
 	{
-		throw null;
+
 	}
 }

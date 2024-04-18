@@ -26,6 +26,6 @@ public class MuffleAudioThroughWall : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public MuffleAudioThroughWall()
 	{
-		throw null;
+
 	}
 }

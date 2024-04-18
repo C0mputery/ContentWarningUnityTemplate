@@ -31,6 +31,6 @@ public class NextStepUI : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public NextStepUI()
 	{
-		throw null;
+
 	}
 }

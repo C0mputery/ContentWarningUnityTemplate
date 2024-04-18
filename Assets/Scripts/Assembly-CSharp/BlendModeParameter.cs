@@ -9,6 +9,6 @@ public sealed class BlendModeParameter : VolumeParameter<BlendingMode>
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public BlendModeParameter()
 	{
-		throw null;
+
 	}
 }

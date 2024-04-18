@@ -38,6 +38,6 @@ public class ArtifactSpawner : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ArtifactSpawner()
 	{
-		throw null;
+
 	}
 }

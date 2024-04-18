@@ -146,7 +146,7 @@ namespace pworld.Scripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PBooper()
 		{
-			throw null;
+
 		}
 	}
 }

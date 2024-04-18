@@ -101,6 +101,6 @@ public class Web : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Web()
 	{
-		throw null;
+
 	}
 }

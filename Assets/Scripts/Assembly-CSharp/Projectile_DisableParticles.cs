@@ -18,6 +18,6 @@ public class Projectile_DisableParticles : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Projectile_DisableParticles()
 	{
-		throw null;
+
 	}
 }

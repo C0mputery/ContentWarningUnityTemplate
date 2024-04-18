@@ -47,6 +47,6 @@ public class PickupSpawner : MonoBehaviourPunCallbacks
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PickupSpawner()
 	{
-		throw null;
+
 	}
 }

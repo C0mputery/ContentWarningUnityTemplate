@@ -233,7 +233,7 @@ namespace CurvedUI
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public CurvedUIVertexEffect()
 		{
-			throw null;
+
 		}
 	}
 }

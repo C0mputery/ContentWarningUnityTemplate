@@ -18,6 +18,6 @@ public class VideoExtractMachineStateMachine : StateMachine<VideoExtractMachineS
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public VideoExtractMachineStateMachine()
 	{
-		throw null;
+
 	}
 }

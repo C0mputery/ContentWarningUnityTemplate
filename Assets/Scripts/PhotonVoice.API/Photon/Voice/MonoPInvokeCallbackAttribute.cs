@@ -10,7 +10,7 @@ namespace Photon.Voice
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public MonoPInvokeCallbackAttribute(Type t)
 		{
-			throw null;
+
 		}
 	}
 }

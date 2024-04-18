@@ -20,6 +20,6 @@ public class PlayerSFX : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PlayerSFX()
 	{
-		throw null;
+
 	}
 }

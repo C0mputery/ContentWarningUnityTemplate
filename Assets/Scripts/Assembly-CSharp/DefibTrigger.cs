@@ -34,6 +34,6 @@ public class DefibTrigger : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public DefibTrigger()
 	{
-		throw null;
+
 	}
 }

@@ -14,7 +14,7 @@ namespace ExitGames.Client.Photon
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public DisconnectMessage()
 		{
-			throw null;
+
 		}
 	}
 }

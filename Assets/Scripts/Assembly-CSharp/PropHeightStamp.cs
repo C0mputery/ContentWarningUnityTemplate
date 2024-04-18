@@ -90,6 +90,6 @@ public class PropHeightStamp : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PropHeightStamp()
 	{
-		throw null;
+
 	}
 }

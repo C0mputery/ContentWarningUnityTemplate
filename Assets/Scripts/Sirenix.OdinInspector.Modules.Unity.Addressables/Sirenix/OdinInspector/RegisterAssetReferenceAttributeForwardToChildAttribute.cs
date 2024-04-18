@@ -13,7 +13,7 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public RegisterAssetReferenceAttributeForwardToChildAttribute(Type attributeType)
 		{
-			throw null;
+
 		}
 	}
 }

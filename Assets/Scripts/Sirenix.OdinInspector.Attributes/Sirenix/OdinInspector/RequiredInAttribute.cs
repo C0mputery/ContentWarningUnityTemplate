@@ -15,7 +15,7 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public RequiredInAttribute(PrefabKind kind)
 		{
-			throw null;
+
 		}
 	}
 }

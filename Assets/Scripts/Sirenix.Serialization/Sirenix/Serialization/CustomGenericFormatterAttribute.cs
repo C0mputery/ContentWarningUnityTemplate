@@ -14,7 +14,7 @@ namespace Sirenix.Serialization
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public CustomGenericFormatterAttribute(Type serializedGenericTypeDefinition, int priority = 0)
 		{
-			throw null;
+
 		}
 	}
 }

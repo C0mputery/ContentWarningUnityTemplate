@@ -55,7 +55,7 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ValidateInputAttribute(string condition, string defaultMessage = null, InfoMessageType messageType = InfoMessageType.Error)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
@@ -63,7 +63,7 @@ namespace Sirenix.OdinInspector
 		[EditorBrowsable(EditorBrowsableState.Never)]
 		public ValidateInputAttribute(string condition, string message, InfoMessageType messageType, bool rejectedInvalidInput)
 		{
-			throw null;
+
 		}
 	}
 }

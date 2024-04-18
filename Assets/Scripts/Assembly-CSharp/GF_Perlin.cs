@@ -20,6 +20,6 @@ public class GF_Perlin : Gamefeel
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public GF_Perlin()
 	{
-		throw null;
+
 	}
 }

@@ -249,7 +249,7 @@ namespace Photon.Realtime
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public SupportLogger()
 		{
-			throw null;
+
 		}
 	}
 }

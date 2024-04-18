@@ -77,7 +77,7 @@ namespace Photon.Pun.UtilityScripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PlayerNumbering()
 		{
-			throw null;
+
 		}
 	}
 }

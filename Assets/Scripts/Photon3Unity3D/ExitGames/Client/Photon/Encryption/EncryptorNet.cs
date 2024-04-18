@@ -46,7 +46,7 @@ namespace ExitGames.Client.Photon.Encryption
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public EncryptorNet()
 		{
-			throw null;
+
 		}
 	}
 }

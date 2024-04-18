@@ -24,7 +24,7 @@ namespace Photon.Pun
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PhotonTransformViewScaleModel()
 		{
-			throw null;
+
 		}
 	}
 }

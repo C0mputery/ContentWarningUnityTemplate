@@ -12,7 +12,7 @@ namespace Zorro.Core.Compute
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public GPUTextureAtlasDescriptor()
 		{
-			throw null;
+
 		}
 	}
 }

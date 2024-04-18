@@ -21,6 +21,6 @@ public class UI_Health : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public UI_Health()
 	{
-		throw null;
+
 	}
 }

@@ -75,7 +75,7 @@ namespace pworld.Scripts.IPPointer
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PCameraPointer()
 		{
-			throw null;
+
 		}
 	}
 }

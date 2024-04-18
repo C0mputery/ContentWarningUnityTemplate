@@ -121,7 +121,7 @@ namespace Zorro.Core.CLI
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public DebugUIHandler()
 		{
-			throw null;
+
 		}
 	}
 }

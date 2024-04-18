@@ -89,6 +89,6 @@ public class LowRes_RLPRO : ScriptableRendererFeature
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public LowRes_RLPRO()
 	{
-		throw null;
+
 	}
 }

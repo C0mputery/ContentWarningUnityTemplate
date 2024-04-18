@@ -83,6 +83,6 @@ public class Bot_ToolkitBoy : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Bot_ToolkitBoy()
 	{
-		throw null;
+
 	}
 }

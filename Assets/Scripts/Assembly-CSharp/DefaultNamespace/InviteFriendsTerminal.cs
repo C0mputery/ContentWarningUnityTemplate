@@ -66,7 +66,7 @@ namespace DefaultNamespace
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public InviteFriendsTerminal()
 		{
-			throw null;
+
 		}
 	}
 }

@@ -26,19 +26,19 @@ namespace WebSocketSharp.Net
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public HttpListenerException()
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public HttpListenerException(int errorCode)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public HttpListenerException(int errorCode, string message)
 		{
-			throw null;
+
 		}
 	}
 }

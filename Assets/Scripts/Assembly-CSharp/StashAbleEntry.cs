@@ -20,6 +20,6 @@ public class StashAbleEntry : ItemDataEntry
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public StashAbleEntry()
 	{
-		throw null;
+
 	}
 }

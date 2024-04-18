@@ -106,6 +106,6 @@ public class CheckVersionHandler : RetrievableSingleton<CheckVersionHandler>
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public CheckVersionHandler()
 	{
-		throw null;
+
 	}
 }

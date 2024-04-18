@@ -26,7 +26,7 @@ namespace pworld.Scripts.PPhys.Bursted.Scalers
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PScalerLocal()
 		{
-			throw null;
+
 		}
 	}
 }

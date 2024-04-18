@@ -60,6 +60,6 @@ public class CameraLean : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public CameraLean()
 	{
-		throw null;
+
 	}
 }

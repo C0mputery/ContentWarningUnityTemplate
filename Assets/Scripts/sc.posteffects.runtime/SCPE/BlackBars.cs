@@ -67,7 +67,7 @@ namespace SCPE
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public BlackBars()
 		{
-			throw null;
+
 		}
 	}
 }

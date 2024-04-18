@@ -56,6 +56,6 @@ public class ProjectorMachine : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ProjectorMachine()
 	{
-		throw null;
+
 	}
 }

@@ -14,7 +14,7 @@ namespace Photon.Chat.Demo
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public IgnoreUiRaycastWhenInactive()
 		{
-			throw null;
+
 		}
 	}
 }

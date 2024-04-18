@@ -27,13 +27,13 @@ namespace Photon.Voice.Unity.UtilityScripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public WaveWriter(string fileName, int sampleRate, int bits, int channels)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public WaveWriter(Stream stream, int sampleRate, int bitsPerSample, int channels)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

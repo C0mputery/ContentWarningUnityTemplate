@@ -221,37 +221,37 @@ namespace WebSocketSharp.Server
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public WebSocketServer()
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public WebSocketServer(int port)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public WebSocketServer(string url)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public WebSocketServer(int port, bool secure)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public WebSocketServer(IPAddress address, int port)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public WebSocketServer(IPAddress address, int port, bool secure)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

@@ -52,6 +52,6 @@ public class ArtifactBigSlapPainting : ItemInstanceBehaviour, IArtifactContent
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ArtifactBigSlapPainting()
 	{
-		throw null;
+
 	}
 }

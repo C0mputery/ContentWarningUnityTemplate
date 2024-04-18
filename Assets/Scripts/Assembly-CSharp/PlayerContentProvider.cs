@@ -17,6 +17,6 @@ public class PlayerContentProvider : ContentProvider
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PlayerContentProvider()
 	{
-		throw null;
+
 	}
 }

@@ -42,6 +42,6 @@ public class LightToggler : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public LightToggler()
 	{
-		throw null;
+
 	}
 }

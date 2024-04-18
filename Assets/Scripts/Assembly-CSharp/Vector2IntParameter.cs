@@ -9,6 +9,6 @@ public sealed class Vector2IntParameter : VolumeParameter<Vector2Int>
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Vector2IntParameter()
 	{
-		throw null;
+
 	}
 }

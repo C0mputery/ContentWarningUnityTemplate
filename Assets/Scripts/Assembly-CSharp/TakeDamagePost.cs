@@ -29,6 +29,6 @@ public class TakeDamagePost : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public TakeDamagePost()
 	{
-		throw null;
+
 	}
 }

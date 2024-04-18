@@ -33,13 +33,13 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public EnableIfAttribute(string condition)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public EnableIfAttribute(string condition, object optionalValue)
 		{
-			throw null;
+
 		}
 	}
 }

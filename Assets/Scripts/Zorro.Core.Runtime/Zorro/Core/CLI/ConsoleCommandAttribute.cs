@@ -9,7 +9,7 @@ namespace Zorro.Core.CLI
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ConsoleCommandAttribute()
 		{
-			throw null;
+
 		}
 	}
 }

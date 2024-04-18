@@ -113,6 +113,6 @@ public class URPOutlineFeature : ScriptableRendererFeature
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public URPOutlineFeature()
 	{
-		throw null;
+
 	}
 }

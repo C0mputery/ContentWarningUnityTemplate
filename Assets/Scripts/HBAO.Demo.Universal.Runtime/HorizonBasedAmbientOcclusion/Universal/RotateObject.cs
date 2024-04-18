@@ -20,7 +20,7 @@ namespace HorizonBasedAmbientOcclusion.Universal
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public RotateObject()
 		{
-			throw null;
+
 		}
 	}
 }

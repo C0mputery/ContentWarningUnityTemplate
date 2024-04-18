@@ -11,6 +11,6 @@ public class CelebrateObjective : Objective
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public CelebrateObjective()
 	{
-		throw null;
+
 	}
 }

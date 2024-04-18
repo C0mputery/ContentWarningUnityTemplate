@@ -16,13 +16,13 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public GUIColorAttribute(float r, float g, float b, float a = 1f)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public GUIColorAttribute(string getColor)
 		{
-			throw null;
+
 		}
 	}
 }

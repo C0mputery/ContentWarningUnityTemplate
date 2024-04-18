@@ -76,6 +76,6 @@ public class PlayerItems : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PlayerItems()
 	{
-		throw null;
+
 	}
 }

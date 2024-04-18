@@ -10,6 +10,6 @@ public class ArtifactBudget : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ArtifactBudget()
 	{
-		throw null;
+
 	}
 }

@@ -23,6 +23,6 @@ public class DealFailUi : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public DealFailUi()
 	{
-		throw null;
+
 	}
 }

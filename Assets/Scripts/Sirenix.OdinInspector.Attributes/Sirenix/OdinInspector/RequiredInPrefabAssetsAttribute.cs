@@ -18,25 +18,25 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public RequiredInPrefabAssetsAttribute()
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public RequiredInPrefabAssetsAttribute(string errorMessage, InfoMessageType messageType)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public RequiredInPrefabAssetsAttribute(string errorMessage)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public RequiredInPrefabAssetsAttribute(InfoMessageType messageType)
 		{
-			throw null;
+
 		}
 	}
 }

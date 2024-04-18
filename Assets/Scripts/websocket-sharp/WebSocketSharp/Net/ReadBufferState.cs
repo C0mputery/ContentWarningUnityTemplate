@@ -87,7 +87,7 @@ namespace WebSocketSharp.Net
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ReadBufferState(byte[] buffer, int offset, int count, HttpStreamAsyncResult asyncResult)
 		{
-			throw null;
+
 		}
 	}
 }

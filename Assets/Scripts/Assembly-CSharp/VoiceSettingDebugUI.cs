@@ -15,7 +15,7 @@ public class VoiceSettingDebugUI : SettingUI
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public VoiceSettingDebugUI(VoiceSetting setting, ISettingHandler settingHandler)
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

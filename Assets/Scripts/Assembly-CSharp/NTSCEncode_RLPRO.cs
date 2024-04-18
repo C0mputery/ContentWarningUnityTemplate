@@ -95,6 +95,6 @@ public class NTSCEncode_RLPRO : ScriptableRendererFeature
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public NTSCEncode_RLPRO()
 	{
-		throw null;
+
 	}
 }

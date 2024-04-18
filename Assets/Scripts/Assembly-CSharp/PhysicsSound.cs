@@ -22,6 +22,6 @@ public class PhysicsSound : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PhysicsSound()
 	{
-		throw null;
+
 	}
 }

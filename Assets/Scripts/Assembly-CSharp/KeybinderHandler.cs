@@ -27,6 +27,6 @@ public class KeybinderHandler : RetrievableSingleton<KeybinderHandler>
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public KeybinderHandler()
 	{
-		throw null;
+
 	}
 }

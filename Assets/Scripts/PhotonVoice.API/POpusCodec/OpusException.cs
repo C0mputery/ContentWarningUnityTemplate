@@ -20,7 +20,7 @@ namespace POpusCodec
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public OpusException(OpusStatusCode statusCode, string message)
 		{
-			throw null;
+
 		}
 	}
 }

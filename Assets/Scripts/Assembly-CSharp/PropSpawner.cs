@@ -106,6 +106,6 @@ public class PropSpawner : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PropSpawner()
 	{
-		throw null;
+
 	}
 }

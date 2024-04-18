@@ -163,19 +163,19 @@ namespace EPOOutline
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public OutlineTarget()
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public OutlineTarget(Renderer renderer, int submesh = 0)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public OutlineTarget(Renderer renderer, string cutoutTextureName, float cutoutThreshold = 0.5f)
 		{
-			throw null;
+
 		}
 	}
 }

@@ -36,6 +36,6 @@ public class JointConfig
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public JointConfig()
 	{
-		throw null;
+
 	}
 }

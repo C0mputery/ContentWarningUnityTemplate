@@ -64,7 +64,7 @@ namespace Zorro.Settings
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ResolutionSetting()
 		{
-			throw null;
+
 		}
 	}
 }

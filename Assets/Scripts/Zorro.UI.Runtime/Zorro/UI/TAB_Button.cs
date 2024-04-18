@@ -82,7 +82,7 @@ namespace Zorro.UI
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public TAB_Button()
 		{
-			throw null;
+
 		}
 	}
 }

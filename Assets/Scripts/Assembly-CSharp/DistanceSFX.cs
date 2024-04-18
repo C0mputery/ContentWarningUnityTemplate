@@ -25,6 +25,6 @@ public class DistanceSFX : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public DistanceSFX()
 	{
-		throw null;
+
 	}
 }

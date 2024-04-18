@@ -64,7 +64,7 @@ namespace SCPE
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public DoubleVision()
 		{
-			throw null;
+
 		}
 	}
 }

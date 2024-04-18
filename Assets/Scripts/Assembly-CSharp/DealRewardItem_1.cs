@@ -62,6 +62,6 @@ public class DealRewardItem_1 : DealRewardBase
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public DealRewardItem_1()
 	{
-		throw null;
+
 	}
 }

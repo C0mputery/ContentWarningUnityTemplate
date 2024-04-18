@@ -64,6 +64,6 @@ public class SaveUICell : TAB_Button
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SaveUICell()
 	{
-		throw null;
+
 	}
 }

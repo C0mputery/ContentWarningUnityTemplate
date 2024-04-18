@@ -7,7 +7,7 @@ namespace Sirenix.Utilities
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public SirenixGlobalConfigAttribute()
 		{
-			throw null;
+
 		}
 	}
 }

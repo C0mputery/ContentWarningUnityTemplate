@@ -32,6 +32,6 @@ public class CursedPlayerBoss : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public CursedPlayerBoss()
 	{
-		throw null;
+
 	}
 }

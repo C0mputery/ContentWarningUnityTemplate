@@ -34,6 +34,6 @@ public class ExtractAudio : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ExtractAudio()
 	{
-		throw null;
+
 	}
 }

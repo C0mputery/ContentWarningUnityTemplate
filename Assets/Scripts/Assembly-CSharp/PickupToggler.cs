@@ -12,6 +12,6 @@ public class PickupToggler : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PickupToggler()
 	{
-		throw null;
+
 	}
 }

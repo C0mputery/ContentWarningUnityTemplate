@@ -46,7 +46,7 @@ namespace SCPE
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public EffectBaseSettings(bool enableInSceneView = true)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

@@ -53,6 +53,6 @@ public class Fisheye : VolumeComponent, IPostProcessComponent
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Fisheye()
 	{
-		throw null;
+
 	}
 }

@@ -22,7 +22,7 @@ namespace CurvedUI
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public CurvedUIEventSystem()
 		{
-			throw null;
+
 		}
 	}
 }

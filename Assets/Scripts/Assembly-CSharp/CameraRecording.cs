@@ -95,6 +95,6 @@ public class CameraRecording : MonoBehaviour, IPlayableVideo
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public CameraRecording()
 	{
-		throw null;
+
 	}
 }

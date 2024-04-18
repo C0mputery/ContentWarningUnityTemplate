@@ -7,7 +7,7 @@ namespace Zorro.UI
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public UISubPage()
 		{
-			throw null;
+
 		}
 	}
 }

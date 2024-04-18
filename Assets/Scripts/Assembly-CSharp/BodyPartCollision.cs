@@ -30,6 +30,6 @@ public class BodyPartCollision
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public BodyPartCollision()
 	{
-		throw null;
+
 	}
 }

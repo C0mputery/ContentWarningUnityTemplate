@@ -182,7 +182,7 @@ namespace CurvedUI
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public CurvedUIInputFieldCaret()
 		{
-			throw null;
+
 		}
 	}
 }

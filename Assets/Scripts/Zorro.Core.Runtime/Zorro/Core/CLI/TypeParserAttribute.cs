@@ -11,7 +11,7 @@ namespace Zorro.Core.CLI
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public TypeParserAttribute(Type parseType)
 		{
-			throw null;
+
 		}
 	}
 }

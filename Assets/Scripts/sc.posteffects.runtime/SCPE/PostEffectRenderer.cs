@@ -268,7 +268,7 @@ namespace SCPE
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PostEffectRenderer()
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

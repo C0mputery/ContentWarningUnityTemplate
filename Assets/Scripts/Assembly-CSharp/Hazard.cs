@@ -18,6 +18,6 @@ public class Hazard : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Hazard()
 	{
-		throw null;
+
 	}
 }

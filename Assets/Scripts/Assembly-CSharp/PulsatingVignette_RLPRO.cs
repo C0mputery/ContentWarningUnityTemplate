@@ -83,6 +83,6 @@ public class PulsatingVignette_RLPRO : ScriptableRendererFeature
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PulsatingVignette_RLPRO()
 	{
-		throw null;
+
 	}
 }

@@ -30,6 +30,6 @@ public class MainMenuHostPage : MainMenuPage
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public MainMenuHostPage()
 	{
-		throw null;
+
 	}
 }

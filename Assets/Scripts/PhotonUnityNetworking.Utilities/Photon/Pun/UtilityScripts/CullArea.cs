@@ -125,7 +125,7 @@ namespace Photon.Pun.UtilityScripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public CullArea()
 		{
-			throw null;
+
 		}
 	}
 }

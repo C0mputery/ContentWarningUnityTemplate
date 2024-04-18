@@ -55,6 +55,6 @@ public class Bot_Mouth : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Bot_Mouth()
 	{
-		throw null;
+
 	}
 }

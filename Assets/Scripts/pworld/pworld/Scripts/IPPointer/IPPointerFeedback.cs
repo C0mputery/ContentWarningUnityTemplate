@@ -62,7 +62,7 @@ namespace pworld.Scripts.IPPointer
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public IPPointerFeedback()
 		{
-			throw null;
+
 		}
 	}
 }

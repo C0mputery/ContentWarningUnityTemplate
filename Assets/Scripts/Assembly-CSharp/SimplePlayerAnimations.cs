@@ -20,6 +20,6 @@ public class SimplePlayerAnimations : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SimplePlayerAnimations()
 	{
-		throw null;
+
 	}
 }

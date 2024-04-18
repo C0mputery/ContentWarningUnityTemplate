@@ -22,6 +22,6 @@ public class RealmGateTrigger : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public RealmGateTrigger()
 	{
-		throw null;
+
 	}
 }

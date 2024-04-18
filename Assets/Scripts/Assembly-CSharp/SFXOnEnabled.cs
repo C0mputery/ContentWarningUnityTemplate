@@ -20,6 +20,6 @@ public class SFXOnEnabled : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SFXOnEnabled()
 	{
-		throw null;
+
 	}
 }

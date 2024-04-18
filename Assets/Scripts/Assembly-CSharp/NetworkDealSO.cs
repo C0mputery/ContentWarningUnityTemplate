@@ -17,6 +17,6 @@ public class NetworkDealSO : ScriptableObject
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public NetworkDealSO()
 	{
-		throw null;
+
 	}
 }

@@ -13,7 +13,7 @@ namespace Photon.Realtime
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ActorProperties()
 		{
-			throw null;
+
 		}
 	}
 }

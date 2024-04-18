@@ -58,6 +58,6 @@ public class NetworkDealUI : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public NetworkDealUI()
 	{
-		throw null;
+
 	}
 }

@@ -204,6 +204,6 @@ public class DivingBell : MonoBehaviourPunCallbacks
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public DivingBell()
 	{
-		throw null;
+
 	}
 }

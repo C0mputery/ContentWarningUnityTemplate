@@ -15,7 +15,7 @@ namespace ExitGames.Client.Photon.StructWrapping
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public StructWrapperPool()
 		{
-			throw null;
+
 		}
 	}
 	public class StructWrapperPool<T> : StructWrapperPool
@@ -42,7 +42,7 @@ namespace ExitGames.Client.Photon.StructWrapping
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public StructWrapperPool(bool isStaticPool)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

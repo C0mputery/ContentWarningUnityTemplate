@@ -67,6 +67,6 @@ public class Connection : MonoBehaviourPunCallbacks
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Connection()
 	{
-		throw null;
+
 	}
 }

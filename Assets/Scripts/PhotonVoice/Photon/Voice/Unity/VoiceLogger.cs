@@ -31,7 +31,7 @@ namespace Photon.Voice.Unity
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public VoiceLogger()
 		{
-			throw null;
+
 		}
 	}
 }

@@ -64,7 +64,7 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ValueDropdownAttribute(string valuesGetter)
 		{
-			throw null;
+
 		}
 	}
 }

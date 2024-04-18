@@ -28,7 +28,7 @@ namespace Zorro.Core
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public FreeCamera()
 		{
-			throw null;
+
 		}
 	}
 }

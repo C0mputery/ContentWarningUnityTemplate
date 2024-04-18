@@ -8,6 +8,6 @@ public class SharingClipCell : VisualElement
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SharingClipCell(VisualTreeAsset visualTreeAsset, ClipID clipID, bool local)
 	{
-		throw null;
+
 	}
 }

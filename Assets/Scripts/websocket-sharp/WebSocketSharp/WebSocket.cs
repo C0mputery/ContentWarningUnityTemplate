@@ -422,7 +422,7 @@ namespace WebSocketSharp
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public WebSocket(string url, params string[] protocols)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

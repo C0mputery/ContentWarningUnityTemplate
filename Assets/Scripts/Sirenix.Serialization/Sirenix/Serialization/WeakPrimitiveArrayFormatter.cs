@@ -33,7 +33,7 @@ namespace Sirenix.Serialization
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public WeakPrimitiveArrayFormatter(Type arrayType, Type elementType) : base(arrayType)
 		{
-            throw null;
+
         }
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

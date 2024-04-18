@@ -63,7 +63,7 @@ namespace pworld.Scripts.PPhys
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PPhysRotAxis()
 		{
-			throw null;
+
 		}
 	}
 }

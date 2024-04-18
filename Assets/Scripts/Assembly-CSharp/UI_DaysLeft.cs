@@ -25,6 +25,6 @@ public class UI_DaysLeft : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public UI_DaysLeft()
 	{
-		throw null;
+
 	}
 }

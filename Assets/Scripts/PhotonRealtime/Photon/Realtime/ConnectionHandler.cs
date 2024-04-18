@@ -151,7 +151,7 @@ namespace Photon.Realtime
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ConnectionHandler()
 		{
-			throw null;
+
 		}
 	}
 }

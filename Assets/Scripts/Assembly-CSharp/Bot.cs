@@ -461,6 +461,6 @@ public class Bot : MonoBehaviour, IHasPatrolGroup
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Bot()
 	{
-		throw null;
+
 	}
 }

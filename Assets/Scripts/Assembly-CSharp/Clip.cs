@@ -44,7 +44,7 @@ public class Clip
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Clip(ClipID clipID, bool local, int ownerID, CameraRecording recording)
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

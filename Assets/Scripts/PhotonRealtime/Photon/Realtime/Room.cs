@@ -271,7 +271,7 @@ namespace Photon.Realtime
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public Room(string roomName, RoomOptions options, bool isOffline = false) : base(roomName, null)
 		{
-            throw null;
+
         }
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

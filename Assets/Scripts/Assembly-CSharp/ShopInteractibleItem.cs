@@ -89,6 +89,6 @@ public class ShopInteractibleItem : Interactable
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ShopInteractibleItem()
 	{
-		throw null;
+
 	}
 }

@@ -16,6 +16,6 @@ public class DisableObject : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public DisableObject()
 	{
-		throw null;
+
 	}
 }

@@ -60,7 +60,7 @@ namespace SCPE
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public SharpenRenderer()
 		{
-			throw null;
+
 		}
 	}
 }

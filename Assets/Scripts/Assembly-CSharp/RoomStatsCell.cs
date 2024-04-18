@@ -6,6 +6,6 @@ public class RoomStatsCell : VisualElement
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public RoomStatsCell(VisualTreeAsset roomStatsCell, string defaultText)
 	{
-		throw null;
+
 	}
 }

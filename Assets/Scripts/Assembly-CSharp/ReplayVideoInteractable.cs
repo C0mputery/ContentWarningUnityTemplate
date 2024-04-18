@@ -19,6 +19,6 @@ public class ReplayVideoInteractable : Interactable
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ReplayVideoInteractable()
 	{
-		throw null;
+
 	}
 }

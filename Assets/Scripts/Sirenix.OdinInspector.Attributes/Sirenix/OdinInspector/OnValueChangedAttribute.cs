@@ -37,7 +37,7 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public OnValueChangedAttribute(string action, bool includeChildren = false)
 		{
-			throw null;
+
 		}
 	}
 }

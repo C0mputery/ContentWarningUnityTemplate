@@ -12,6 +12,6 @@ public class FrameStreakData : SingletonAsset<FrameStreakData>
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public FrameStreakData()
 	{
-		throw null;
+
 	}
 }

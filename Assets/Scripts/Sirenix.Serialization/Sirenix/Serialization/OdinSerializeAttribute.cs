@@ -11,7 +11,7 @@ namespace Sirenix.Serialization
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public OdinSerializeAttribute()
 		{
-			throw null;
+
 		}
 	}
 }

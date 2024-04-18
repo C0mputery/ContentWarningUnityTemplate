@@ -19,7 +19,7 @@ namespace CurvedUI
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public CurvedUIPointerEventData(EventSystem eventSystem) : base(eventSystem)
 		{
-			throw null;
+
 		}
 	}
 }

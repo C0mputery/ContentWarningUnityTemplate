@@ -77,6 +77,6 @@ public class RigCreatorBodypart
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public RigCreatorBodypart()
 	{
-		throw null;
+
 	}
 }

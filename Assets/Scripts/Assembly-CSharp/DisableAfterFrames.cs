@@ -82,6 +82,6 @@ public class DisableAfterFrames : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public DisableAfterFrames()
 	{
-		throw null;
+
 	}
 }

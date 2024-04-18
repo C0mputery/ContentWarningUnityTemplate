@@ -23,6 +23,6 @@ public class RenderFeatureHandler : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public RenderFeatureHandler()
 	{
-		throw null;
+
 	}
 }

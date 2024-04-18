@@ -11,6 +11,6 @@ public class UploadVideoObjective : Objective
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public UploadVideoObjective()
 	{
-		throw null;
+
 	}
 }

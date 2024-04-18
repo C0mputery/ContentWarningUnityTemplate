@@ -35,7 +35,7 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public TableMatrixAttribute()
 		{
-			throw null;
+
 		}
 	}
 }

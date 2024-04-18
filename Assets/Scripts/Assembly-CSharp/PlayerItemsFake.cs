@@ -65,6 +65,6 @@ public class PlayerItemsFake : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PlayerItemsFake()
 	{
-		throw null;
+
 	}
 }

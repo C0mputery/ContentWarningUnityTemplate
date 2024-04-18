@@ -44,6 +44,6 @@ public class TransitionHandler : RetrievableResourceSingleton<TransitionHandler>
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public TransitionHandler()
 	{
-		throw null;
+
 	}
 }

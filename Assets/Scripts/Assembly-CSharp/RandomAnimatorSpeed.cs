@@ -18,6 +18,6 @@ public class RandomAnimatorSpeed : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public RandomAnimatorSpeed()
 	{
-		throw null;
+
 	}
 }

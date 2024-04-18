@@ -10,7 +10,7 @@ public class MasterVolumeSetting : FloatSetting, IExposedSetting
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public MasterVolumeSetting(AudioMixerGroup mixerGroup)
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

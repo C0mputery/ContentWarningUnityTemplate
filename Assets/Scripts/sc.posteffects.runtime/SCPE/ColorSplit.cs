@@ -73,7 +73,7 @@ namespace SCPE
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ColorSplit()
 		{
-			throw null;
+
 		}
 	}
 }

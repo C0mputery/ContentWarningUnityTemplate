@@ -38,6 +38,6 @@ public class WalkieTalkiePlayer : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public WalkieTalkiePlayer()
 	{
-		throw null;
+
 	}
 }

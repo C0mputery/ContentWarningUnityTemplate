@@ -239,6 +239,6 @@ public class MainMenuHandler : MonoBehaviourPunCallbacks
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public MainMenuHandler()
 	{
-		throw null;
+
 	}
 }

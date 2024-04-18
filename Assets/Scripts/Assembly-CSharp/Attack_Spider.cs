@@ -38,6 +38,6 @@ public class Attack_Spider : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Attack_Spider()
 	{
-		throw null;
+
 	}
 }

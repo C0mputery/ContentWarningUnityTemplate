@@ -28,7 +28,7 @@ namespace pworld.Scripts.PPhys
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public RotTest()
 		{
-			throw null;
+
 		}
 	}
 }

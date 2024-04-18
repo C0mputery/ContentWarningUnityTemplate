@@ -30,6 +30,6 @@ public class AOE : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public AOE()
 	{
-		throw null;
+
 	}
 }

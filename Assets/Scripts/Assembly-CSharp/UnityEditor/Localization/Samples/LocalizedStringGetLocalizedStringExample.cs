@@ -17,7 +17,7 @@ namespace UnityEditor.Localization.Samples
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public LocalizedStringGetLocalizedStringExample()
 		{
-			throw null;
+
 		}
 	}
 }

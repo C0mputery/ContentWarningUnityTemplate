@@ -19,7 +19,7 @@ namespace Photon.Pun
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public MonoBehaviourPun()
 		{
-			throw null;
+
 		}
 	}
 }

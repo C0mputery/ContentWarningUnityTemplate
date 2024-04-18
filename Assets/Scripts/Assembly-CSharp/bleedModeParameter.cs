@@ -8,6 +8,6 @@ public sealed class bleedModeParameter : VolumeParameter<BleedMode>
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public bleedModeParameter()
 	{
-		throw null;
+
 	}
 }

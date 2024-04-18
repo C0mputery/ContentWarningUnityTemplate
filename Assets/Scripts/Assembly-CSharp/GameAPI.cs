@@ -92,7 +92,7 @@ public class GameAPI : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public GameAPI()
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

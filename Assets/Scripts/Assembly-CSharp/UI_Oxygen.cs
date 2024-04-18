@@ -17,6 +17,6 @@ public class UI_Oxygen : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public UI_Oxygen()
 	{
-		throw null;
+
 	}
 }

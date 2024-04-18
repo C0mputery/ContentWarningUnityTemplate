@@ -464,6 +464,6 @@ public class SurfaceNetworkHandler : MonoBehaviourPunCallbacks
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SurfaceNetworkHandler()
 	{
-		throw null;
+
 	}
 }

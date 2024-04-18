@@ -227,6 +227,6 @@ public class BigNumbers : SingletonAsset<BigNumbers>
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public BigNumbers()
 	{
-		throw null;
+
 	}
 }

@@ -32,7 +32,7 @@ namespace POpusCodec
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public OpusDecoder(Action<FrameOut<T>> output, SamplingRate outputSamplingRateHz, Channels channels, int frameSamples)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

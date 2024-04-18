@@ -112,7 +112,7 @@ namespace Photon.Pun.UtilityScripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public OnClickRpc()
 		{
-			throw null;
+
 		}
 	}
 }

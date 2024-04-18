@@ -51,6 +51,6 @@ public class Defib : ItemInstanceBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Defib()
 	{
-		throw null;
+
 	}
 }

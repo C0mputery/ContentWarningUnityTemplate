@@ -46,7 +46,7 @@ namespace Photon.Pun
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PhotonTransformViewPositionModel()
 		{
-			throw null;
+
 		}
 	}
 }

@@ -20,6 +20,6 @@ public class HelmetUIToggler : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public HelmetUIToggler()
 	{
-		throw null;
+
 	}
 }

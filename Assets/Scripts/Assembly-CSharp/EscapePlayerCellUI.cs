@@ -33,6 +33,6 @@ public class EscapePlayerCellUI : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public EscapePlayerCellUI()
 	{
-		throw null;
+
 	}
 }

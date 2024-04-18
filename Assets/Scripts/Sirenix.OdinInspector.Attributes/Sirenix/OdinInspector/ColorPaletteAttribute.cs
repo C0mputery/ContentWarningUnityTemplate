@@ -15,13 +15,13 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ColorPaletteAttribute()
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ColorPaletteAttribute(string paletteName)
 		{
-			throw null;
+
 		}
 	}
 }

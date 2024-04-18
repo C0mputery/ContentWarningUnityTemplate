@@ -19,7 +19,7 @@ namespace Photon.Pun.UtilityScripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PhotonTeam()
 		{
-			throw null;
+
 		}
 	}
 }

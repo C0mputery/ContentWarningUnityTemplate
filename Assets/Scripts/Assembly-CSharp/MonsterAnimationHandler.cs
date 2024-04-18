@@ -50,6 +50,6 @@ public class MonsterAnimationHandler : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public MonsterAnimationHandler()
 	{
-		throw null;
+
 	}
 }

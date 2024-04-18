@@ -21,13 +21,13 @@ public class PlayerFallingContentEvent : PlayerBaseEvent
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PlayerFallingContentEvent()
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PlayerFallingContentEvent(string playerName, int actorNumber, float sinceGrounded)
 	{
-		throw null;
+
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

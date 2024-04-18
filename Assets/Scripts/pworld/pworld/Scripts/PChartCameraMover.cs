@@ -150,7 +150,7 @@ namespace pworld.Scripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PChartCameraMover()
 		{
-			throw null;
+
 		}
 	}
 }

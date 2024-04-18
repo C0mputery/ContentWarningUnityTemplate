@@ -70,7 +70,7 @@ namespace Photon.Realtime
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ErrorCode()
 		{
-			throw null;
+
 		}
 	}
 }

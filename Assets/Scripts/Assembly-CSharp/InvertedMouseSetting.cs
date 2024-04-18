@@ -43,6 +43,6 @@ public class InvertedMouseSetting : EnumSetting, IExposedSetting
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public InvertedMouseSetting()
 	{
-		throw null;
+
 	}
 }

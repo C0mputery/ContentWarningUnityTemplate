@@ -8,6 +8,6 @@ public sealed class FisheyeTypeParameter : VolumeParameter<FisheyeTypeEnum>
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public FisheyeTypeParameter()
 	{
-		throw null;
+
 	}
 }

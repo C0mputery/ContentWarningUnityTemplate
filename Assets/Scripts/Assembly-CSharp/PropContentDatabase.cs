@@ -14,6 +14,6 @@ public class PropContentDatabase : ObjectDatabaseAsset<PropContentDatabase, Prop
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PropContentDatabase()
 	{
-		throw null;
+
 	}
 }

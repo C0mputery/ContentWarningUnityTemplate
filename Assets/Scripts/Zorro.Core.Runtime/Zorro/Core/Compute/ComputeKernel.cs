@@ -13,7 +13,7 @@ namespace Zorro.Core.Compute
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ComputeKernel(ComputeShader computeShader, string kernelName)
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

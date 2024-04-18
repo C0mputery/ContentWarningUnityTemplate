@@ -20,6 +20,6 @@ public class EscapeMenuSettingsPage : EscapeMenuPage
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public EscapeMenuSettingsPage()
 	{
-		throw null;
+
 	}
 }

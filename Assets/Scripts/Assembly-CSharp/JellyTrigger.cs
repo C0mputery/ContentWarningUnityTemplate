@@ -34,6 +34,6 @@ public class JellyTrigger : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public JellyTrigger()
 	{
-		throw null;
+
 	}
 }

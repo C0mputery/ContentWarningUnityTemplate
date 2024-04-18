@@ -16,6 +16,6 @@ public class CalibrationTextureHolder : SingletonAsset<CalibrationTextureHolder>
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public CalibrationTextureHolder()
 	{
-		throw null;
+
 	}
 }

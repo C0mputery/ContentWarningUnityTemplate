@@ -15,6 +15,6 @@ public class PlayFlashcardMachine : Interactable
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PlayFlashcardMachine()
 	{
-		throw null;
+
 	}
 }

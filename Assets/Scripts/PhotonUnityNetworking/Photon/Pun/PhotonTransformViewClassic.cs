@@ -78,7 +78,7 @@ namespace Photon.Pun
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PhotonTransformViewClassic()
 		{
-			throw null;
+
 		}
 	}
 }

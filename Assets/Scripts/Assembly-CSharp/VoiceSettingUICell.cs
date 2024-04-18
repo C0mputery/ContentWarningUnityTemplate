@@ -25,6 +25,6 @@ public class VoiceSettingUICell : SettingInputUICell
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public VoiceSettingUICell()
 	{
-		throw null;
+
 	}
 }

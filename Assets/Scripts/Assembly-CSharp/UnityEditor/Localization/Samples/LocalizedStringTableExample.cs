@@ -48,7 +48,7 @@ namespace UnityEditor.Localization.Samples
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public LocalizedStringTableExample()
 		{
-			throw null;
+
 		}
 	}
 }

@@ -28,7 +28,7 @@ namespace pworld.Scripts.Extensions
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PValueWatch(IComparable val, Action<int> cb, Action<IComparable> alternativeCompare = null)
 		{
-			throw null;
+
 		}
 	}
 }

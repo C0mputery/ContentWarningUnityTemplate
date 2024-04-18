@@ -135,6 +135,6 @@ public class Attack_Stab : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Attack_Stab()
 	{
-		throw null;
+
 	}
 }

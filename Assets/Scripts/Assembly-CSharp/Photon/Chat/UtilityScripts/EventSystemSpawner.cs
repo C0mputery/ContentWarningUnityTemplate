@@ -14,7 +14,7 @@ namespace Photon.Chat.UtilityScripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public EventSystemSpawner()
 		{
-			throw null;
+
 		}
 	}
 }

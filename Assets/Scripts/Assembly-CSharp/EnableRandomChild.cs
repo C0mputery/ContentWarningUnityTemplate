@@ -12,6 +12,6 @@ public class EnableRandomChild : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public EnableRandomChild()
 	{
-		throw null;
+
 	}
 }

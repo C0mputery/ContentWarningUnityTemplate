@@ -66,7 +66,7 @@ namespace Photon.Pun.UtilityScripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public TabViewManager()
 		{
-			throw null;
+
 		}
 	}
 }

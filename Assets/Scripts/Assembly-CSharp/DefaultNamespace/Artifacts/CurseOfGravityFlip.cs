@@ -78,7 +78,7 @@ namespace DefaultNamespace.Artifacts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public CurseOfGravityFlip()
 		{
-			throw null;
+
 		}
 	}
 }

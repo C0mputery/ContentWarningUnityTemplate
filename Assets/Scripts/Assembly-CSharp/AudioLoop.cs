@@ -64,6 +64,6 @@ public class AudioLoop : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public AudioLoop()
 	{
-		throw null;
+
 	}
 }

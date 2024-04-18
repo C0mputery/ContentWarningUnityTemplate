@@ -24,6 +24,6 @@ public class CageAnimationHandler : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public CageAnimationHandler()
 	{
-		throw null;
+
 	}
 }

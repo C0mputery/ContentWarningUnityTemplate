@@ -46,6 +46,6 @@ public class PickupHandler : Singleton<PickupHandler>
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PickupHandler()
 	{
-		throw null;
+
 	}
 }

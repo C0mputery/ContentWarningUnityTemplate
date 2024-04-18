@@ -67,6 +67,6 @@ public class Attack_Grab : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Attack_Grab()
 	{
-		throw null;
+
 	}
 }

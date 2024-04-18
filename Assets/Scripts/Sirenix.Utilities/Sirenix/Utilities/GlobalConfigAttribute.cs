@@ -86,13 +86,13 @@ namespace Sirenix.Utilities
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public GlobalConfigAttribute()
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public GlobalConfigAttribute(string assetPath)
 		{
-			throw null;
+
 		}
 	}
 }

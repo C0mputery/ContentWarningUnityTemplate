@@ -77,7 +77,7 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public TableListAttribute()
 		{
-			throw null;
+
 		}
 	}
 }

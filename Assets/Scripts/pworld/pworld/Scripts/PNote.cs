@@ -11,7 +11,7 @@ namespace pworld.Scripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PNote()
 		{
-			throw null;
+
 		}
 	}
 }

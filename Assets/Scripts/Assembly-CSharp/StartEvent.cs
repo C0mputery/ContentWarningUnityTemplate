@@ -23,6 +23,6 @@ public class StartEvent : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public StartEvent()
 	{
-		throw null;
+
 	}
 }

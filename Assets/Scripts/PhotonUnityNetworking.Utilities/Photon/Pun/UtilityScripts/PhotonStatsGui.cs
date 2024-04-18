@@ -46,7 +46,7 @@ namespace Photon.Pun.UtilityScripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PhotonStatsGui()
 		{
-			throw null;
+
 		}
 	}
 }

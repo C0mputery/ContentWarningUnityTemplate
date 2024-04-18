@@ -9,6 +9,6 @@ public sealed class resModeParameter : VolumeParameter<ResolutionMode>
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public resModeParameter()
 	{
-		throw null;
+
 	}
 }

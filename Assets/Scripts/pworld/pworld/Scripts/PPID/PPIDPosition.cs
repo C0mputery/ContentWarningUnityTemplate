@@ -42,7 +42,7 @@ namespace pworld.Scripts.PPID
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PPIDPosition()
 		{
-			throw null;
+
 		}
 	}
 }

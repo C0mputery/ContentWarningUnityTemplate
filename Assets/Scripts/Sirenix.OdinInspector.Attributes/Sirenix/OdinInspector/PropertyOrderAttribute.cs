@@ -13,13 +13,13 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PropertyOrderAttribute()
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PropertyOrderAttribute(float order)
 		{
-			throw null;
+
 		}
 	}
 }

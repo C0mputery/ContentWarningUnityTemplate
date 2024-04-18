@@ -15,6 +15,6 @@ public class ContentCombiningSystem : ObjectDatabaseAsset<ContentCombiningSystem
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ContentCombiningSystem()
 	{
-		throw null;
+
 	}
 }

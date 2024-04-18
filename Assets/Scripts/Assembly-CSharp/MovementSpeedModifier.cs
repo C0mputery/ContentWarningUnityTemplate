@@ -16,6 +16,6 @@ public class MovementSpeedModifier : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public MovementSpeedModifier()
 	{
-		throw null;
+
 	}
 }

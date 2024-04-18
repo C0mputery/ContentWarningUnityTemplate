@@ -70,6 +70,6 @@ public class AnalogTVNoise : VolumeComponent, IPostProcessComponent
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public AnalogTVNoise()
 	{
-		throw null;
+
 	}
 }

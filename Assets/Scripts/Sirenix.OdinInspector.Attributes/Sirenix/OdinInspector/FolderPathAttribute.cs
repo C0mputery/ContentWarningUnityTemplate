@@ -24,7 +24,7 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public FolderPathAttribute()
 		{
-			throw null;
+
 		}
 	}
 }

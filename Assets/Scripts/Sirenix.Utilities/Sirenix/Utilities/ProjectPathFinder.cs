@@ -8,7 +8,7 @@ namespace Sirenix.Utilities
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ProjectPathFinder()
 		{
-			throw null;
+
 		}
 	}
 }

@@ -15,7 +15,7 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public DisableInPrefabAssetsAttribute()
 		{
-			throw null;
+
 		}
 	}
 }

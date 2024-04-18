@@ -30,6 +30,6 @@ public class ObjectToggler : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ObjectToggler()
 	{
-		throw null;
+
 	}
 }

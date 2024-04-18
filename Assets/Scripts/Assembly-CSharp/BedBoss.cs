@@ -97,6 +97,6 @@ public class BedBoss : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public BedBoss()
 	{
-		throw null;
+
 	}
 }

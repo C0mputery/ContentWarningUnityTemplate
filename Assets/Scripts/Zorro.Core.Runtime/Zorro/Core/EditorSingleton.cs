@@ -27,7 +27,7 @@ namespace Zorro.Core
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public EditorSingleton()
 		{
-			throw null;
+
 		}
 	}
 }

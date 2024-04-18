@@ -52,6 +52,6 @@ public class GlobalPlayerData : MonoBehaviourPunCallbacks
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public GlobalPlayerData()
 	{
-		throw null;
+
 	}
 }

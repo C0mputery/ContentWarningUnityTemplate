@@ -17,7 +17,7 @@ namespace Photon.Realtime
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public TypedLobbyInfo()
 		{
-			throw null;
+
 		}
 	}
 }

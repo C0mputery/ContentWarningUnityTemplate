@@ -70,7 +70,7 @@ namespace pworld.Scripts.PUI
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PUIOnHover()
 		{
-			throw null;
+
 		}
 	}
 }

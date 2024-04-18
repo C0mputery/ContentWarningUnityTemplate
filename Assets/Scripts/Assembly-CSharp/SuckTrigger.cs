@@ -36,6 +36,6 @@ public class SuckTrigger : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SuckTrigger()
 	{
-		throw null;
+
 	}
 }

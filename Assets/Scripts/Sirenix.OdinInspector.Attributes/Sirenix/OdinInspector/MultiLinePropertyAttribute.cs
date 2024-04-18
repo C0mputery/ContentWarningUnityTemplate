@@ -13,7 +13,7 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public MultiLinePropertyAttribute(int lines = 3)
 		{
-			throw null;
+
 		}
 	}
 }

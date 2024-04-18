@@ -111,7 +111,7 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ButtonGroupAttribute(string group = "_DefaultGroup", float order = 0f) : base(group, order)
 		{
-            throw null;
+
         }
 	}
 }

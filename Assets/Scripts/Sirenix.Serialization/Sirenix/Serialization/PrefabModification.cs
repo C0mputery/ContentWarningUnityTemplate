@@ -83,7 +83,7 @@ namespace Sirenix.Serialization
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PrefabModification()
 		{
-			throw null;
+
 		}
 	}
 }

@@ -50,7 +50,7 @@ namespace Photon.Pun
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public PhotonRigidbody2DView()
 		{
-			throw null;
+
 		}
 	}
 }

@@ -23,7 +23,7 @@ namespace Sirenix.Serialization.Utilities
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public FastTypeComparer()
 		{
-			throw null;
+
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

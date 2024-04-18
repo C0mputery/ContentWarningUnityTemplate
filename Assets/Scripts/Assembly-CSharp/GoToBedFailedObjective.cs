@@ -11,6 +11,6 @@ public class GoToBedFailedObjective : Objective
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public GoToBedFailedObjective()
 	{
-		throw null;
+
 	}
 }

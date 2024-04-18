@@ -69,6 +69,6 @@ public class Projectile : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Projectile()
 	{
-		throw null;
+
 	}
 }

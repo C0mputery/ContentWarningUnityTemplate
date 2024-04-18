@@ -62,7 +62,7 @@ namespace EPOOutline
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public TargetStateListener()
 		{
-			throw null;
+
 		}
 	}
 }

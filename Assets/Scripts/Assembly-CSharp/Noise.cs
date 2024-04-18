@@ -89,6 +89,6 @@ public class Noise : VolumeComponent, IPostProcessComponent
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Noise()
 	{
-		throw null;
+
 	}
 }

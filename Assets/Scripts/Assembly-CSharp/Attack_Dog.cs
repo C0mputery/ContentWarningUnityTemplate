@@ -76,6 +76,6 @@ public class Attack_Dog : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Attack_Dog()
 	{
-		throw null;
+
 	}
 }

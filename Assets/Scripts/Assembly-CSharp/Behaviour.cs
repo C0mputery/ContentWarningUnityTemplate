@@ -19,6 +19,6 @@ public class Behaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Behaviour()
 	{
-		throw null;
+
 	}
 }

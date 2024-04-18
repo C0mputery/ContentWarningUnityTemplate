@@ -71,7 +71,7 @@ namespace Photon.Pun.UtilityScripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public StatesGui()
 		{
-			throw null;
+
 		}
 	}
 }

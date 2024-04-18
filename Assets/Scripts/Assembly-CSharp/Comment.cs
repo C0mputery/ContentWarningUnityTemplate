@@ -71,6 +71,6 @@ public class Comment
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Comment(string text)
 	{
-		throw null;
+
 	}
 }

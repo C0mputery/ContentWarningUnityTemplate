@@ -38,7 +38,7 @@ namespace Photon.Realtime
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public EventCode()
 		{
-			throw null;
+
 		}
 	}
 }

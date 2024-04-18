@@ -50,6 +50,6 @@ public class WallWarpArm : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public WallWarpArm()
 	{
-		throw null;
+
 	}
 }

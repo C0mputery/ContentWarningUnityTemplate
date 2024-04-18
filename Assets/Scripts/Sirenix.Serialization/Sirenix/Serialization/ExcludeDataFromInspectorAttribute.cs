@@ -12,7 +12,7 @@ namespace Sirenix.Serialization
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public ExcludeDataFromInspectorAttribute()
 		{
-			throw null;
+
 		}
 	}
 }

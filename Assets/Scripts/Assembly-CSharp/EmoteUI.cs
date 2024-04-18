@@ -19,6 +19,6 @@ public class EmoteUI : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public EmoteUI()
 	{
-		throw null;
+
 	}
 }

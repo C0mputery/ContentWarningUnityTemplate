@@ -37,6 +37,6 @@ public class Phosphor : VolumeComponent, IPostProcessComponent
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Phosphor()
 	{
-		throw null;
+
 	}
 }

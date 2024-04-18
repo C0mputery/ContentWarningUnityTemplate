@@ -10,6 +10,6 @@ public class HandReference : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public HandReference()
 	{
-		throw null;
+
 	}
 }

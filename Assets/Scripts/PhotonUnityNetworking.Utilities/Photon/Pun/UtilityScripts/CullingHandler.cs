@@ -70,7 +70,7 @@ namespace Photon.Pun.UtilityScripts
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public CullingHandler()
 		{
-			throw null;
+
 		}
 	}
 }

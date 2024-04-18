@@ -72,7 +72,7 @@ namespace SCPE
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public EdgeDetectionRenderer()
 		{
-			throw null;
+
 		}
 	}
 }

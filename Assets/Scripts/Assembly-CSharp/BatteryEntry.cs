@@ -40,6 +40,6 @@ public class BatteryEntry : ItemDataEntry, IHaveUIData
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public BatteryEntry()
 	{
-		throw null;
+
 	}
 }

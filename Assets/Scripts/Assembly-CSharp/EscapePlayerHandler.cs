@@ -29,6 +29,6 @@ public class EscapePlayerHandler : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public EscapePlayerHandler()
 	{
-		throw null;
+
 	}
 }

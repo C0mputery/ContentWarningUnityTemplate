@@ -97,6 +97,6 @@ public class Phosphor_RLPRO : ScriptableRendererFeature
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Phosphor_RLPRO()
 	{
-		throw null;
+
 	}
 }

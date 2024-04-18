@@ -266,6 +266,6 @@ public class LocalizationKeys
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public LocalizationKeys()
 	{
-		throw null;
+
 	}
 }

@@ -52,6 +52,6 @@ public class SpookyMusicHandler : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SpookyMusicHandler()
 	{
-		throw null;
+
 	}
 }

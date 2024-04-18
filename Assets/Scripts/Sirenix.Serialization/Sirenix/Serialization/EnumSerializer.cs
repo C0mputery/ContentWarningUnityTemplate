@@ -25,7 +25,7 @@ namespace Sirenix.Serialization
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public EnumSerializer()
 		{
-			throw null;
+
 		}
 	}
 }

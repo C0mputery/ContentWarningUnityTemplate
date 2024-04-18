@@ -13,6 +13,6 @@ public class EatContentProvider : MonsterContentProvider
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public EatContentProvider()
 	{
-		throw null;
+
 	}
 }

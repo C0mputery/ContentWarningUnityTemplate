@@ -97,6 +97,6 @@ public class Negative_RLPRO : ScriptableRendererFeature
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Negative_RLPRO()
 	{
-		throw null;
+
 	}
 }

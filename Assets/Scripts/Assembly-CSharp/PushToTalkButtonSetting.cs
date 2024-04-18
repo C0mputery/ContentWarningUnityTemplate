@@ -25,6 +25,6 @@ public class PushToTalkButtonSetting : KeyCodeSetting, IExposedSetting
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PushToTalkButtonSetting()
 	{
-		throw null;
+
 	}
 }

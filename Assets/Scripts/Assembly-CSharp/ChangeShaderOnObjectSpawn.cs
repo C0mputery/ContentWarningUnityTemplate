@@ -27,6 +27,6 @@ public class ChangeShaderOnObjectSpawn : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ChangeShaderOnObjectSpawn()
 	{
-		throw null;
+
 	}
 }

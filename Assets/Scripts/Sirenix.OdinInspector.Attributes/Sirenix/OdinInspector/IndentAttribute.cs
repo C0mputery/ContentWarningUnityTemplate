@@ -14,7 +14,7 @@ namespace Sirenix.OdinInspector
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public IndentAttribute(int indentLevel = 1)
 		{
-			throw null;
+
 		}
 	}
 }

@@ -21,6 +21,6 @@ public class CamCreepContentProvider : MonsterContentProvider
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public CamCreepContentProvider()
 	{
-		throw null;
+
 	}
 }

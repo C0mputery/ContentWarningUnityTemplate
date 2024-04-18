@@ -13,6 +13,6 @@ public class ToolkitContentProvider : MonsterContentProvider
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public ToolkitContentProvider()
 	{
-		throw null;
+
 	}
 }

@@ -49,6 +49,6 @@ public class SteamAvatarHandler : RetrievableSingleton<SteamAvatarHandler>
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SteamAvatarHandler()
 	{
-		throw null;
+
 	}
 }

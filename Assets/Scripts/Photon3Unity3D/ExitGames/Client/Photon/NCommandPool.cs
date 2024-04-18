@@ -28,7 +28,7 @@ namespace ExitGames.Client.Photon
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public NCommandPool()
 		{
-			throw null;
+
 		}
 	}
 }

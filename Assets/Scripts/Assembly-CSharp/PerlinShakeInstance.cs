@@ -13,6 +13,6 @@ public class PerlinShakeInstance
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public PerlinShakeInstance()
 	{
-		throw null;
+
 	}
 }

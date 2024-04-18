@@ -54,6 +54,6 @@ public class UltimateVignette : VolumeComponent, IPostProcessComponent
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public UltimateVignette()
 	{
-		throw null;
+
 	}
 }

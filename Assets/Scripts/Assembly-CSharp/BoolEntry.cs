@@ -20,6 +20,6 @@ public class BoolEntry : ItemDataEntry
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public BoolEntry()
 	{
-		throw null;
+
 	}
 }

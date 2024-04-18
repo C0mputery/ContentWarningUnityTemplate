@@ -67,6 +67,6 @@ public class Bot_Jelly : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Bot_Jelly()
 	{
-		throw null;
+
 	}
 }

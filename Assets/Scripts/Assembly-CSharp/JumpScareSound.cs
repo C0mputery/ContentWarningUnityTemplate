@@ -42,6 +42,6 @@ public class JumpScareSound : MonoBehaviour
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public JumpScareSound()
 	{
-		throw null;
+
 	}
 }

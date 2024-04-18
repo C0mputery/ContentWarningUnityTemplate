@@ -25,6 +25,6 @@ public class SprintKeybindSetting : KeyCodeSetting, IExposedSetting
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SprintKeybindSetting()
 	{
-		throw null;
+
 	}
 }

@@ -23,6 +23,6 @@ public class SurfaceCollisionEffect_Piston : SurfaceCollisionEffect
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public SurfaceCollisionEffect_Piston()
 	{
-		throw null;
+
 	}
 }

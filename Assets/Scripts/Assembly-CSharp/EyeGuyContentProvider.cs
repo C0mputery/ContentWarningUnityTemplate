@@ -13,6 +13,6 @@ public class EyeGuyContentProvider : MonsterContentProvider
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public EyeGuyContentProvider()
 	{
-		throw null;
+
 	}
 }
