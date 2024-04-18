@@ -31,7 +31,6 @@ namespace Zorro.Core.CLI
 		[RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.AfterSceneLoad)]
 		public static void Initialize()
 		{
-			throw null;
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
@@ -67,7 +66,6 @@ namespace Zorro.Core.CLI
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		static ConsoleHandler()
 		{
-			throw null;
 		}
 	}
 }

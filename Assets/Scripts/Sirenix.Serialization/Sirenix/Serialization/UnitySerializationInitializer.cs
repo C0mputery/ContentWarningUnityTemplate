@@ -44,13 +44,11 @@ namespace Sirenix.Serialization
 		[RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.BeforeSceneLoad)]
 		private static void InitializeRuntime()
 		{
-			throw null;
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		static UnitySerializationInitializer()
 		{
-			throw null;
 		}
 	}
 }

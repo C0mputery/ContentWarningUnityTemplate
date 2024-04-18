@@ -18,6 +18,5 @@ public static class GameBooter
 	[RuntimeInitializeOnLoadMethod]
 	public static void Initialize()
 	{
-		throw null;
 	}
 }

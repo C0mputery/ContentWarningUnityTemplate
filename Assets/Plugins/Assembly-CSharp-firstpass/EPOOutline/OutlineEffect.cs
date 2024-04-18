@@ -123,7 +123,6 @@ namespace EPOOutline
 		[RuntimeInitializeOnLoadMethod]
 		private static void InitMaterials()
 		{
-			throw null;
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
@@ -207,7 +206,6 @@ namespace EPOOutline
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		static OutlineEffect()
 		{
-			throw null;
 		}
 	}
 }

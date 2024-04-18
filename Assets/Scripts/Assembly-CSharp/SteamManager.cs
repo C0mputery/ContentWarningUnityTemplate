@@ -44,7 +44,6 @@ public class SteamManager : MonoBehaviour
 	[RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.SubsystemRegistration)]
 	private static void InitOnPlayMode()
 	{
-		throw null;
 	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]

@@ -12,14 +12,12 @@ namespace Sirenix.Utilities
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		static UnityVersion()
 		{
-			throw null;
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		[RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.BeforeSceneLoad)]
 		private static void EnsureLoaded()
 		{
-			throw null;
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]

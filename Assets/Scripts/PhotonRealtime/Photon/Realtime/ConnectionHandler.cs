@@ -79,7 +79,6 @@ namespace Photon.Realtime
 		[RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.SubsystemRegistration)]
 		private static void StaticReset()
 		{
-			throw null;
 		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
