@@ -6,9 +6,9 @@ using UnityEngine.Rendering;
 [Serializable]
 public sealed class VignetteModeParameter : VolumeParameter<VignetteShape>
 {
-	[MethodImpl(MethodImplOptions.NoInlining)]
-	public VignetteModeParameter()
-	{
-
-	}
+//	[MethodImpl(MethodImplOptions.NoInlining)]
+//	public VignetteModeParameter()
+//	{
+//
+//	}
 }

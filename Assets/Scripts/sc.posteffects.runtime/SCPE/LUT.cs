@@ -9,7 +9,7 @@ namespace SCPE
 	[Serializable]
 	[VolumeComponentMenu("SC Post Effects/Image/Color Grading LUT")]
 	[SupportedOnRenderPipeline(new Type[] { typeof(UniversalRenderPipelineAsset) })]
-	public sealed class LUT : VolumeComponent, IPostProcessComponent
+	public sealed class LUT //: VolumeComponent, IPostProcessComponent
 	{
 		public enum Mode
 		{
@@ -20,11 +20,11 @@ namespace SCPE
 		[Serializable]
 		public sealed class ModeParam : VolumeParameter<Mode>
 		{
-			[MethodImpl(MethodImplOptions.NoInlining)]
-			public ModeParam()
-			{
-				throw null;
-			}
+//			[MethodImpl(MethodImplOptions.NoInlining)]
+//			public ModeParam()
+//			{
+//				throw null;
+//			}
 		}
 
 		[Tooltip("Distance-based mode blends two LUTs over a distance")]
@@ -59,23 +59,23 @@ namespace SCPE
 		[SerializeField]
 		public Shader shader;
 
-		[MethodImpl(MethodImplOptions.NoInlining)]
-		public bool IsActive()
-		{
-			throw null;
-		}
+//		[MethodImpl(MethodImplOptions.NoInlining)]
+//		public bool IsActive()
+//		{
+//			throw null;
+//		}
 
-		[MethodImpl(MethodImplOptions.NoInlining)]
-		public bool IsTileCompatible()
-		{
-			throw null;
-		}
+//		[MethodImpl(MethodImplOptions.NoInlining)]
+//		public bool IsTileCompatible()
+//		{
+//			throw null;
+//		}
 
-		[MethodImpl(MethodImplOptions.NoInlining)]
-		private void Reset()
-		{
-			throw null;
-		}
+//		[MethodImpl(MethodImplOptions.NoInlining)]
+//		private void Reset()
+//		{
+//			throw null;
+//		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		private bool SerializeShader()

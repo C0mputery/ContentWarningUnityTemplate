@@ -8,7 +8,7 @@ namespace HorizonBasedAmbientOcclusion.Universal
 {
 	[ExecuteInEditMode]
 	[VolumeComponentMenu("Lighting/HBAO")]
-	public class HBAO : VolumeComponent, IPostProcessComponent
+	public class HBAO //: VolumeComponent, IPostProcessComponent
 	{
 		public enum Preset
 		{
@@ -97,121 +97,121 @@ namespace HorizonBasedAmbientOcclusion.Universal
 		[Serializable]
 		public sealed class PresetParameter : VolumeParameter<Preset>
 		{
-			[MethodImpl(MethodImplOptions.NoInlining)]
-			public PresetParameter(Preset value, bool overrideState = false)
-			{
-				throw null;
-			}
+//			[MethodImpl(MethodImplOptions.NoInlining)]
+//			public PresetParameter(Preset value, bool overrideState = false)
+//			{
+//				throw null;
+//			}
 		}
 
 		[Serializable]
 		public sealed class ModeParameter : VolumeParameter<Mode>
 		{
-			[MethodImpl(MethodImplOptions.NoInlining)]
-			public ModeParameter(Mode value, bool overrideState = false)
-			{
-				throw null;
-			}
+//			[MethodImpl(MethodImplOptions.NoInlining)]
+//			public ModeParameter(Mode value, bool overrideState = false)
+//			{
+//				throw null;
+//			}
 		}
 
 		[Serializable]
 		public sealed class RenderingPathParameter : VolumeParameter<RenderingPath>
 		{
-			[MethodImpl(MethodImplOptions.NoInlining)]
-			public RenderingPathParameter(RenderingPath value, bool overrideState = false)
-			{
-				throw null;
-			}
+//			[MethodImpl(MethodImplOptions.NoInlining)]
+//			public RenderingPathParameter(RenderingPath value, bool overrideState = false)
+//			{
+//				throw null;
+//			}
 		}
 
 		[Serializable]
 		public sealed class QualityParameter : VolumeParameter<Quality>
 		{
-			[MethodImpl(MethodImplOptions.NoInlining)]
-			public QualityParameter(Quality value, bool overrideState = false)
-			{
-				throw null;
-			}
+//			[MethodImpl(MethodImplOptions.NoInlining)]
+//			public QualityParameter(Quality value, bool overrideState = false)
+//			{
+//				throw null;
+//			}
 		}
 
 		[Serializable]
 		public sealed class DeinterleavingParameter : VolumeParameter<Deinterleaving>
 		{
-			[MethodImpl(MethodImplOptions.NoInlining)]
-			public DeinterleavingParameter(Deinterleaving value, bool overrideState = false)
-			{
-				throw null;
-			}
+//			[MethodImpl(MethodImplOptions.NoInlining)]
+//			public DeinterleavingParameter(Deinterleaving value, bool overrideState = false)
+//			{
+//				throw null;
+//			}
 		}
 
 		[Serializable]
 		public sealed class ResolutionParameter : VolumeParameter<Resolution>
 		{
-			[MethodImpl(MethodImplOptions.NoInlining)]
-			public ResolutionParameter(Resolution value, bool overrideState = false)
-			{
-				throw null;
-			}
+//			[MethodImpl(MethodImplOptions.NoInlining)]
+//			public ResolutionParameter(Resolution value, bool overrideState = false)
+//			{
+//				throw null;
+//			}
 		}
 
 		[Serializable]
 		public sealed class NoiseTypeParameter : VolumeParameter<NoiseType>
 		{
-			[MethodImpl(MethodImplOptions.NoInlining)]
-			public NoiseTypeParameter(NoiseType value, bool overrideState = false)
-			{
-				throw null;
-			}
+//			[MethodImpl(MethodImplOptions.NoInlining)]
+//			public NoiseTypeParameter(NoiseType value, bool overrideState = false)
+//			{
+//				throw null;
+//			}
 		}
 
 		[Serializable]
 		public sealed class DebugModeParameter : VolumeParameter<DebugMode>
 		{
-			[MethodImpl(MethodImplOptions.NoInlining)]
-			public DebugModeParameter(DebugMode value, bool overrideState = false)
-			{
-				throw null;
-			}
+//			[MethodImpl(MethodImplOptions.NoInlining)]
+//			public DebugModeParameter(DebugMode value, bool overrideState = false)
+//			{
+//				throw null;
+//			}
 		}
 
 		[Serializable]
 		public sealed class PerPixelNormalsParameter : VolumeParameter<PerPixelNormals>
 		{
-			[MethodImpl(MethodImplOptions.NoInlining)]
-			public PerPixelNormalsParameter(PerPixelNormals value, bool overrideState = false)
-			{
-				throw null;
-			}
+//			[MethodImpl(MethodImplOptions.NoInlining)]
+//			public PerPixelNormalsParameter(PerPixelNormals value, bool overrideState = false)
+//			{
+//				throw null;
+//			}
 		}
 
 		[Serializable]
 		public sealed class VarianceClippingParameter : VolumeParameter<VarianceClipping>
 		{
-			[MethodImpl(MethodImplOptions.NoInlining)]
-			public VarianceClippingParameter(VarianceClipping value, bool overrideState = false)
-			{
-				throw null;
-			}
+//			[MethodImpl(MethodImplOptions.NoInlining)]
+//			public VarianceClippingParameter(VarianceClipping value, bool overrideState = false)
+//			{
+//				throw null;
+//			}
 		}
 
 		[Serializable]
 		public sealed class BlurTypeParameter : VolumeParameter<BlurType>
 		{
-			[MethodImpl(MethodImplOptions.NoInlining)]
-			public BlurTypeParameter(BlurType value, bool overrideState = false)
-			{
-				throw null;
-			}
+//			[MethodImpl(MethodImplOptions.NoInlining)]
+//			public BlurTypeParameter(BlurType value, bool overrideState = false)
+//			{
+//				throw null;
+//			}
 		}
 
 		[Serializable]
 		public sealed class MinMaxFloatParameter : VolumeParameter<Vector2>
 		{
-			public float min;
-
-			public float max;
-
-			[MethodImpl(MethodImplOptions.NoInlining)]
+//			public float min;
+//
+//			public float max;
+//
+//			[MethodImpl(MethodImplOptions.NoInlining)]
 			public MinMaxFloatParameter(Vector2 value, float min, float max, bool overrideState = false)
 			{
 				throw null;
@@ -752,17 +752,17 @@ namespace HorizonBasedAmbientOcclusion.Universal
 			throw null;
 		}
 
-		[MethodImpl(MethodImplOptions.NoInlining)]
-		public bool IsActive()
-		{
-			throw null;
-		}
+//		[MethodImpl(MethodImplOptions.NoInlining)]
+//		public bool IsActive()
+//		{
+//			throw null;
+//		}
 
-		[MethodImpl(MethodImplOptions.NoInlining)]
-		public bool IsTileCompatible()
-		{
-			throw null;
-		}
+//		[MethodImpl(MethodImplOptions.NoInlining)]
+//		public bool IsTileCompatible()
+//		{
+//			throw null;
+//		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		public HBAO()

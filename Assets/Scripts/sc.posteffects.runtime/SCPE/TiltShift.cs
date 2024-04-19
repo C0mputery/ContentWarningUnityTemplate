@@ -9,7 +9,7 @@ namespace SCPE
 	[Serializable]
 	[VolumeComponentMenu("SC Post Effects/Blurring/Tilt Shift")]
 	[SupportedOnRenderPipeline(new Type[] { typeof(UniversalRenderPipelineAsset) })]
-	public sealed class TiltShift : VolumeComponent, IPostProcessComponent
+	public sealed class TiltShift //: VolumeComponent, IPostProcessComponent
 	{
 		public enum TiltShiftMethod
 		{
@@ -20,11 +20,11 @@ namespace SCPE
 		[Serializable]
 		public sealed class TiltShifMethodParameter : VolumeParameter<TiltShiftMethod>
 		{
-			[MethodImpl(MethodImplOptions.NoInlining)]
-			public TiltShifMethodParameter()
-			{
-				throw null;
-			}
+//			[MethodImpl(MethodImplOptions.NoInlining)]
+//			public TiltShifMethodParameter()
+//			{
+//				throw null;
+//			}
 		}
 
 		public enum Quality
@@ -36,11 +36,11 @@ namespace SCPE
 		[Serializable]
 		public sealed class TiltShiftQualityParameter : VolumeParameter<Quality>
 		{
-			[MethodImpl(MethodImplOptions.NoInlining)]
-			public TiltShiftQualityParameter()
-			{
-				throw null;
-			}
+//			[MethodImpl(MethodImplOptions.NoInlining)]
+//			public TiltShiftQualityParameter()
+//			{
+//				throw null;
+//			}
 		}
 
 		[Tooltip("The amount of blurring that must be performed")]
@@ -64,23 +64,23 @@ namespace SCPE
 		[SerializeField]
 		public Shader shader;
 
-		[MethodImpl(MethodImplOptions.NoInlining)]
-		public bool IsActive()
-		{
-			throw null;
-		}
+//		[MethodImpl(MethodImplOptions.NoInlining)]
+//		public bool IsActive()
+//		{
+//			throw null;
+//		}
 
-		[MethodImpl(MethodImplOptions.NoInlining)]
-		public bool IsTileCompatible()
-		{
-			throw null;
-		}
+//		[MethodImpl(MethodImplOptions.NoInlining)]
+//		public bool IsTileCompatible()
+//		{
+//			throw null;
+//		}
 
-		[MethodImpl(MethodImplOptions.NoInlining)]
-		private void Reset()
-		{
-			throw null;
-		}
+//		[MethodImpl(MethodImplOptions.NoInlining)]
+//		private void Reset()
+//		{
+//			throw null;
+//		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		private bool SerializeShader()

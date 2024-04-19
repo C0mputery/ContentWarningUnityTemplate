@@ -9,7 +9,7 @@ namespace SCPE
 	[Serializable]
 	[VolumeComponentMenu("SC Post Effects/Screen/Gradient")]
 	[SupportedOnRenderPipeline(new Type[] { typeof(UniversalRenderPipelineAsset) })]
-	public sealed class Gradient : VolumeComponent, IPostProcessComponent
+	public sealed class Gradient //: VolumeComponent, IPostProcessComponent
 	{
 		public enum Mode
 		{
@@ -20,11 +20,11 @@ namespace SCPE
 		[Serializable]
 		public sealed class GradientModeParameter : VolumeParameter<Mode>
 		{
-			[MethodImpl(MethodImplOptions.NoInlining)]
-			public GradientModeParameter()
-			{
-				throw null;
-			}
+//			[MethodImpl(MethodImplOptions.NoInlining)]
+//			public GradientModeParameter()
+//			{
+//				throw null;
+//			}
 		}
 
 		public enum BlendMode
@@ -38,11 +38,11 @@ namespace SCPE
 		[Serializable]
 		public sealed class BlendModeParameter : VolumeParameter<BlendMode>
 		{
-			[MethodImpl(MethodImplOptions.NoInlining)]
-			public BlendModeParameter()
-			{
-				throw null;
-			}
+//			[MethodImpl(MethodImplOptions.NoInlining)]
+//			public BlendModeParameter()
+//			{
+//				throw null;
+//			}
 		}
 
 		public ClampedFloatParameter intensity;
@@ -67,23 +67,23 @@ namespace SCPE
 		[SerializeField]
 		public Shader shader;
 
-		[MethodImpl(MethodImplOptions.NoInlining)]
-		public bool IsActive()
-		{
-			throw null;
-		}
+//		[MethodImpl(MethodImplOptions.NoInlining)]
+//		public bool IsActive()
+//		{
+//			throw null;
+//		}
 
-		[MethodImpl(MethodImplOptions.NoInlining)]
-		public bool IsTileCompatible()
-		{
-			throw null;
-		}
+//		[MethodImpl(MethodImplOptions.NoInlining)]
+//		public bool IsTileCompatible()
+//		{
+//			throw null;
+//		}
 
-		[MethodImpl(MethodImplOptions.NoInlining)]
-		private void Reset()
-		{
-			throw null;
-		}
+//		[MethodImpl(MethodImplOptions.NoInlining)]
+//		private void Reset()
+//		{
+//			throw null;
+//		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		private bool SerializeShader()

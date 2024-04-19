@@ -9,7 +9,7 @@ namespace SCPE
 	[Serializable]
 	[VolumeComponentMenu("SC Post Effects/Retro/Scanlines")]
 	[SupportedOnRenderPipeline(new Type[] { typeof(UniversalRenderPipelineAsset) })]
-	public sealed class Scanlines : VolumeComponent, IPostProcessComponent
+	public sealed class Scanlines //: VolumeComponent, IPostProcessComponent
 	{
 		[Range(0f, 1f)]
 		[Tooltip("Intensity")]
@@ -26,23 +26,23 @@ namespace SCPE
 		[SerializeField]
 		public Shader shader;
 
-		[MethodImpl(MethodImplOptions.NoInlining)]
-		public bool IsActive()
-		{
-			throw null;
-		}
+//		[MethodImpl(MethodImplOptions.NoInlining)]
+//		public bool IsActive()
+//		{
+//			throw null;
+//		}
 
-		[MethodImpl(MethodImplOptions.NoInlining)]
-		public bool IsTileCompatible()
-		{
-			throw null;
-		}
+//		[MethodImpl(MethodImplOptions.NoInlining)]
+//		public bool IsTileCompatible()
+//		{
+//			throw null;
+//		}
 
-		[MethodImpl(MethodImplOptions.NoInlining)]
-		private void Reset()
-		{
-			throw null;
-		}
+//		[MethodImpl(MethodImplOptions.NoInlining)]
+//		private void Reset()
+//		{
+//			throw null;
+//		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		private bool SerializeShader()

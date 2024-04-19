@@ -9,7 +9,7 @@ namespace SCPE
 	[Serializable]
 	[VolumeComponentMenu("SC Post Effects/Retro/Color Split")]
 	[SupportedOnRenderPipeline(new Type[] { typeof(UniversalRenderPipelineAsset) })]
-	public sealed class ColorSplit : VolumeComponent, IPostProcessComponent
+	public sealed class ColorSplit //: VolumeComponent, IPostProcessComponent
 	{
 		public enum SplitMode
 		{
@@ -22,11 +22,11 @@ namespace SCPE
 		[Serializable]
 		public sealed class SplitModeParam : VolumeParameter<SplitMode>
 		{
-			[MethodImpl(MethodImplOptions.NoInlining)]
-			public SplitModeParam()
-			{
-				throw null;
-			}
+//			[MethodImpl(MethodImplOptions.NoInlining)]
+//			public SplitModeParam()
+//			{
+//				throw null;
+//			}
 		}
 
 		[Tooltip("Box filtered methods provide a subtle blur effect and are less efficient")]
@@ -46,23 +46,23 @@ namespace SCPE
 		[SerializeField]
 		public Shader shader;
 
-		[MethodImpl(MethodImplOptions.NoInlining)]
-		public bool IsActive()
-		{
-			throw null;
-		}
+//		[MethodImpl(MethodImplOptions.NoInlining)]
+//		public bool IsActive()
+//		{
+//			throw null;
+//		}
 
-		[MethodImpl(MethodImplOptions.NoInlining)]
-		public bool IsTileCompatible()
-		{
-			throw null;
-		}
+//		[MethodImpl(MethodImplOptions.NoInlining)]
+//		public bool IsTileCompatible()
+//		{
+//			throw null;
+//		}
 
-		[MethodImpl(MethodImplOptions.NoInlining)]
-		private void Reset()
-		{
-			throw null;
-		}
+//		[MethodImpl(MethodImplOptions.NoInlining)]
+//		private void Reset()
+//		{
+//			throw null;
+//		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		private bool SerializeShader()

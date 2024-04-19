@@ -9,16 +9,16 @@ namespace SCPE
 	[Serializable]
 	[VolumeComponentMenu("SC Post Effects/Environment/Fog")]
 	[SupportedOnRenderPipeline(new Type[] { typeof(UniversalRenderPipelineAsset) })]
-	public sealed class Fog : VolumeComponent, IPostProcessComponent
+	public sealed class Fog //: VolumeComponent, IPostProcessComponent
 	{
 		[Serializable]
 		public sealed class FogModeParameter : VolumeParameter<FogMode>
 		{
-			[MethodImpl(MethodImplOptions.NoInlining)]
-			public FogModeParameter()
-			{
-				throw null;
-			}
+//			[MethodImpl(MethodImplOptions.NoInlining)]
+//			public FogModeParameter()
+//			{
+//				throw null;
+//			}
 		}
 
 		public enum FogColorSource
@@ -31,11 +31,11 @@ namespace SCPE
 		[Serializable]
 		public sealed class FogColorSourceParameter : VolumeParameter<FogColorSource>
 		{
-			[MethodImpl(MethodImplOptions.NoInlining)]
-			public FogColorSourceParameter()
-			{
-				throw null;
-			}
+//			[MethodImpl(MethodImplOptions.NoInlining)]
+//			public FogColorSourceParameter()
+//			{
+//				throw null;
+//			}
 		}
 
 		[Range(0f, 1f)]
@@ -151,23 +151,23 @@ namespace SCPE
 		[SerializeField]
 		public Shader shader;
 
-		[MethodImpl(MethodImplOptions.NoInlining)]
-		public bool IsActive()
-		{
-			throw null;
-		}
+//		[MethodImpl(MethodImplOptions.NoInlining)]
+//		public bool IsActive()
+//		{
+//			throw null;
+//		}
 
-		[MethodImpl(MethodImplOptions.NoInlining)]
-		public bool IsTileCompatible()
-		{
-			throw null;
-		}
+//		[MethodImpl(MethodImplOptions.NoInlining)]
+//		public bool IsTileCompatible()
+//		{
+//			throw null;
+//		}
 
-		[MethodImpl(MethodImplOptions.NoInlining)]
-		private void Reset()
-		{
-			throw null;
-		}
+//		[MethodImpl(MethodImplOptions.NoInlining)]
+//		private void Reset()
+//		{
+//			throw null;
+//		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		private bool SerializeShader()

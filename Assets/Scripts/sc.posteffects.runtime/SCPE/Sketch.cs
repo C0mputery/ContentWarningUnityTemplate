@@ -9,7 +9,7 @@ namespace SCPE
 	[Serializable]
 	[VolumeComponentMenu("SC Post Effects/Stylized/Sketch")]
 	[SupportedOnRenderPipeline(new Type[] { typeof(UniversalRenderPipelineAsset) })]
-	public sealed class Sketch : VolumeComponent, IPostProcessComponent
+	public sealed class Sketch //: VolumeComponent, IPostProcessComponent
 	{
 		public enum SketchProjectionMode
 		{
@@ -20,11 +20,11 @@ namespace SCPE
 		[Serializable]
 		public sealed class SketchProjectionParameter : VolumeParameter<SketchProjectionMode>
 		{
-			[MethodImpl(MethodImplOptions.NoInlining)]
-			public SketchProjectionParameter()
-			{
-				throw null;
-			}
+//			[MethodImpl(MethodImplOptions.NoInlining)]
+//			public SketchProjectionParameter()
+//			{
+//				throw null;
+//			}
 		}
 
 		public enum SketchMode
@@ -37,11 +37,11 @@ namespace SCPE
 		[Serializable]
 		public sealed class SketchModeParameter : VolumeParameter<SketchMode>
 		{
-			[MethodImpl(MethodImplOptions.NoInlining)]
-			public SketchModeParameter()
-			{
-				throw null;
-			}
+//			[MethodImpl(MethodImplOptions.NoInlining)]
+//			public SketchModeParameter()
+//			{
+//				throw null;
+//			}
 		}
 
 		[Tooltip("The Red channel is used for darker shades, whereas the Green channel is for lighter.")]
@@ -65,23 +65,23 @@ namespace SCPE
 		[SerializeField]
 		public Shader shader;
 
-		[MethodImpl(MethodImplOptions.NoInlining)]
-		public bool IsActive()
-		{
-			throw null;
-		}
+//		[MethodImpl(MethodImplOptions.NoInlining)]
+//		public bool IsActive()
+//		{
+//			throw null;
+//		}
 
-		[MethodImpl(MethodImplOptions.NoInlining)]
-		public bool IsTileCompatible()
-		{
-			throw null;
-		}
+//		[MethodImpl(MethodImplOptions.NoInlining)]
+//		public bool IsTileCompatible()
+//		{
+//			throw null;
+//		}
 
-		[MethodImpl(MethodImplOptions.NoInlining)]
-		private void Reset()
-		{
-			throw null;
-		}
+//		[MethodImpl(MethodImplOptions.NoInlining)]
+//		private void Reset()
+//		{
+//			throw null;
+//		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		private bool SerializeShader()

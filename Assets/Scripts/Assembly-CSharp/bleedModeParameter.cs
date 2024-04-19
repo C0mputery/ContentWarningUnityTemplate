@@ -5,9 +5,9 @@ using UnityEngine.Rendering;
 [Serializable]
 public sealed class bleedModeParameter : VolumeParameter<BleedMode>
 {
-	[MethodImpl(MethodImplOptions.NoInlining)]
-	public bleedModeParameter()
-	{
-
-	}
+//	[MethodImpl(MethodImplOptions.NoInlining)]
+//	public bleedModeParameter()
+//	{
+//
+//	}
 }

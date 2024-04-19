@@ -6,9 +6,9 @@ using UnityEngine.Rendering;
 [Serializable]
 public sealed class preLParameter : VolumeParameter<effectPresets>
 {
-	[MethodImpl(MethodImplOptions.NoInlining)]
-	public preLParameter()
-	{
-
-	}
+//	[MethodImpl(MethodImplOptions.NoInlining)]
+//	public preLParameter()
+//	{
+//
+//	}
 }

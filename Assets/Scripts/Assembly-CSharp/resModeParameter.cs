@@ -6,9 +6,9 @@ using UnityEngine.Rendering;
 [Serializable]
 public sealed class resModeParameter : VolumeParameter<ResolutionMode>
 {
-	[MethodImpl(MethodImplOptions.NoInlining)]
-	public resModeParameter()
-	{
-
-	}
+//	[MethodImpl(MethodImplOptions.NoInlining)]
+//	public resModeParameter()
+//	{
+//
+//	}
 }

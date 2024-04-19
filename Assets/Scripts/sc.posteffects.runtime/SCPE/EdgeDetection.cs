@@ -9,7 +9,7 @@ namespace SCPE
 	[Serializable]
 	[VolumeComponentMenu("SC Post Effects/Stylized/Edge Detection")]
 	[SupportedOnRenderPipeline(new Type[] { typeof(UniversalRenderPipelineAsset) })]
-	public sealed class EdgeDetection : VolumeComponent, IPostProcessComponent
+	public sealed class EdgeDetection //: VolumeComponent, IPostProcessComponent
 	{
 		public enum EdgeDetectMode
 		{
@@ -22,11 +22,11 @@ namespace SCPE
 		[Serializable]
 		public sealed class EdgeDetectionMode : VolumeParameter<EdgeDetectMode>
 		{
-			[MethodImpl(MethodImplOptions.NoInlining)]
-			public EdgeDetectionMode()
-			{
-				throw null;
-			}
+//			[MethodImpl(MethodImplOptions.NoInlining)]
+//			public EdgeDetectionMode()
+//			{
+//				throw null;
+//			}
 		}
 
 		[Range(0f, 1f)]
@@ -90,23 +90,23 @@ namespace SCPE
 		[SerializeField]
 		public Shader shader;
 
-		[MethodImpl(MethodImplOptions.NoInlining)]
-		public bool IsActive()
-		{
-			throw null;
-		}
+//		[MethodImpl(MethodImplOptions.NoInlining)]
+//		public bool IsActive()
+//		{
+//			throw null;
+//		}
 
-		[MethodImpl(MethodImplOptions.NoInlining)]
-		public bool IsTileCompatible()
-		{
-			throw null;
-		}
+//		[MethodImpl(MethodImplOptions.NoInlining)]
+//		public bool IsTileCompatible()
+//		{
+//			throw null;
+//		}
 
-		[MethodImpl(MethodImplOptions.NoInlining)]
-		private void Reset()
-		{
-			throw null;
-		}
+//		[MethodImpl(MethodImplOptions.NoInlining)]
+//		private void Reset()
+//		{
+//			throw null;
+//		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		private bool SerializeShader()

@@ -9,7 +9,7 @@ namespace SCPE
 	[Serializable]
 	[VolumeComponentMenu("SC Post Effects/Environment/Sun Shafts")]
 	[SupportedOnRenderPipeline(new Type[] { typeof(UniversalRenderPipelineAsset) })]
-	public sealed class Sunshafts : VolumeComponent, IPostProcessComponent
+	public sealed class Sunshafts //: VolumeComponent, IPostProcessComponent
 	{
 		public enum BlendMode
 		{
@@ -28,21 +28,21 @@ namespace SCPE
 		[Serializable]
 		public sealed class SunShaftsSourceParameter : VolumeParameter<BlendMode>
 		{
-			[MethodImpl(MethodImplOptions.NoInlining)]
-			public SunShaftsSourceParameter()
-			{
-				throw null;
-			}
+//			[MethodImpl(MethodImplOptions.NoInlining)]
+//			public SunShaftsSourceParameter()
+//			{
+//				throw null;
+//			}
 		}
 
 		[Serializable]
 		public sealed class SunShaftsResolutionParameter : VolumeParameter<SunShaftsResolution>
 		{
-			[MethodImpl(MethodImplOptions.NoInlining)]
-			public SunShaftsResolutionParameter()
-			{
-				throw null;
-			}
+//			[MethodImpl(MethodImplOptions.NoInlining)]
+//			public SunShaftsResolutionParameter()
+//			{
+//				throw null;
+//			}
 		}
 
 		[Tooltip("Use the color of the Directional Light that's set as the caster")]
@@ -87,23 +87,23 @@ namespace SCPE
 		[SerializeField]
 		public Shader shader;
 
-		[MethodImpl(MethodImplOptions.NoInlining)]
-		public bool IsActive()
-		{
-			throw null;
-		}
+//		[MethodImpl(MethodImplOptions.NoInlining)]
+//		public bool IsActive()
+//		{
+//			throw null;
+//		}
 
-		[MethodImpl(MethodImplOptions.NoInlining)]
-		public bool IsTileCompatible()
-		{
-			throw null;
-		}
+//		[MethodImpl(MethodImplOptions.NoInlining)]
+//		public bool IsTileCompatible()
+//		{
+//			throw null;
+//		}
 
-		[MethodImpl(MethodImplOptions.NoInlining)]
-		private void Reset()
-		{
-			throw null;
-		}
+//		[MethodImpl(MethodImplOptions.NoInlining)]
+//		private void Reset()
+//		{
+//			throw null;
+//		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		private bool SerializeShader()

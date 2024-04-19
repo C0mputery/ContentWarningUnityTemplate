@@ -9,7 +9,7 @@ namespace SCPE
 	[Serializable]
 	[VolumeComponentMenu("SC Post Effects/Screen/Tube Distortion")]
 	[SupportedOnRenderPipeline(new Type[] { typeof(UniversalRenderPipelineAsset) })]
-	public sealed class TubeDistortion : VolumeComponent, IPostProcessComponent
+	public sealed class TubeDistortion //: VolumeComponent, IPostProcessComponent
 	{
 		public enum DistortionMode
 		{
@@ -21,11 +21,11 @@ namespace SCPE
 		[Serializable]
 		public sealed class DistortionModeParam : VolumeParameter<DistortionMode>
 		{
-			[MethodImpl(MethodImplOptions.NoInlining)]
-			public DistortionModeParam()
-			{
-				throw null;
-			}
+//			[MethodImpl(MethodImplOptions.NoInlining)]
+//			public DistortionModeParam()
+//			{
+//				throw null;
+//			}
 		}
 
 		public DistortionModeParam mode;
@@ -36,23 +36,23 @@ namespace SCPE
 		[SerializeField]
 		public Shader shader;
 
-		[MethodImpl(MethodImplOptions.NoInlining)]
-		public bool IsActive()
-		{
-			throw null;
-		}
+//		[MethodImpl(MethodImplOptions.NoInlining)]
+//		public bool IsActive()
+//		{
+//			throw null;
+//		}
 
-		[MethodImpl(MethodImplOptions.NoInlining)]
-		public bool IsTileCompatible()
-		{
-			throw null;
-		}
+//		[MethodImpl(MethodImplOptions.NoInlining)]
+//		public bool IsTileCompatible()
+//		{
+//			throw null;
+//		}
 
-		[MethodImpl(MethodImplOptions.NoInlining)]
-		private void Reset()
-		{
-			throw null;
-		}
+//		[MethodImpl(MethodImplOptions.NoInlining)]
+//		private void Reset()
+//		{
+//			throw null;
+//		}
 
 		[MethodImpl(MethodImplOptions.NoInlining)]
 		private bool SerializeShader()

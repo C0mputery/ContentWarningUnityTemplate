@@ -6,9 +6,9 @@ using UnityEngine.Rendering;
 [Serializable]
 public sealed class maskChannelModeParameter : VolumeParameter<maskChannelMode>
 {
-	[MethodImpl(MethodImplOptions.NoInlining)]
-	public maskChannelModeParameter()
-	{
-
-	}
+//	[MethodImpl(MethodImplOptions.NoInlining)]
+//	public maskChannelModeParameter()
+//	{
+//
+//	}
 }

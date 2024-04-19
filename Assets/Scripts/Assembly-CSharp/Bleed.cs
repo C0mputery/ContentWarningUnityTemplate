@@ -4,7 +4,7 @@ using UnityEngine.Rendering;
 using UnityEngine.Rendering.Universal;
 
 [VolumeComponentMenu("Retro Look Pro/Bleed")]
-public class Bleed : VolumeComponent, IPostProcessComponent
+public class Bleed //: VolumeComponent, IPostProcessComponent
 {
 	public BoolParameter enable;
 
@@ -29,17 +29,17 @@ public class Bleed : VolumeComponent, IPostProcessComponent
 
 	public int bleedModeIndex;
 
-	[MethodImpl(MethodImplOptions.NoInlining)]
-	public bool IsActive()
-	{
-		throw null;
-	}
+//	[MethodImpl(MethodImplOptions.NoInlining)]
+//	public bool IsActive()
+//	{
+//		throw null;
+//	}
 
-	[MethodImpl(MethodImplOptions.NoInlining)]
-	public bool IsTileCompatible()
-	{
-		throw null;
-	}
+//	[MethodImpl(MethodImplOptions.NoInlining)]
+//	public bool IsTileCompatible()
+//	{
+//		throw null;
+//	}
 
 	[MethodImpl(MethodImplOptions.NoInlining)]
 	public Bleed()

@@ -6,9 +6,9 @@ using UnityEngine.Rendering;
 [Serializable]
 public sealed class Vector2IntParameter : VolumeParameter<Vector2Int>
 {
-	[MethodImpl(MethodImplOptions.NoInlining)]
-	public Vector2IntParameter()
-	{
-
-	}
+//	[MethodImpl(MethodImplOptions.NoInlining)]
+//	public Vector2IntParameter()
+//	{
+//
+//	}
 }

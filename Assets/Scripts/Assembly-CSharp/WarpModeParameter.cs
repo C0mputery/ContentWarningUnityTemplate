@@ -6,9 +6,9 @@ using UnityEngine.Rendering;
 [Serializable]
 public sealed class WarpModeParameter : VolumeParameter<WarpMode>
 {
-	[MethodImpl(MethodImplOptions.NoInlining)]
-	public WarpModeParameter()
-	{
-
-	}
+//	[MethodImpl(MethodImplOptions.NoInlining)]
+//	public WarpModeParameter()
+//	{
+//
+//	}
 }
